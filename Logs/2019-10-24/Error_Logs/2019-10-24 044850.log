@@ -1,0 +1,7 @@
+2019-10-24 04:49:21,239 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：Message: 
+
+2019-10-24 04:49:30,581 - selenium - ERROR - test_007_register  - 133 - Failure of test case execution! Reason: '帐号已存在' != '验证码错误'
+- 帐号已存在
++ 验证码错误
+ : Assert Verification fail：expected outcome{验证码错误} != actual results{帐号已存在}
+

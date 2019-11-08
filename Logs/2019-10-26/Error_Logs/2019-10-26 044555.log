@@ -1,0 +1,42 @@
+2019-10-26 04:47:22,683 - selenium - ERROR - test_004_genero  - 272 - Failure of test case execution! Reason: '页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/' != '请登录'
+- 页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
++ 请登录
+ : Assert Verification fail：expected outcome{请登录} != actual results{页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/}
+
+2019-10-26 04:48:09,201 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '帐号或密码错误' not found in '验证码请务必输入'
+
+2019-10-26 04:48:10,107 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '帐号不存在' not found in '验证码请务必输入'
+
+2019-10-26 04:48:11,001 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '用户名 必须全部由字母、数字、中划线或下划线字符构成' not found in '验证码请务必输入'
+
+2019-10-26 04:48:11,311 - selenium - ERROR - page_login  - 57 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-26 04:48:11,658 - selenium - ERROR - page_login  - 57 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-26 04:48:11,995 - selenium - ERROR - page_login  - 57 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-26 04:48:51,147 - selenium - ERROR - page_messages  - 229 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 04:49:22,697 - selenium - ERROR - page_realTimeBackWater  - 202 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 04:49:40,415 - selenium - ERROR - page_bettingRecord  - 189 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 04:50:01,657 - selenium - ERROR - page_updatePassword  - 401 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 04:52:36,913 - selenium - ERROR - test_011_accountSecurity  - 311 - Failure of test cases execution：'请选择密保问题' not found in '请输入新密保答案' : Assert Verification fail：expected outcome{请选择密保问题} != actual results{请输入新密保答案}
+
+2019-10-26 04:53:38,628 - selenium - ERROR - page_onlineDeposit  - 525 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 04:55:30,415 - selenium - ERROR - page_onlineWithdrawal  - 386 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 04:57:45,165 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:45,249 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:45,699 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:45,933 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:46,110 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:47,748 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:48,089 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:49,242 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:50,566 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:51,763 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:51,882 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:52,924 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:57:53,209 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 04:58:10,076 - selenium - ERROR - test_013_bindBankCard  - 334 - Failure of test case execution:{提款人姓名}输入框状态为:True！输入框可编辑，则跳过用例test_bing_bank_card_005

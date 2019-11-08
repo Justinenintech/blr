@@ -1,0 +1,20 @@
+2019-10-24 07:17:48,189 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:17:48,189 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:17:48,189 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:17:48,189 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:17:49,800 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:17:49,920 - selenium - INFO - Browser maximization
+2019-10-24 07:17:49,933 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:17:50,837 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:17:50,963 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:17:51,212 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 07:17:51,212 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段是否为必填项
+2019-10-24 07:17:51,213 - selenium - INFO - input data:name:,pwd:,suc:0,assert:请输入账号
+2019-10-24 07:17:51,271 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:17:51,482 - selenium - INFO - Input content：
+2019-10-24 07:17:51,522 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:17:51,726 - selenium - INFO - Input content：
+2019-10-24 07:17:51,769 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:17:51,852 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:17:51,945 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon']
+2019-10-24 07:17:58,230 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement

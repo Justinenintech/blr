@@ -1,0 +1,191 @@
+2019-10-24 07:51:15,202 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:51:15,202 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:51:15,202 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:51:15,203 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:51:17,087 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:51:17,212 - selenium - INFO - Browser maximization
+2019-10-24 07:51:17,220 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:51:18,165 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:51:18,269 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:51:18,589 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 07:51:18,590 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段是否为必填项
+2019-10-24 07:51:18,590 - selenium - INFO - input data:name:,pwd:,suc:0,assert:请输入账号
+2019-10-24 07:51:18,654 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:18,814 - selenium - INFO - Input content：
+2019-10-24 07:51:18,859 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:19,048 - selenium - INFO - Input content：
+2019-10-24 07:51:19,113 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:19,336 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:19,441 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:19,701 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:19,736 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:19,780 - selenium - INFO - Obtained text：请输入帐号
+2019-10-24 07:51:20,595 - selenium - ERROR - Failure of test case execution! Reason: '请输入账号' not found in '请输入帐号'
+
+2019-10-24 07:51:20,596 - selenium - INFO - Executing use test case:登录测试用例，检测密码字段是否为必填项
+2019-10-24 07:51:20,596 - selenium - INFO - input data:name:liwanlei,pwd:,suc:0,assert:请输入密码
+2019-10-24 07:51:20,650 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:20,820 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:20,846 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:20,932 - selenium - INFO - Input content：
+2019-10-24 07:51:20,951 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:21,020 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:21,049 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:21,137 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:21,164 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:21,245 - selenium - INFO - Obtained text：请输入密码
+2019-10-24 07:51:22,040 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 07:51:22,040 - selenium - INFO - Successful execution of test cases:登录测试用例，检测密码字段是否为必填项
+
+2019-10-24 07:51:22,040 - selenium - INFO - Executing use test case:登录测试用例，检测已存在的账号和错误的密码，是否能阻止登录，提示信息是否准确
+2019-10-24 07:51:22,040 - selenium - INFO - input data:name:yusheng,pwd:liwanlei11,suc:0,assert:帐号或密码错误
+2019-10-24 07:51:22,100 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:22,278 - selenium - INFO - Input content：yusheng
+2019-10-24 07:51:22,297 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:22,679 - selenium - INFO - Input content：liwanlei11
+2019-10-24 07:51:22,700 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:22,848 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:22,929 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:23,231 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:23,344 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:23,366 - selenium - INFO - Obtained text：帐号不存在
+2019-10-24 07:51:23,988 - selenium - ERROR - Failure of test case execution! Reason: '帐号或密码错误' not found in '帐号不存在'
+
+2019-10-24 07:51:23,989 - selenium - INFO - Executing use test case:登录测试用例，检测未存在的账号和错误的密码，是否能阻止登录，提示信息是否准确（纯字母）
+2019-10-24 07:51:23,989 - selenium - INFO - input data:name:liwanlei,pwd:liwanlei,suc:0,assert:账号不存在
+2019-10-24 07:51:24,017 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:24,280 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:24,302 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:24,516 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:24,542 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:24,606 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:24,637 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:24,820 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:24,839 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:24,884 - selenium - INFO - Obtained text：帐号不存在
+2019-10-24 07:51:25,479 - selenium - ERROR - Failure of test case execution! Reason: '账号不存在' not found in '帐号不存在'
+
+2019-10-24 07:51:25,480 - selenium - INFO - Executing use test case:登录测试用例，检测未存在的账号和错误的密码，是否能阻止登录，提示信息是否准确（字母\数字\特殊字符组合）
+2019-10-24 07:51:25,480 - selenium - INFO - input data:name:###@*&_,pwd:liwanlei,suc:0,assert:用户名 必须全部由字母、数字、中划线或下划线字符构成
+2019-10-24 07:51:25,574 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:25,784 - selenium - INFO - Input content：###@*&_
+2019-10-24 07:51:25,822 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:26,069 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:26,093 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:26,183 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:26,210 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:26,374 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:26,398 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:26,440 - selenium - INFO - Obtained text：用户名 必须全部由字母、数字、中划线或下划线字符构成
+2019-10-24 07:51:27,063 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 07:51:27,063 - selenium - INFO - Successful execution of test cases:登录测试用例，检测未存在的账号和错误的密码，是否能阻止登录，提示信息是否准确（字母\数字\特殊字符组合）
+
+2019-10-24 07:51:27,063 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段长度不否符合规则，是否能阻止登录，提示信息是否准确（长度1）
+2019-10-24 07:51:27,063 - selenium - INFO - input data:name:y,pwd:liwanlei,suc:0,assert:请输入6-10位数字或字母组成的帐号
+2019-10-24 07:51:27,112 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:27,289 - selenium - INFO - Input content：y
+2019-10-24 07:51:27,315 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:27,679 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:27,730 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:27,998 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:28,046 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:28,269 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:28,320 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:28,396 - selenium - INFO - Obtained text：请输入6-10位数字或字母组成的帐号
+2019-10-24 07:51:29,105 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 07:51:29,105 - selenium - INFO - Successful execution of test cases:登录测试用例，检测账号字段长度不否符合规则，是否能阻止登录，提示信息是否准确（长度1）
+
+2019-10-24 07:51:29,106 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段长度是否符合规则，是否能阻止登录，提示信息是否准确（长度5）
+2019-10-24 07:51:29,107 - selenium - INFO - input data:name:enint,pwd:liwanlei,suc:0,assert:请输入6-10位数字或字母组成的帐号
+2019-10-24 07:51:29,133 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:29,452 - selenium - INFO - Input content：enint
+2019-10-24 07:51:29,477 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:29,983 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:30,014 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:30,103 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:30,121 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:30,320 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:30,350 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:30,383 - selenium - INFO - Obtained text：帐号不存在
+2019-10-24 07:51:31,052 - selenium - ERROR - Failure of test case execution! Reason: '请输入6-10位数字或字母组成的帐号' not found in '帐号不存在'
+
+2019-10-24 07:51:31,053 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段长度是否符合规则，是否能阻止登录，提示信息是否准确（长度11）
+2019-10-24 07:51:31,053 - selenium - INFO - input data:name:enint678911,pwd:liwanlei,suc:0,assert:请输入6-10位数字或字母组成的帐号
+2019-10-24 07:51:31,071 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:31,233 - selenium - INFO - Input content：enint678911
+2019-10-24 07:51:31,274 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:31,551 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:51:31,601 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:31,735 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:31,754 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:31,979 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:51:32,022 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 07:51:32,071 - selenium - INFO - Obtained text：帐号不存在
+2019-10-24 07:51:32,652 - selenium - ERROR - Failure of test case execution! Reason: '请输入6-10位数字或字母组成的帐号' not found in '帐号不存在'
+
+2019-10-24 07:51:32,715 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:51:32,716 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:51:32,716 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:51:32,716 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:51:34,270 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:51:34,386 - selenium - INFO - Browser maximization
+2019-10-24 07:51:34,394 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:51:34,395 - selenium - INFO - Executing test cases：新注册会员，登录情况下，访问投注记录
+2019-10-24 07:51:35,338 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:51:35,404 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:51:35,665 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 07:51:35,800 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:51:36,267 - selenium - INFO - Input content：enintech42
+2019-10-24 07:51:36,304 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:51:36,565 - selenium - INFO - Input content：12345678
+2019-10-24 07:51:47,654 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:51:47,745 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:51:47,745 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-24 07:51:48,761 - selenium - INFO - Forced wait 1 second
+2019-10-24 07:51:48,762 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-24 07:51:49,763 - selenium - INFO - Forced wait 1 second
+2019-10-24 07:52:01,336 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:52:01,336 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:52:01,336 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:52:01,336 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:52:01,990 - selenium - ERROR - Browser open error
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 377, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/Common/basePage.py", line 113, in open_browser
+    'javascriptEnabled': True})
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 402, in _request
+    resp = http.request(method, url, body=body, headers=headers)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/poolmanager.py", line 324, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1336, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

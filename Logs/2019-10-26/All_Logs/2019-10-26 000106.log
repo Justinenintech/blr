@@ -1,0 +1,428 @@
+2019-10-26 00:01:07,302 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-26 00:01:07,302 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-26 00:01:07,303 - selenium - INFO - 在section：environment下读取url的值
+2019-10-26 00:01:07,303 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-26 00:01:09,295 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-26 00:01:09,415 - selenium - INFO - Browser maximization
+2019-10-26 00:01:09,428 - selenium - INFO - Set static wait time 10 seconds
+2019-10-26 00:01:09,428 - selenium - INFO - Executing test cases：新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-26 00:01:10,385 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-26 00:01:10,640 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-26 00:01:10,846 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-26 00:01:11,107 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-26 00:01:11,735 - selenium - INFO - Input content：enintech28
+2019-10-26 00:01:11,775 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-26 00:01:12,099 - selenium - INFO - Input content：12345678
+2019-10-26 00:01:23,201 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-26 00:01:23,459 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-26 00:01:23,459 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 00:01:24,491 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:01:24,492 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-26 00:01:25,492 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:01:25,594 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-26 00:01:26,961 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-26 00:01:27,302 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:01:27,648 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-26 00:01:27,860 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-26 00:01:28,180 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:28,817 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:30,094 - selenium - INFO - Input content：
+2019-10-26 00:01:30,142 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:01:30,283 - selenium - INFO - Input content：
+2019-10-26 00:01:30,595 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:01:32,240 - selenium - INFO - Input content：
+2019-10-26 00:01:32,652 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:01:33,651 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:01:33,969 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:01:34,197 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-26 00:01:35,678 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:01:35,678 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-26 00:01:35,678 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为数字
+2019-10-26 00:01:35,916 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:36,084 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:37,990 - selenium - INFO - Input content：12
+2019-10-26 00:01:38,020 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:01:38,132 - selenium - INFO - Input content：
+2019-10-26 00:01:38,149 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:01:39,276 - selenium - INFO - Input content：
+2019-10-26 00:01:39,301 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:01:39,690 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:01:39,979 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:01:40,385 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-26 00:01:42,077 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:01:42,078 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为数字
+2019-10-26 00:01:42,078 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为字母
+2019-10-26 00:01:42,335 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:43,280 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:45,059 - selenium - INFO - Input content：aaa
+2019-10-26 00:01:45,416 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:01:45,917 - selenium - INFO - Input content：
+2019-10-26 00:01:46,059 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:01:47,648 - selenium - INFO - Input content：
+2019-10-26 00:01:48,098 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:01:49,231 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:01:49,539 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:01:49,982 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-26 00:01:51,559 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:01:51,559 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为字母
+2019-10-26 00:01:51,560 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为特殊字符
+2019-10-26 00:01:51,794 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:51,851 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:52,197 - selenium - INFO - Input content：###
+2019-10-26 00:01:52,701 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:01:53,927 - selenium - INFO - Input content：
+2019-10-26 00:01:54,039 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:01:55,223 - selenium - INFO - Input content：
+2019-10-26 00:01:55,484 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:01:55,600 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:01:55,635 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:01:55,677 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-26 00:01:56,786 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:01:56,786 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为特殊字符
+2019-10-26 00:01:56,788 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否可以为中文+{.}
+2019-10-26 00:01:57,065 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:57,884 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:01:58,925 - selenium - INFO - Input content：李世民.达人
+2019-10-26 00:01:59,199 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:00,774 - selenium - INFO - Input content：
+2019-10-26 00:02:01,107 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:02,012 - selenium - INFO - Input content：
+2019-10-26 00:02:02,042 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:02,446 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:03,022 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:02:03,352 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-26 00:02:04,980 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:02:04,980 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否可以为中文+{.}
+2019-10-26 00:02:04,981 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[开户银行]字段是否不能为空
+2019-10-26 00:02:05,269 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:06,033 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:07,966 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:07,996 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:09,099 - selenium - INFO - Input content：
+2019-10-26 00:02:09,415 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:10,625 - selenium - INFO - Input content：
+2019-10-26 00:02:10,666 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:11,065 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:11,362 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:02:11,724 - selenium - INFO - Obtained text：请选择或输入银行
+2019-10-26 00:02:13,052 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:02:13,345 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:02:13,781 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:02:14,783 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:02:15,192 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'工商银行')]"]
+2019-10-26 00:02:17,013 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:02:17,338 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'工商银行')]"]
+2019-10-26 00:02:18,260 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'工商银行')]"]
+2019-10-26 00:02:19,405 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:02:19,405 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[开户银行]字段是否不能为空
+2019-10-26 00:02:19,406 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为空
+2019-10-26 00:02:19,710 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:20,416 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:21,094 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:21,437 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:23,359 - selenium - INFO - Input content：
+2019-10-26 00:02:23,608 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:23,775 - selenium - INFO - Input content：
+2019-10-26 00:02:23,810 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:24,158 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:24,441 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:02:24,848 - selenium - INFO - Obtained text：请输入16~20位银行卡号
+2019-10-26 00:02:26,325 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:02:26,325 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为空
+2019-10-26 00:02:26,325 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为字母
+2019-10-26 00:02:26,537 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:27,612 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:29,767 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:30,026 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:30,267 - selenium - INFO - Input content：aaaa
+2019-10-26 00:02:30,299 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:30,846 - selenium - INFO - Input content：
+2019-10-26 00:02:31,193 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:32,191 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:32,562 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:02:33,213 - selenium - INFO - Obtained text：请输入16~20位银行卡号
+2019-10-26 00:02:34,764 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:02:34,765 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为字母
+2019-10-26 00:02:34,765 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为中文
+2019-10-26 00:02:35,030 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:35,783 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:37,786 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:37,901 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:38,178 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:38,204 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:39,763 - selenium - INFO - Input content：
+2019-10-26 00:02:40,051 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:41,151 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:41,434 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:02:41,798 - selenium - INFO - Obtained text：请输入16~20位银行卡号
+2019-10-26 00:02:43,776 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:02:43,776 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为中文
+2019-10-26 00:02:43,776 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为特殊字符
+2019-10-26 00:02:43,965 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:44,647 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:46,384 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:46,643 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:48,742 - selenium - INFO - Input content：##!@
+2019-10-26 00:02:48,768 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:48,861 - selenium - INFO - Input content：
+2019-10-26 00:02:48,900 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:49,518 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:49,543 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:02:49,570 - selenium - INFO - Obtained text：请输入16~20位银行卡号
+2019-10-26 00:02:50,740 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:02:50,740 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为特殊字符
+2019-10-26 00:02:50,741 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能小于16位
+2019-10-26 00:02:51,028 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:51,852 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:02:53,852 - selenium - INFO - Input content：李世民
+2019-10-26 00:02:54,216 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:02:55,917 - selenium - INFO - Input content：122122212121212
+2019-10-26 00:02:56,295 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:02:58,135 - selenium - INFO - Input content：
+2019-10-26 00:02:58,562 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:02:59,512 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:02:59,811 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:03:00,275 - selenium - INFO - Obtained text：请输入正确的银行卡号
+2019-10-26 00:03:01,791 - selenium - ERROR - Failure of test case execution:'请输入16~20位银行卡号' not found in '请输入正确的银行卡号'
+2019-10-26 00:03:01,791 - selenium - ERROR - Failure of test case execution:'请输入16~20位银行卡号' not found in '请输入正确的银行卡号'
+2019-10-26 00:03:02,134 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:03,004 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能大于20位
+2019-10-26 00:03:03,316 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:03,688 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:04,479 - selenium - INFO - Input content：李世民
+2019-10-26 00:03:04,593 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:03:08,941 - selenium - INFO - Input content：1221222121212123456732
+2019-10-26 00:03:09,226 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:03:10,809 - selenium - INFO - Input content：
+2019-10-26 00:03:10,842 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:03:11,210 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:03:11,502 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:03:11,776 - selenium - INFO - Obtained text：请输入16~20位银行卡号
+2019-10-26 00:03:13,631 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:03:13,631 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能大于20位
+2019-10-26 00:03:13,632 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[所在地]字段是否不能为空
+2019-10-26 00:03:13,878 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:14,449 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:15,482 - selenium - INFO - Input content：李世民
+2019-10-26 00:03:15,804 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:03:19,139 - selenium - INFO - Input content：8888000000000000
+2019-10-26 00:03:19,174 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:03:20,757 - selenium - INFO - Input content：
+2019-10-26 00:03:21,011 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:03:21,363 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:03:21,598 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:03:21,899 - selenium - INFO - Obtained text：请选择银行所在地
+2019-10-26 00:03:22,866 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:03:23,596 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:03:24,597 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:03:24,779 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'北京市')]"]
+2019-10-26 00:03:26,730 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:03:27,287 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'北京市')]"]
+2019-10-26 00:03:28,460 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'北京市')]"]
+2019-10-26 00:03:29,719 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:03:29,719 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[所在地]字段是否不能为空
+2019-10-26 00:03:29,719 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为空
+2019-10-26 00:03:30,057 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:30,960 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:32,891 - selenium - INFO - Input content：李世民
+2019-10-26 00:03:33,445 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:03:35,002 - selenium - INFO - Input content：8888000000000000
+2019-10-26 00:03:35,042 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:03:35,177 - selenium - INFO - Input content：
+2019-10-26 00:03:35,235 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:03:35,573 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:03:35,945 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:03:36,243 - selenium - INFO - Obtained text：请输入支付密码
+2019-10-26 00:03:38,211 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:03:38,215 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为空
+2019-10-26 00:03:38,215 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为字母
+2019-10-26 00:03:38,476 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:38,673 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:39,502 - selenium - INFO - Input content：李世民
+2019-10-26 00:03:39,826 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:03:41,722 - selenium - INFO - Input content：8888000000000000
+2019-10-26 00:03:41,745 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:03:42,661 - selenium - INFO - Input content：aaaaaa
+2019-10-26 00:03:42,703 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:03:43,246 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:03:43,285 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:03:43,342 - selenium - INFO - Obtained text：资金密码 必须是 6 位 且全数字
+确认
+2019-10-26 00:03:48,373 - selenium - INFO - Forced wait 5 second
+2019-10-26 00:03:49,629 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:03:49,629 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为字母
+2019-10-26 00:03:49,630 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为特殊字符
+2019-10-26 00:03:49,654 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:50,460 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:03:51,369 - selenium - INFO - Input content：李世民
+2019-10-26 00:03:51,423 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:03:55,001 - selenium - INFO - Input content：8888000000000000
+2019-10-26 00:03:55,024 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:03:57,909 - selenium - INFO - Input content：! #245
+2019-10-26 00:03:58,361 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:03:59,307 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:03:59,457 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:03:59,493 - selenium - INFO - Obtained text：资金密码 必须是 6 位 且全数字
+确认
+2019-10-26 00:04:04,562 - selenium - INFO - Forced wait 5 second
+2019-10-26 00:04:05,891 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:04:05,891 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为特殊字符
+2019-10-26 00:04:05,891 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为错误密码
+2019-10-26 00:04:06,195 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:07,009 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:07,256 - selenium - INFO - Input content：李世民
+2019-10-26 00:04:07,300 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:04:09,890 - selenium - INFO - Input content：8888000000000000
+2019-10-26 00:04:10,266 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:04:11,060 - selenium - INFO - Input content：999999
+2019-10-26 00:04:11,321 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:04:12,169 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:04:12,864 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:04:13,366 - selenium - INFO - Obtained text：资金密码错误
+确认
+2019-10-26 00:04:18,400 - selenium - INFO - Forced wait 5 second
+2019-10-26 00:04:19,682 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:04:19,682 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为错误密码
+2019-10-26 00:04:19,683 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为一个中文
+2019-10-26 00:04:20,008 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:20,426 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:21,051 - selenium - INFO - Input content：啊
+2019-10-26 00:04:21,523 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:04:22,361 - selenium - INFO - Input content：8888000000000000
+2019-10-26 00:04:22,876 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:04:24,684 - selenium - INFO - Input content：999999
+2019-10-26 00:04:24,710 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:04:25,158 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:04:25,520 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:04:25,872 - selenium - INFO - Obtained text：开户姓名 的最小长度为 2 字符
+确认
+2019-10-26 00:04:31,256 - selenium - INFO - Forced wait 5 second
+2019-10-26 00:04:32,706 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:04:32,707 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为一个中文
+2019-10-26 00:04:32,707 - selenium - INFO - Executing test cases：帐号未绑定过银行卡，已设置密保和资金密码，验证是否不能重复绑定银行卡
+2019-10-26 00:04:33,195 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:33,851 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:34,986 - selenium - INFO - Input content：李世民
+2019-10-26 00:04:35,342 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:04:38,187 - selenium - INFO - Input content：4443666344236772321
+2019-10-26 00:04:38,553 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:04:39,212 - selenium - INFO - Input content：123456
+2019-10-26 00:04:39,589 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:04:40,723 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:04:41,124 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:04:41,519 - selenium - INFO - Obtained text：抱歉！当前银行卡已经绑定请勿重复绑定！
+确认
+2019-10-26 00:04:46,768 - selenium - INFO - Forced wait 5 second
+2019-10-26 00:04:48,199 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 00:04:48,199 - selenium - INFO - Successful execution of test cases:帐号未绑定过银行卡，已设置密保和资金密码，验证是否不能重复绑定银行卡
+2019-10-26 00:04:48,199 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[开户银行]字段是否不能为空
+2019-10-26 00:04:48,376 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:49,368 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:49,560 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:49,609 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:49,662 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为空
+2019-10-26 00:04:49,704 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:49,803 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:50,243 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:50,548 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:51,079 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为字母
+2019-10-26 00:04:51,476 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:52,326 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:52,909 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:53,404 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:53,870 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为中文
+2019-10-26 00:04:54,270 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:55,160 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:55,337 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:55,392 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:55,425 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为特殊字符
+2019-10-26 00:04:55,453 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:56,167 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:56,196 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:56,230 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:56,253 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能小于16位
+2019-10-26 00:04:56,284 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:56,342 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:56,667 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:57,167 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:58,020 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能大于20位
+2019-10-26 00:04:58,444 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:58,828 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:58,850 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:58,877 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:58,894 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[所在地]字段是否不能为空
+2019-10-26 00:04:58,930 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:58,979 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,008 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:59,056 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,085 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为空
+2019-10-26 00:04:59,110 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,156 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,189 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:59,225 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,818 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为字母
+2019-10-26 00:04:59,857 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,911 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,935 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:59,960 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:04:59,986 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为特殊字符
+2019-10-26 00:05:00,382 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:01,287 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:01,882 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:02,341 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:03,146 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为错误密码
+2019-10-26 00:05:03,434 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:03,558 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:04,110 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:04,141 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:04,168 - selenium - INFO - Executing test cases：帐号已绑定过银行卡，已设置密保和资金密码，验证是否不能重复绑定银行卡
+2019-10-26 00:05:04,210 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:04,543 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:05,138 - selenium - ERROR - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:05,807 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:05,994 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证所有字段符合条件是否能够成功绑定
+2019-10-26 00:05:07,602 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:05:07,960 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-26 00:05:08,621 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-26 00:05:08,789 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:08,887 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:09,345 - selenium - INFO - Input content：里大炮
+2019-10-26 00:05:09,394 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:05:10,339 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:05:11,341 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:05:11,880 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'工商银行')]"]
+2019-10-26 00:05:13,371 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:05:13,788 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'工商银行')]"]
+2019-10-26 00:05:15,121 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'工商银行')]"]
+2019-10-26 00:05:15,409 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-26 00:05:18,387 - selenium - INFO - Input content：8888000000000009
+2019-10-26 00:05:18,407 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:05:18,649 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//span[contains(.,'请选择')]"]
+2019-10-26 00:05:19,650 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:05:20,147 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'北京市')]"]
+2019-10-26 00:05:21,888 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:05:22,290 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'北京市')]"]
+2019-10-26 00:05:23,537 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'北京市')]"]
+2019-10-26 00:05:23,970 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-26 00:05:24,709 - selenium - INFO - Input content：123456
+2019-10-26 00:05:24,743 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-26 00:05:25,073 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-26 00:05:25,524 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-26 00:05:25,993 - selenium - INFO - Obtained text：姓名重复注册多个，请洽客服人员
+确认
+2019-10-26 00:05:26,393 - selenium - INFO - Successful execution of test cases:绑定银行卡，已设置密保和资金密码，验证所有字段符合条件是否能够成功绑定
+2019-10-26 00:05:26,394 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证所有字段符合条件是否能够成功绑定
+2019-10-26 00:05:28,154 - selenium - INFO - Forced wait 1 second
+2019-10-26 00:05:28,378 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-26 00:05:28,824 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-26 00:05:28,904 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:28,985 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-26 00:05:29,010 - selenium - ERROR - Failure of test case execution:{提款人姓名}输入框状态为:True！输入框可编辑，则跳过用例test_bing_bank_card_005
+2019-10-26 00:05:32,834 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-26 00:05:32,849 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-26 00:05:34,568 - selenium - INFO - 在section：title下读取pro的值
+2019-10-26 00:05:34,569 - selenium - INFO - 在section：environment下读取url的值
+2019-10-26 00:05:34,693 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-26 00:05:34,699 - selenium - INFO - 在section：telegram下读取chat_id的值

@@ -1,0 +1,849 @@
+#断言相关元素
+asserts:
+  #账号安全-断言
+  assert_security_answer: 请输入密保答案
+  assert_security_problem: 请选择密保问题
+  assert_security_new_problem: 请选择密保问题
+  assert_security_new_answer: 请输入新密保答案
+  assert_security_agreement: 新密保不能与原密保一致
+  assert_security_error: 原密保问题或答案错误
+  assert_security_update: 修改密保成功
+  assert_security_len: 密保答案 的最小长度为 2 字符
+  assert_security_set: 设置成功 # 设置资金密码成功提示框
+  #线上存款-断言
+  assert_deposit_bank: 请选择汇入银行
+  assert_deposit_amount_err: 请输入正确存款金额
+  assert_deposit_amount_min: 存款金额不能低于10元
+  assert_deposit_name: 请输入正确汇款姓名
+  assert_deposit_datetime: 请选择时间
+  assert_deposit_binding_name: 请务必填写真实姓名，一旦绑定将无法修改姓名
+  #线上存款-支付宝-断言
+  assert_deposit_zfb_min: 金额低于通道最低金额%s
+  assert_deposit_zfb_max: 金额高于通道最高金额%s
+  assert_deposit_zfb_nll: 请选择金额
+  assert_deposit_zfb_err: money 必须是数字
+  #线上取款
+  assert_withdrawal_binding_bank: 请绑定银行卡
+  assert_bind_pass: 绑定成功
+  assert_bind_repeat: 姓名重复注册多个，请洽客服人员
+  #未读讯息
+  assert_sys_message_title: 欢迎注册澳门巴黎人
+  assert_sys_message: 系统信息
+  assert_sys_message_el:
+  - css selector
+  - .preferential > .header
+  assert_suggestion_title: 测试-投诉消息
+  assert_suggestion_area: 测试投诉消息哦~！！！293929
+  #APP下载页面-断言
+  assert_app_ios_help: ios安装教程
+  assert_app_iosHelp_element:  # ios教程title元素定位
+  - css selector
+  - .layui-layer-title
+  #投注记录
+  assert_betting_record: 投注记录
+  #实时返水
+  assert_back_water: 实时返水
+  #注册-重置-提交-断言
+  assert_register_reset: 帐号6-10位数字或字母
+  #通用断言
+  assert_login_first: 请登录
+  assert_public_app_title: 澳门巴黎人APP下载
+  assert_public_home_title: Welcome
+  assert_public_login_first: 未登录 # 未登录情况的弹出提示信息
+  assert_public_email_title: tyctsyx@gmail.com # 未登录情况下访问在线客服的投诉邮箱
+  assert_public_email_element: #在线客服投诉邮箱元素定位， assert_public_email_title
+  - css selector
+  - p:nth-child(2) > span > span > span > span
+  assert_public_domain_title: 澳门巴黎人娱乐城—老品牌值得信赖
+  assert_public_account_title: 精彩内容，即将上线！ # 访问账号买卖的提示信息
+  assert_interest_account_title: 精彩活动,敬请期待
+  assert_public_customer_en: 在线客服-Chat window
+  assert_public_customer_cn: 在线客服-对话窗口
+  assert_public_en_title: Thanks for contacting us! To help us improve our service,
+    please fill the short form below and click the chat button to start chat.
+  assert_public_en_element: #在线客服英文描述元素定位
+  - xpath
+  - //div[@id='chaterInfo1568106438285']/div/div
+  assert_public_interest_title: 澳门巴黎人 - 借呗 # 借呗页面
+  assert_public_video_title: 澳门巴黎人 - 视讯额度 # 借呗页面-视讯额度
+  assert_public_chess_title: 澳门巴黎人 - 棋牌额度 # 借呗页面-棋牌额度
+  assert_public_lottery_title: 澳门巴黎人 - 彩票额度 # 借呗页面-彩票额度
+  assert_public_casino_title: 澳门巴黎人 - 电子额度  # 借呗页面-电子额度
+  assert_public_records_title: 澳门巴黎人 - 借/还款记录  # 借呗页面-借还款记录
+  assert_public_video_genero: 澳门巴黎人 - 视讯金管家等级查询 # 视讯金管家
+  assert_public_chess_genero: 澳门巴黎人 - 棋牌金管家等级查询 # 棋牌金管家
+  assert_public_lottery_genero: 澳门巴黎人 - 彩票金管家等级查询 # 彩票金管家
+  assert_public_casino_genero: 澳门巴黎人 - 电子金管家等级查询 # 电子金管家
+  assert_public_action: 请登录后操作！
+  assert_public_username:  #获取登录账号名
+  - css selector
+  - form > p:nth-child(1)
+  assert_zhucezhanghao: 我已届满合法博彩年龄﹐且同意各项开户条约。
+  assert_public_zhucezhanghao:  #注册帐号
+  - id
+  - memCash-agree
+  assert_public_carousel_announcement: 您还没有登录,请先登录
+  # 快捷导航
+  assert_about_us: 关于我们
+  assert_contact_us: blrtsyx8@gmail.com
+  assert_deposit_help: 存款帮助
+  assert_withdrawal_help: 取款帮助
+  assert_common_problem_1: 一般常见问题
+  assert_common_problem_2: 游戏及投注问题
+  assert_common_problem_3: 技术常见问题
+  assert_game_tips: 游戏帮助
+  assert_responsible_betting1: 责任与博彩
+  assert_responsible_betting2: 条款与规则
+  assert_rules_terms: 规则与条款
+
+  assert_about_us_el: #关于我们
+  - css selector
+  - .gywm_nr:nth-child(2) > .gywm_tit > p
+  assert_contact_us_el: #联系我们
+  - css selector
+  - .gys > div > p:nth-child(5)
+  assert_deposit_help_el: #存款帮助
+  - css selector
+  - .gywm_nr:nth-child(4) > .gywm_tit > p
+  assert_withdrawal_help_el: #取款帮助
+  - css selector
+  - .gywm_nr:nth-child(3) > .gywm_tit > p
+  assert_common_problem_el1: #常见问题-一般常见问题
+  - xpath
+  - //li[contains(.,'一般常见问题')]
+  assert_common_problem_el2: #常见问题-游戏及投注问题
+  - xpath
+  - //li[contains(.,'游戏及投注问题')]
+  assert_common_problem_el3: #常见问题-技术常见问题
+  - xpath
+  - //li[contains(.,'技术常见问题')]
+  assert_game_tips_el: #游戏帮助
+  - xpath
+  - (//a[contains(text(),'游戏帮助')])[2]
+  assert_responsible_betting_el1: #责任博彩
+  - xpath
+  - //li[contains(.,'责任与博彩')]
+  assert_responsible_betting_el2: #责任博彩
+  - xpath
+  - //li[contains(.,'条款与规则')]
+  assert_rules_terms_el: #规则与条款
+  - xpath
+  - (//a[contains(text(),'规则与条款')])[2]
+  assert_set_fund_password:
+  - css selector
+  - .spanActive
+#页面相关元素
+links:
+  # 访问注册页面
+  link_register:
+  - css selector
+  - .regBtn
+  # 免息借呗页面
+  link_interestFree_loan: #免息借呗-导航
+  - link text
+  - 免息借呗
+  link_interestFreeIn_home_tab: #借呗页面-首页-导航
+  - link text
+  - 首页
+  link_interestFreeIn_live_tab: #借呗页面-视讯额度-导航
+  - link text
+  - 视讯额度
+  link_interestFreeIn_chess_tab: #借呗页面-棋牌额度-导航
+  - link text
+  - 棋牌额度
+  link_interestFreeIn_lottery_tab: #借呗页面-彩票额度-导航
+  - link text
+  - 彩票额度
+  link_interestFreeIn_casino_tab: #借呗页面-电子额度-导航
+  - link text
+  - 电子额度
+  link_interestFreeIn_account_tab: #借呗页面-账号买卖-导航
+  - link text
+  - 账号买卖
+  link_interestFreeIn_records_tab: #借呗页面-借还款记录-导航
+  - link text
+  - 借还款记录
+  link_interestFreeIn_customer_tab: #借呗页面-在线客服-导航
+  - link text
+  - 在线客服
+  link_interestFreeIn_live_genero: # 视讯金管家
+  - css selector
+  - .hot img
+  link_interestFreeIn_chess_genero: # 棋牌金管家
+  - css selector
+  - .recommend img
+  link_interestFreeIn_lottery_genero: # 彩票金管家
+  - css selector
+  - .float-left:nth-child(3) > a > img
+  link_interestFreeIn_casino_genero: # 电子金管家
+  - css selector
+  - .float-left:nth-child(4) img
+  link_interestFreeIn_borrow_moeny: #我要借款
+  - css selector
+  - .swiper-active:nth-child(1) > span:nth-child(2)
+  link_interestFreeIn_repay_moeny: #我要还款
+  - css selector
+  - .swiper-active:nth-child(2) > span:nth-child(2)
+  link_interestFreeIn_live_but: # 视讯信用额度-立即查看
+  - css selector
+  - .search-type:nth-child(1) > .search-type-button
+  link_interestFreeIn_chess_but: # 棋牌信用额度-立即查看
+  - css selector
+  - .search-type:nth-child(2) > .search-type-button
+  link_interestFreeIn_lottery_but:  # 彩票信用额度-立即查看
+  - css selector
+  - .search-type:nth-child(3) > .search-type-button
+  link_interestFreeIn_casino_but: # 电子信用额度-立即查看
+  - css selector
+  - .search-type:nth-child(4) > .search-type-button
+  #APP下载页面
+  link_app_download: #APP下载页面
+  - link text
+  - 手机投注
+  link_app_ios_help: #APP下载页面-iOS教程
+  - css selector
+  - .ios_help
+  link_app_return_pc: #APP下载页面-进入PC网页版
+  - css selector
+  - .pc
+  #金管家页面
+  link_genero_page: #访问金管家页面
+  - link text
+  - 金管家
+  link_genero_interest_page: #免息借呗
+  - css selector
+  - .hot .icon2
+  link_genero_account_page: #账号交易
+  - css selector
+  - .hot .icon3
+  link_genero_app_page: #APP下载
+  - css selector
+  - .tui .icons
+  link_genero_home_page: #官方首页
+  - css selector
+  - .menu .icon1
+  #右侧悬浮窗口
+  link_float_right:
+  - css selector
+  - .TplFloatSet.TplFloatPic_1.animated.bounceInRight
+  link_float_kefu: #在线客服
+  - css selector
+  - .kefu
+  link_float_huiyuan: #加入会员
+  - css selector
+  - .huiyuan
+  link_float_transfer: #支付秒到帐
+  - css selector
+  - .transfer
+  link_float_app: #APP下载
+  - css selector
+  - .download
+  link_float_r_close: #右侧悬浮窗关闭按钮
+  - css selector
+  - .newclose:nth-child(6)
+  # 轮播公告
+  link_carousel_announcement:
+  - xpath
+  - //span[contains(.,'最新公告')]
+  #  link_login_carousel)announcement:
+  #    - css selector
+  #    - .vp-admin-wrap-close-empty
+  #左侧悬浮窗口
+  link_float_left:
+  - css selector
+  - .TplFloatSet.TplFloatPic_1.TplFloatSet0.animated.bounceInLeft
+  link_float_jiebei: #免息借呗
+  - css selector
+  - .dial
+  link_float_guanjia: #金管家
+  - css selector
+  - .dial2
+  link_float_promotion: #优惠活动
+  - css selector
+  - .activity
+  link_float_l_close: #左侧悬浮窗关闭按钮
+  - css selector
+  - .newclose:nth-child(1)
+  #快捷导航
+  link_about_us:
+  - xpath
+  - //a[contains(text(),'关于我们')]
+  link_contact_us:
+  - xpath
+  - //a[contains(text(),'联系我们')]
+  link_partner:
+  - xpath
+  - //a[contains(text(),'合作伙伴')]
+  link_deposit_help:
+  - xpath
+  - //a[contains(text(),'存款帮助')]
+  link_withdrawal_help:
+  - xpath
+  - //a[contains(text(),'取款帮助')]
+  link_common_problem:
+  - xpath
+  - //a[contains(text(),'常见问题')]
+  link_game_tips:
+  - xpath
+  - //a[contains(text(),'游戏帮助')]
+  link_responsible_betting:
+  - xpath
+  - //a[contains(text(),'责任博彩')]
+  link_rules_terms:
+  - xpath
+  - //a[contains(text(),'规则与条款')]
+  link_agent_course_1: #代理模式
+  - css selector
+  - .menu_one_li:nth-child(1)
+  link_agent_course_2: #代理教程
+  - css selector
+  - .menu_one_li:nth-child(2)
+  link_agent_course_3: #代理教程
+  - class name
+  - menu_two
+  #线路检测
+  link_domain_detection_page:
+  - link text
+  - 线路检测
+  link_domain_detection_page_one:
+  - css selector
+  - .tpT:nth-child(9) > .x-dh-t
+  link_domain_url:
+  - id                                 #class name
+  - ttcesu                                 #btnbx #lay_1
+  link_domain_urls:
+  - xpath                                 #class name
+  - //a                                 #btnbx #lay_1
+  link_domain_app: #app下载
+  - css selector
+  - .down > a > img
+  link_domain_register: #立即注册
+  - css selector
+  - .zhuce img
+  link_domain_customer:
+  - xpath
+  - //div[3]/a/img
+  # 游戏页面
+  link_game_move_sport:
+    #体育赛事
+  - css selector
+  - .navLi:nth-child(4) > .navA
+  link_game_sport_hg:
+    #皇冠体育
+  - link text
+  - 皇冠体育
+  link_game_sport_sb:
+    #沙巴体育
+  - link text
+  - 沙巴体育
+  link_game_sport_bbin:
+    #BBIN体育
+  - link text
+  - BB体育
+  link_game_sport_ag:
+    #AG体育
+  - link text
+  - AG体育
+  link_game_live:
+    #视讯直播
+  - css selector
+  - .navLi:nth-child(3) > .navA
+  link_game_live_ag:
+    #视讯直播-AG
+  - css selector
+  - .ag
+  link_game_live_ag_1:
+    #视讯直播-AG
+  - id
+  - 31
+  link_game_casino:
+    #电子游艺
+  - css selector
+  - .navLi:nth-child(2) > .navA
+  link_game_start1:
+    #电子游艺-进入游戏
+  - xpath
+  - //img[@data-src='https://blr.8581333.com/images/default/pc/2177.png']
+  link_game_move_chess:
+    #棋牌游戏
+  - css selector
+  - .navLi:nth-child(6) > .navA
+  link_game_chess_ly:
+    #乐游棋牌
+  - link text
+  - 乐游棋牌
+  link_game_chess_ky:
+    #开元棋牌
+  - link text
+  - 开元棋牌
+  link_game_chess_vg:
+    #VG棋牌
+  - link text
+  - VG棋牌
+  link_game_chess_fg:
+    #FG棋牌
+  - css selector
+  - li:nth-child(6) li:nth-child(5)
+  link_game_chess_th:
+    #天豪棋牌
+  - link text
+  - 天豪棋牌
+  link_game_fish:
+    #捕鱼游戏
+  - css selector
+  - .navLi:nth-child(7) > .navA
+  link_game_fish_beauty:
+    #捕鱼达人-美人捕鱼
+  - css selector
+  - .item:nth-child(1) .box:nth-child(2) a
+  link_game_lottery:
+    #彩票游戏
+  - css selector
+  - .navLi:nth-child(5) > .navA
+  link_promotions_navigation:
+    #优惠活动
+  - css selector
+  - .navLi:nth-child(8) > .navA
+  link_online_customer: #在线客服
+  - css selector
+  - li:nth-child(9) > p
+  link_genero_online_customer:
+  - xpath
+  - /html/body/div/div/div[2]/div[2]/ul/li[5]/a/span[2]
+  #    - css selector
+  #    - .tpT:nth-child(9) .x-dh-t
+  #登录状态相关页面元素
+  link_realTime_backwater: #登录状态-实时返水
+  - link text
+  - 实时返水
+  link_online_deposit: #登录状态-线上存款
+  - link text
+  - 线上存款
+  #  - xpath
+  #  - //a[@title='线上存款']
+  link_online_withdrawal: #登录状态-线上取款
+  - link text
+  - 线上取款
+  #会员中心
+  link_member_centre:
+    #登录状态-会员中心
+  - link text
+  - 会员中心
+  link_account_security: #账号安全
+  - link text
+  - 修改密码
+
+  link_betting_record:
+    #登录状态-投注记录
+  - link text
+  - 下注记录
+  link_unread_message:
+    #登录状态-未读消息
+  - css selector
+  - .message
+  link_update_password_fund: # 修改资金密码 or 设置资金密码
+  - css selector
+  - .aisle:nth-child(3) > span
+  link_update_password_security: # 修改密保密码
+  - css selector
+  - .aisle:nth-child(4) > span
+#输入框相关元素
+inputs:
+  #登录
+  input_login_username:
+    # 登录账号输入框
+  - css selector
+  - .input-bg:nth-child(1)
+  input_login_password:
+    # 登录密码输入框
+  - id
+  - txtFacade
+  input_login_code:
+    # 登录验证码输入框
+  - css selector
+  - .verify_input
+  #注册
+  input_register_username:
+    # 注册账号输入框
+  - id
+  - username
+  input_register_password_one:
+    # 注册密码输入框
+  - id
+  - password
+  input_register_password_two:
+    # 注册确认密码输入框
+  - id
+  - passwd
+  input_register_code:
+    # 注册验证码输入框
+  - id
+  - rmNum
+  input_register_phone:
+    # 注册手机号码输入框
+  - css selector
+  - span > input
+  #免息借呗
+  input_interestFreeIn_search:
+    # 免息借呗首页-额度查询输入框
+  - id
+  - search-text
+  input_interestFreeIn_user:
+    # 免息借呗-我要借款-禁用状态的会员账号输入框
+  - id
+  - user
+  input_interestFreeIn_jk_amount:
+    # 免息借呗-我要借款-借款金额输入框
+  - id
+  - jk
+  input_interestFreeIn_hk_amount:
+    # 免息借呗-我要还款-还款金额输入框
+  - id
+  - amount
+  #金管家
+  input_genero_search:
+  - id
+  - search1
+  #修改密码
+  input_update_password_1: # 第一顺位输入框
+  - css selector
+  - .row:nth-child(1) > input
+  input_update_password_2: # 第二顺位输入框
+  - css selector
+  - .row:nth-child(2) > input
+  input_update_password_3: # 第三顺位输入框
+  - css selector
+  - .row:nth-child(3) > input
+  input_update_password_4: # 第四顺位输入框
+  - css selector
+  - .row:nth-child(4) > input
+  input_update_password_5: # 第五顺位输入框
+  - css selector
+  - .row:nth-child(5) > input
+  #线上存款
+  input_deposit_amount:
+    #网银存款-存款金额
+  - css selector
+  - .bar:nth-child(3) > input
+  input_deposit_name:
+    #网银存款-存款姓名
+  - css selector
+  - .bar:nth-child(5) > input
+  input_deposit_time:
+    #网银存款-存款时间
+  - css selector
+  - .ivu-input
+  input_deposit_binding_name:
+    #绑定姓名的输入框
+  - id
+  - inputtext
+  input_zfb_h5:
+    #支付宝H5金额输入框
+  - css selector
+  - .bar > input
+  #绑定银行卡
+  input_bind_card_name: # 禁用状态的提款人姓名输入框
+  - xpath
+  - //input[@disabled='disabled']
+  #电子游艺
+  input_game_casino_search:
+    #电子游艺-查询输入框
+  - css selector
+  - .ipt
+  #绑定银行卡
+  input_binding_bank_name:
+    #绑定银行卡-姓名输入框
+  - css selector
+  - .row:nth-child(1) > input
+  input_binding_bank_card:
+    #绑定银行卡-银行卡号输入框
+  - css selector
+  - .row:nth-child(3) > input
+  input_binding_bank_password:
+    #绑定银行卡-资金密码输入框
+  - css selector
+  - .row:nth-child(5) > input
+  input_suggestions_title: #投诉建议-标题
+  - css selector
+  - .row > input
+  input_suggestions_area: #投诉建议-内容
+  - css selector
+  - textarea
+#弹出提示框
+pop_box:
+  pop_toast_text:
+    #弹出几秒消失的提示框信息
+  - css selector
+  - .toast
+  pop_genero_toast_text: #弹出几秒消失的提示框信息
+  - css selector
+  - .layui-layer-content
+  pop_web_notice_close:
+    #关闭网站公告弹出框
+  - css selector
+  - .close
+  pop_public_waring_close:
+    #关闭警告提示框
+  - css selector
+  - .ivu-icon-ios-close-empty
+  pop_register_war_close: #注册关闭提示框按钮
+  - css selector
+  - .vp-all-tipModel-wrap .ivu-icon
+  pop_register_war_text:
+  - css selector
+  - .err > span
+  pop_login_war_close: #注册关闭提示框按钮
+  - css selector
+  - .ivu-icon-ios-close-empty
+  pop_public_waring_text:
+    #获取警告提示框信息
+  - css selector
+  - .tipModel-box > span:nth-child(2)
+  pop_interestFreeIn_waring_close:
+    #额度查询-关闭警告提示框
+  - css selector
+  - .jacky-modal-btn-red
+  pop_interestFreeIn_waring_text:
+    #额度查询-获取警告提示框信息
+  - class name
+  - jacky-modal-content
+  pop_customer_email:
+    #获取投诉邮箱账号
+  - css selector
+  - p:nth-child(2) > span > span > span > span
+  pop_deposit_binding_name:
+  - xpath
+  - //span[contains(.,'请务必填写真实姓名，一旦绑定将无法修改姓名')]
+  pop_deposit_binding_submit:
+    #绑定姓名弹出框的确认按钮
+  - xpath
+  - /html/body/div[5]/div[2]/div/div/div[3]/div/span[2]                                                  #/html/body/div[7]/div[2]/div/div/div[2]/div/span
+  pop_deposit_binding_cancel:
+    #绑定姓名弹出框的取消按钮
+  - xpath
+  - /html/body/div[5]/div[2]/div/div/div[3]/div/span                                           #//div[8]/div[2]/div/div/div[3]/div/span #/html/body/div[7]/div[2]/div/div/div[3]/div/span[1]
+  pop_deposit_zfbh5_text:
+    #支付宝H5符合条件的弹出提示框信息
+  - css selector
+  - .iconspan > .tispan
+  pop_deposit_zfbh5_close:
+    #支付宝H5符合条件的弹出提示框关闭按钮
+  - css selector
+  - .oldmal .vp-admin-wrap-close
+  pop_deposit_zfbh5_pay:
+    #支付宝H5符合条件的弹出提示框支付按钮
+  - css selector
+  - .pay
+#按钮
+buttons:
+  btn_login:
+    #没有验证码的登录按钮
+  - css selector
+  - .loginBtn
+  btn_code_login: #有验证码的登录按钮
+  - css selector
+  - .loginBtn
+  btn_register_confirm:
+    #注册页面-确定按钮
+  - id
+  - OK2
+  btn_register_reset:
+    #注册页面-重置按钮
+  - id
+  - CANCEL2
+  btn_genero_search: #金管家-等级查询按钮
+  - id
+  - submit
+  btn_interestFreeIn_search:
+    #免息借呗-额度查询按钮
+  - id
+  - btn-search-text
+  btn_game_casino_search:
+    #电子游艺-查询按钮
+  - css selector
+  - .btn-search
+  #  btn_deposit_submit:
+  #    #线上存款 or 账号安全-确认提交按钮
+  #    - css selector
+  #    - .submitPay
+  btn_submit:
+    #线上存款 or 账号安全-确认提交按钮
+  - css selector
+  - .submit
+  btn_refresh:
+    #余额刷新按钮
+  - css selector
+  - .refresh
+  btn_logout:
+    #登出按钮
+  - link text
+  - 登出
+  btn_app_iosHelp_close:
+    #关闭iOS教程按钮
+  - css selector
+  - .layui-layer-close
+  btn_register_code_image:
+    #点击验证码图片，刷新注册验证码
+  - css selector
+  - .checkLoginCodeImage
+  btn_login_code_image:
+    #点击验证码图片，刷新登录验证码
+  - id
+  - vPic
+  btn_submitPay:
+    #确认提交
+  - css selector
+  - .submitPay
+  btn_clear_time:
+  - css selector
+  - .ivu-btn-ghost > span
+  select_zfb:
+    #密保问题下拉框
+  - css selector
+  - .ivu-select-placeholder
+  select_zfb_item:
+    #密保问题下拉框中的内容
+  - css selector
+  - .ivu-select-item:nth-child(1)
+  select_bank:
+    #充值页面-网银转账-汇款银行下拉框
+  - css selector
+  - .ivu-select-placeholder
+  select_bank_item:
+    #充值页面-网银转账-汇款银行下拉框内容
+  - css selector
+  - .bank1 .ivu-select-item
+  select_security:
+    #密保问题下拉框
+  - css selector
+  - .ivu-select-placeholder
+  select_security_item:
+    #密保问题下拉框中的内容
+  - css selector
+  - .ivu-select-item:nth-child(1)
+  select_bind_bank_card:
+  - xpath
+  - //span[contains(.,'请选择')]
+  select_bind_bank_card_item:
+  - xpath
+  - //li[contains(.,'工商银行')]
+  select_bind_city:
+  - xpath
+  - //span[contains(.,'请选择')]
+  select_bind_city_item:
+  - xpath
+  - //li[contains(.,'北京市')]
+  get_bind_bank: #绑定的银行
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/div/div/div/div/span
+  get_bind_card: #绑定银行卡，***
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/div/div/div/div[2]/p
+  get_bind_name: #提款人姓名，**
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/div/div/div/div[3]/span
+  get_bind_time: #绑定时间
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/div/div/div/div[3]/span[2]
+  get_sys_msg_right_title: # 系统信息，右侧标题
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div
+  get_sys_msg_title: # 系统信息，中间标题
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div[2]/div
+  get_sys_msg_time: # 系统信息，左侧日期
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div/p
+  get_sent_msg_title: # 获取已发送消息的标题
+  - css selector
+  - .contentActive > .title
+  get_sent_msg_area: # 获取已发送消息的内容
+  - css selector
+  - .contentActive > .main
+  get_back_water:
+  - xpath
+  - /html/body/div[1]/div/div[2]/div/div[1]/div/div[3]/div[1]
+  get_betting_record: #投注记录标题
+  - xpath
+  - /html/body/div[1]/div/div[2]/div/div[1]/div/div[3]/div[2]
+#    - css selector
+#    - .title:nth-child(2)
+#    - xpath
+#    - /html/body/div[1]/div/div[2]/div/div[1]/div/div[3]/div[2]
+#内页相关页面
+tabs:
+  tab_security_login_pwd:
+    #修改登录密码
+  - css selector
+  - .aisle:nth-child(2) > span
+  tab_security_fund_pwd:
+    #设置or修改资金密码
+  - css selector
+  - .aisle:nth-child(3) > span
+  tab_security_secret_pwd:
+    #设置or修改密保
+  - css selector
+  - .aisle:nth-child(4) > span
+  tab_withdrawal_request:
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span
+  tab_withdrawal_bank_cards:
+  - css selector
+  - .message1 li:nth-child(2) > span
+  tab_deposit_bank:
+    #网银转账存款方式
+  - xpath
+  - //span[contains(.,'网银转帐')]
+  tab_deposit_zfb:
+    #支付宝存款方式
+  - xpath
+  - //span[contains(.,'支付宝支付')]
+  tab_deposit_zfb_1:
+    #支付宝-支付通道1
+  - xpath
+  - //span[contains(.,'充值通道1')]
+  tab_deposit_zfb_2:
+    #支付宝-支付通道2
+  - xpath
+  - //span[contains(.,'充值通道2')]
+  tab_system_message: #系统信息
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span
+  tab_suggestions: #投诉建议
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[2]/span
+  tab_sent_message: #已发信息
+  - xpath
+  - /html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[3]/span
+  tab_register_null:
+  - css selector
+  - .registered li:nth-child(1)
+#输入的内容
+datas:
+  data_suc: '0'
+  data_suc_1: '1'
+  data_casino_game_name: 老虎机
+  data_newest_username: enintech29 #待注册的账号
+  data_last_username: enintech28 #enintech0 #上一次成功注册的账号
+  data_username: yusheng
+  data_answer: 我爱罗
+  data_new_answer: 罗爱我
+  data_len_answer: 1
+  data_error_answer: 我我
+  data_password: 12345678
+  data_phone: 13988889999
+  data_zfb_channel_1: 充值通道1
+  data_zfb_channel_2: 充值通道2
+  data_zfbh5_min_amount: '300'
+  data_zfbh5_max_amount: '5000'
+  data_bind_name: 里大炮
+  data_bind_card: '8888000000000009' # 4443666344236772321
+  data_fund_pwd: 123456
+#  data_amount_err:
+#    - null
+#    - -1
+#    - aa
+#    - $#!
+outputs:
+  output_verify_fail: Assert Verification fail：expected outcome{%s} != actual results{%s}
+  output_verify_success: Assert Verify success：expected outcome:{%s} == actual results:{%s}

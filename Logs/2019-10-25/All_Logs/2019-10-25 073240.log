@@ -1,0 +1,122 @@
+2019-10-25 07:32:40,795 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 07:32:40,795 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 07:32:40,796 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 07:32:40,796 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 07:32:42,314 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 07:32:42,433 - selenium - INFO - Browser maximization
+2019-10-25 07:32:42,444 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 07:32:42,444 - selenium - INFO - Executing test cases：新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:32:43,320 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:32:43,406 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:32:43,618 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 07:32:43,770 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-25 07:32:44,206 - selenium - INFO - Input content：enintech28
+2019-10-25 07:32:44,259 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-25 07:32:44,855 - selenium - INFO - Input content：12345678
+2019-10-25 07:32:55,958 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-25 07:32:56,046 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-25 07:32:56,046 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 07:32:57,079 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:32:57,079 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-25 07:32:58,080 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:32:58,132 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-25 07:32:58,709 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-25 07:32:58,786 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:32:58,822 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-25 07:32:58,888 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span']
+2019-10-25 07:32:59,046 - selenium - INFO - Click on the element success,location method and value used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span']
+2019-10-25 07:32:59,089 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:32:59,192 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-25 07:33:00,433 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:33:01,318 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 07:33:01,319 - selenium - INFO - Successful execution of test cases:新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:33:01,319 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-25 07:33:01,510 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:01,956 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:03,001 - selenium - INFO - Input content：
+2019-10-25 07:33:03,167 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-25 07:33:04,154 - selenium - INFO - Input content：
+2019-10-25 07:33:04,174 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-25 07:33:04,290 - selenium - INFO - Input content：
+2019-10-25 07:33:04,329 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-25 07:33:04,456 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-25 07:33:04,495 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:33:04,531 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-25 07:33:05,252 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 07:33:05,252 - selenium - INFO - Successful execution of test cases:绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-25 07:33:05,252 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为数字
+2019-10-25 07:33:05,417 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:05,847 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:07,061 - selenium - INFO - Input content：12
+2019-10-25 07:33:07,250 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-25 07:33:08,224 - selenium - INFO - Input content：
+2019-10-25 07:33:08,414 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-25 07:33:09,134 - selenium - INFO - Input content：
+2019-10-25 07:33:09,175 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-25 07:33:09,315 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-25 07:33:09,379 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:33:09,479 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-25 07:33:10,536 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 07:33:10,536 - selenium - INFO - Successful execution of test cases:绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为数字
+2019-10-25 07:33:10,538 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为字母
+2019-10-25 07:33:10,784 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:11,263 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:11,873 - selenium - INFO - Input content：aaa
+2019-10-25 07:33:12,111 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-25 07:33:12,514 - selenium - INFO - Input content：
+2019-10-25 07:33:12,534 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-25 07:33:12,630 - selenium - INFO - Input content：
+2019-10-25 07:33:12,904 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-25 07:33:13,413 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-25 07:33:13,432 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:33:13,454 - selenium - INFO - Obtained text：请输入正确的提款名
+2019-10-25 07:33:14,244 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 07:33:14,245 - selenium - INFO - Successful execution of test cases:绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为字母
+2019-10-25 07:33:14,245 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为特殊字符
+2019-10-25 07:33:14,271 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:14,316 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:33:15,480 - selenium - INFO - Input content：###
+2019-10-25 07:33:15,500 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-25 07:33:16,420 - selenium - ERROR - Content input error
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 377, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/Common/basePage.py", line 360, in type
+    element.send_keys(value)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 402, in _request
+    resp = http.request(method, url, body=body, headers=headers)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/poolmanager.py", line 324, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1336, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

@@ -1,0 +1,337 @@
+2019-10-22 23:59:09,323 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 23:59:09,323 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 23:59:09,323 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 23:59:09,323 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 23:59:11,463 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 23:59:11,590 - selenium - INFO - Browser maximization
+2019-10-22 23:59:11,606 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 23:59:11,606 - selenium - INFO - Executing use test case:
+2019-10-22 23:59:12,588 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 23:59:12,716 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.regBtn']
+2019-10-22 23:59:12,947 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.regBtn']
+2019-10-22 23:59:13,577 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:14,043 - selenium - INFO - Input content：enintech0
+2019-10-22 23:59:14,066 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:14,347 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:14,373 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:14,719 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:14,745 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:14,950 - selenium - INFO - Input content：1234
+2019-10-22 23:59:14,987 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:15,287 - selenium - INFO - Input content：13898378887
+2019-10-22 23:59:15,312 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'CANCEL2']
+2019-10-22 23:59:15,440 - selenium - INFO - Click on the element success,location method and value used：['id', 'CANCEL2']
+2019-10-22 23:59:15,465 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:15,613 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:15,641 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:15,701 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 23:59:15,714 - selenium - INFO - Failure of test case execution! Reason: '帐号6-10位数字或字母' != None : Assert Verification fail：expected outcome{None} != actual results{帐号6-10位数字或字母}
+
+2019-10-22 23:59:15,714 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否为必填项）
+2019-10-22 23:59:15,714 - selenium - INFO - input data:username:,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 23:59:15,734 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:15,901 - selenium - INFO - Input content：
+2019-10-22 23:59:15,920 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:16,085 - selenium - INFO - Input content：
+2019-10-22 23:59:16,117 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:16,263 - selenium - INFO - Input content：
+2019-10-22 23:59:16,280 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:16,421 - selenium - INFO - Input content：
+2019-10-22 23:59:16,442 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:16,557 - selenium - INFO - Input content：
+2019-10-22 23:59:16,581 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:16,673 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:16,707 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:16,731 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 23:59:16,760 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 23:59:17,415 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:17,416 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（是否为必填项）
+
+2019-10-22 23:59:17,416 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（长度是否不能小于6位）
+2019-10-22 23:59:17,416 - selenium - INFO - input data:username:12,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 23:59:17,448 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:17,687 - selenium - INFO - Input content：12
+2019-10-22 23:59:17,718 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:17,887 - selenium - INFO - Input content：
+2019-10-22 23:59:17,908 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:18,075 - selenium - INFO - Input content：
+2019-10-22 23:59:18,092 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:18,237 - selenium - INFO - Input content：
+2019-10-22 23:59:18,256 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:18,397 - selenium - INFO - Input content：
+2019-10-22 23:59:18,416 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:18,500 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:18,530 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:18,582 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 23:59:18,612 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 23:59:19,249 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:19,250 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（长度是否不能小于6位）
+
+2019-10-22 23:59:19,250 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否不能包含中文）
+2019-10-22 23:59:19,250 - selenium - INFO - input data:username:阿斯顿但是我,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 23:59:19,278 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:19,518 - selenium - INFO - Input content：阿斯顿但是我
+2019-10-22 23:59:19,548 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:19,679 - selenium - INFO - Input content：
+2019-10-22 23:59:19,711 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:19,860 - selenium - INFO - Input content：
+2019-10-22 23:59:19,879 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:20,024 - selenium - INFO - Input content：
+2019-10-22 23:59:20,039 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:20,135 - selenium - INFO - Input content：
+2019-10-22 23:59:20,166 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:20,225 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:20,254 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:20,293 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 23:59:20,314 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 23:59:20,814 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:20,814 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（是否不能包含中文）
+
+2019-10-22 23:59:20,814 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否不能包含特殊字符）
+2019-10-22 23:59:20,814 - selenium - INFO - input data:username:*&#123abc,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 23:59:20,836 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:20,985 - selenium - INFO - Input content：*&#123abc
+2019-10-22 23:59:21,014 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:21,141 - selenium - INFO - Input content：
+2019-10-22 23:59:21,163 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:21,280 - selenium - INFO - Input content：
+2019-10-22 23:59:21,302 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:21,396 - selenium - INFO - Input content：
+2019-10-22 23:59:21,421 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:21,554 - selenium - INFO - Input content：
+2019-10-22 23:59:21,574 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:21,658 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:21,676 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:21,695 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 23:59:21,711 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 23:59:22,285 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:22,286 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（是否不能包含特殊字符）
+
+2019-10-22 23:59:22,286 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（长度是否不能小于6位）
+2019-10-22 23:59:22,286 - selenium - INFO - input data:username:123as,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 23:59:22,303 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:22,481 - selenium - INFO - Input content：123as
+2019-10-22 23:59:22,518 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:22,698 - selenium - INFO - Input content：
+2019-10-22 23:59:22,716 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:22,845 - selenium - INFO - Input content：
+2019-10-22 23:59:22,865 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:23,057 - selenium - INFO - Input content：
+2019-10-22 23:59:23,083 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:23,205 - selenium - INFO - Input content：
+2019-10-22 23:59:23,230 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:23,358 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:23,383 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:23,420 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 23:59:23,439 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 23:59:23,920 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:23,921 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（长度是否不能小于6位）
+
+2019-10-22 23:59:23,921 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（是否为必填项）
+2019-10-22 23:59:23,921 - selenium - INFO - input data:username:Entech9999,password:,passwd:,phone:,code:,suc:0,assert:密码8-20位数字或字母
+2019-10-22 23:59:23,944 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:24,196 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:24,226 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:24,346 - selenium - INFO - Input content：
+2019-10-22 23:59:24,374 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:24,490 - selenium - INFO - Input content：
+2019-10-22 23:59:24,516 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:24,644 - selenium - INFO - Input content：
+2019-10-22 23:59:24,659 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:24,793 - selenium - INFO - Input content：
+2019-10-22 23:59:24,812 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:24,878 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:24,901 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:24,932 - selenium - INFO - Obtained text：密码8-20位数字或字母
+2019-10-22 23:59:24,958 - selenium - INFO - Assert Verify success：expected outcome:{密码8-20位数字或字母} == actual results:{密码8-20位数字或字母}
+2019-10-22 23:59:25,436 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:25,436 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（是否为必填项）
+
+2019-10-22 23:59:25,436 - selenium - INFO - Executing use test case:注册页面，检测验证码字段规则（是否为必填项）
+2019-10-22 23:59:25,436 - selenium - INFO - input data:username:Entech9999,password:12345678,passwd:12345678,phone:,code:,suc:0,assert:请输入验证码
+2019-10-22 23:59:25,458 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:25,701 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:25,725 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:25,936 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:25,979 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:26,220 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:26,237 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:26,409 - selenium - INFO - Input content：
+2019-10-22 23:59:26,436 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:26,591 - selenium - INFO - Input content：
+2019-10-22 23:59:26,608 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:26,711 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:26,742 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:26,769 - selenium - INFO - Obtained text：请输入验证码
+2019-10-22 23:59:26,812 - selenium - INFO - Assert Verify success：expected outcome:{请输入验证码} == actual results:{请输入验证码}
+2019-10-22 23:59:27,343 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:27,344 - selenium - INFO - Successful execution of test cases:注册页面，检测验证码字段规则（是否为必填项）
+
+2019-10-22 23:59:27,344 - selenium - INFO - Executing use test case:注册页面，检测手机号字段规则（是否为必填项）
+2019-10-22 23:59:27,344 - selenium - INFO - input data:username:Entech9999,password:12345678,passwd:12345678,phone:1233,code:,suc:0,assert:请输入手机号
+2019-10-22 23:59:27,359 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:27,641 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:27,656 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:27,955 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:27,978 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:28,127 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:28,159 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:28,382 - selenium - INFO - Input content：1233
+2019-10-22 23:59:28,403 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:28,544 - selenium - INFO - Input content：
+2019-10-22 23:59:28,561 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:28,629 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:28,645 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:28,676 - selenium - INFO - Obtained text：请输入手机号
+2019-10-22 23:59:28,698 - selenium - INFO - Assert Verify success：expected outcome:{请输入手机号} == actual results:{请输入手机号}
+2019-10-22 23:59:29,151 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:29,151 - selenium - INFO - Successful execution of test cases:注册页面，检测手机号字段规则（是否为必填项）
+
+2019-10-22 23:59:29,151 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（最小长度是否为8位）
+2019-10-22 23:59:29,151 - selenium - INFO - input data:username:Entech9999,password:12345,passwd:12345,phone:1233,code:11144434443,suc:0,assert:密码 的最小长度为 8 字符
+2019-10-22 23:59:29,167 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:29,471 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:29,494 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:29,671 - selenium - INFO - Input content：12345
+2019-10-22 23:59:29,696 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:29,919 - selenium - INFO - Input content：12345
+2019-10-22 23:59:29,957 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:30,166 - selenium - INFO - Input content：1233
+2019-10-22 23:59:30,183 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:30,360 - selenium - INFO - Input content：11144434443
+2019-10-22 23:59:30,398 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:30,458 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:30,642 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:30,665 - selenium - INFO - Obtained text：密码 的最小长度为 8 字符
+2019-10-22 23:59:30,685 - selenium - INFO - Assert Verify success：expected outcome:{密码的最小长度为8字符} == actual results:{密码的最小长度为8字符}
+2019-10-22 23:59:31,153 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:31,154 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（最小长度是否为8位）
+
+2019-10-22 23:59:31,154 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（最小长度是否为8位）
+2019-10-22 23:59:31,154 - selenium - INFO - input data:username:Entech9999,password:1234,passwd:1234,phone:1233,code:11144434443,suc:0,assert:密码8-20位数字或字母
+2019-10-22 23:59:31,172 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:31,401 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:31,429 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:31,578 - selenium - INFO - Input content：1234
+2019-10-22 23:59:31,596 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:31,757 - selenium - INFO - Input content：1234
+2019-10-22 23:59:31,777 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:31,906 - selenium - INFO - Input content：1233
+2019-10-22 23:59:31,927 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:32,181 - selenium - INFO - Input content：11144434443
+2019-10-22 23:59:32,202 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:32,267 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:32,294 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:32,319 - selenium - INFO - Obtained text：密码8-20位数字或字母
+2019-10-22 23:59:32,343 - selenium - INFO - Assert Verify success：expected outcome:{密码8-20位数字或字母} == actual results:{密码8-20位数字或字母}
+2019-10-22 23:59:32,910 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:32,910 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（最小长度是否为8位）
+
+2019-10-22 23:59:32,910 - selenium - INFO - Executing use test case:注册页面，检测手机号字段规则（手机格式）
+2019-10-22 23:59:32,910 - selenium - INFO - input data:username:Entech9999,password:12345678,passwd:12345678,phone:1233,code:11144434443,suc:0,assert:请填写正确的手机号码.
+2019-10-22 23:59:32,934 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:33,231 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:33,250 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:33,423 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:33,459 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:33,718 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:33,749 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:33,923 - selenium - INFO - Input content：1233
+2019-10-22 23:59:33,936 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:34,119 - selenium - INFO - Input content：11144434443
+2019-10-22 23:59:34,138 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:34,231 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:34,429 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:34,456 - selenium - INFO - Obtained text：请填写正确的手机号码.
+2019-10-22 23:59:34,488 - selenium - INFO - Assert Verify success：expected outcome:{请填写正确的手机号码.} == actual results:{请填写正确的手机号码.}
+2019-10-22 23:59:34,943 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:34,943 - selenium - INFO - Successful execution of test cases:注册页面，检测手机号字段规则（手机格式）
+
+2019-10-22 23:59:34,944 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（是否区分密码字母大小写）
+2019-10-22 23:59:34,944 - selenium - INFO - input data:username:Entech9999,password:1234567a,passwd:1234567A,phone:1233,code:13944434443,suc:0,assert:两次密码不一致
+2019-10-22 23:59:34,961 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:35,312 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:35,346 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:35,599 - selenium - INFO - Input content：1234567a
+2019-10-22 23:59:35,617 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:35,826 - selenium - INFO - Input content：1234567A
+2019-10-22 23:59:35,847 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:36,021 - selenium - INFO - Input content：1233
+2019-10-22 23:59:36,046 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:36,310 - selenium - INFO - Input content：13944434443
+2019-10-22 23:59:36,329 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:36,421 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:36,442 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:36,481 - selenium - INFO - Obtained text：两次密码不一致
+2019-10-22 23:59:36,502 - selenium - INFO - Assert Verify success：expected outcome:{两次密码不一致} == actual results:{两次密码不一致}
+2019-10-22 23:59:37,060 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:37,060 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（是否区分密码字母大小写）
+
+2019-10-22 23:59:37,060 - selenium - INFO - Executing use test case:注册页面，检测是否能阻止重复注册
+2019-10-22 23:59:37,060 - selenium - INFO - input data:username:enintech0,password:987456123,passwd:987456123,phone:1233,code:13944434443,suc:0,assert:帐号已存在
+2019-10-22 23:59:37,081 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:37,372 - selenium - INFO - Input content：enintech0
+2019-10-22 23:59:37,395 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:37,627 - selenium - INFO - Input content：987456123
+2019-10-22 23:59:37,641 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:37,822 - selenium - INFO - Input content：987456123
+2019-10-22 23:59:37,847 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:38,064 - selenium - INFO - Input content：1233
+2019-10-22 23:59:38,084 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:38,373 - selenium - INFO - Input content：13944434443
+2019-10-22 23:59:38,397 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:38,475 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:38,606 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:38,644 - selenium - INFO - Obtained text：帐号已存在
+2019-10-22 23:59:38,678 - selenium - INFO - Assert Verify success：expected outcome:{帐号已存在} == actual results:{帐号已存在}
+2019-10-22 23:59:41,296 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:41,296 - selenium - INFO - Successful execution of test cases:注册页面，检测是否能阻止重复注册
+
+2019-10-22 23:59:41,296 - selenium - INFO - Executing use test case:注册页面，检测验证码字段规则（错误验证码是否阻止注册）
+2019-10-22 23:59:41,296 - selenium - INFO - input data:username:Entech9999,password:1234567a,passwd:1234567a,phone:1111,code:13944434443,suc:0,assert:验证码错误
+2019-10-22 23:59:41,319 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:41,619 - selenium - INFO - Input content：Entech9999
+2019-10-22 23:59:41,645 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:41,903 - selenium - INFO - Input content：1234567a
+2019-10-22 23:59:41,921 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:42,137 - selenium - INFO - Input content：1234567a
+2019-10-22 23:59:42,162 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:42,326 - selenium - INFO - Input content：1111
+2019-10-22 23:59:42,353 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:42,587 - selenium - INFO - Input content：13944434443
+2019-10-22 23:59:42,601 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:42,710 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:42,942 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 23:59:42,976 - selenium - INFO - Obtained text：验证码错误
+2019-10-22 23:59:43,012 - selenium - INFO - Assert Verify success：expected outcome:{验证码错误} == actual results:{验证码错误}
+2019-10-22 23:59:44,706 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 23:59:44,708 - selenium - INFO - Successful execution of test cases:注册页面，检测验证码字段规则（错误验证码是否阻止注册）
+
+2019-10-22 23:59:44,708 - selenium - INFO - Executing use test case:检测是否能够成功注册账号
+2019-10-22 23:59:44,728 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 23:59:44,960 - selenium - INFO - Input content：enintech20
+2019-10-22 23:59:44,980 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 23:59:45,173 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:45,191 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 23:59:45,418 - selenium - INFO - Input content：12345678
+2019-10-22 23:59:45,443 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 23:59:45,763 - selenium - INFO - Input content：13988889999
+2019-10-22 23:59:50,924 - selenium - INFO - Forced wait 2 second
+2019-10-22 23:59:50,948 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 23:59:51,172 - selenium - INFO - Input content：6683
+2019-10-22 23:59:51,191 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 23:59:51,285 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 23:59:53,286 - selenium - INFO - Forced wait 2 second
+2019-10-23 00:00:05,225 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-23 00:00:05,225 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-23 00:00:05,226 - selenium - INFO - 在section：environment下读取url的值
+2019-10-23 00:00:05,226 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-23 00:00:07,225 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-23 00:00:07,341 - selenium - INFO - Browser maximization
+2019-10-23 00:00:07,349 - selenium - INFO - Set static wait time 10 seconds
+2019-10-23 00:00:07,349 - selenium - INFO - Executing test cases：新注册会员，验证系统消息是否正确
+2019-10-23 00:00:08,490 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-23 00:00:08,761 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-23 00:00:09,271 - selenium - INFO - Input content：enintech19
+2019-10-23 00:00:09,314 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-23 00:00:09,607 - selenium - INFO - Input content：12345678

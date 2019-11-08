@@ -1,0 +1,46 @@
+2019-10-25 07:34:05,537 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 07:34:05,537 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 07:34:05,538 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 07:34:05,538 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 07:34:07,527 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 07:34:07,648 - selenium - INFO - Browser maximization
+2019-10-25 07:34:07,661 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 07:34:07,661 - selenium - INFO - Executing test cases：新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:34:08,530 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:34:08,680 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:34:08,977 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 07:34:09,166 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-25 07:34:09,606 - selenium - INFO - Input content：enintech27
+2019-10-25 07:34:09,631 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-25 07:34:09,927 - selenium - INFO - Input content：12345678
+2019-10-25 07:34:21,029 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-25 07:34:21,130 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-25 07:34:21,130 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 07:34:22,179 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:34:22,179 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-25 07:34:23,180 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:34:23,254 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-25 07:34:23,894 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-25 07:34:36,595 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-25 07:34:36,765 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:34:36,821 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:34:36,959 - selenium - INFO - Input content：
+2019-10-25 07:34:48,595 - selenium - ERROR - Failure of test case execution! Reason: Message: 
+
+2019-10-25 07:34:48,596 - selenium - ERROR - Failure of test case execution:'NoneType' object has no attribute 'replace'
+2019-10-25 07:34:49,017 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:34:49,501 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为数字
+2019-10-25 07:34:49,899 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:34:50,526 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:34:50,619 - selenium - INFO - Input content：12
+2019-10-25 07:35:01,974 - selenium - ERROR - Failure of test case execution! Reason: Message: 
+
+2019-10-25 07:35:01,974 - selenium - ERROR - Failure of test case execution:'NoneType' object has no attribute 'replace'
+2019-10-25 07:35:02,290 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:35:02,707 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为字母
+2019-10-25 07:35:03,171 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:35:03,876 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-25 07:35:04,400 - selenium - INFO - Input content：aaa
+2019-10-25 07:35:05,613 - selenium - ERROR - Failure of test case execution! Reason: 
+2019-10-25 07:35:05,613 - selenium - ERROR - Failure of test case execution:'NoneType' object has no attribute 'replace'

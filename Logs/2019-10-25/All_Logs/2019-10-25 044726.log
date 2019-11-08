@@ -1,0 +1,6 @@
+2019-10-25 04:47:29,625 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-25 04:47:29,626 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-25 04:47:30,969 - selenium - INFO - 在section：title下读取pro的值
+2019-10-25 04:47:30,969 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 04:47:31,032 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-25 04:47:31,032 - selenium - INFO - 在section：telegram下读取chat_id的值

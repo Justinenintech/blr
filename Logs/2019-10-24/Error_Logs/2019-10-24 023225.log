@@ -1,0 +1,26 @@
+2019-10-24 02:33:55,195 - selenium - ERROR - test_004_genero  - 272 - Failure of test case execution! Reason: '页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/' != '请登录'
+- 页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
++ 请登录
+ : Assert Verification fail：expected outcome{请登录} != actual results{页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/}
+
+2019-10-24 02:34:59,673 - selenium - ERROR - page_register  - 113 - 用例执行失败，原因：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:00,645 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:01,631 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:02,630 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:03,587 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:04,635 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:05,618 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:06,739 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:07,790 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:08,840 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:09,914 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:11,020 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:12,217 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:13,345 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:14,446 - selenium - ERROR - page_register  - 88 - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 02:35:44,144 - selenium - ERROR - page_messages  - 248 - Failure of test case execution! Reason: Message: 
+
+2019-10-24 02:35:55,564 - selenium - ERROR - page_messages  - 248 - Failure of test case execution! Reason: Message: 
+
+2019-10-24 02:36:06,968 - selenium - ERROR - page_messages  - 248 - Failure of test case execution! Reason: Message: 
+

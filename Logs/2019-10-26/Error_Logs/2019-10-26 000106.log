@@ -1,0 +1,18 @@
+2019-10-26 00:01:23,459 - selenium - ERROR - page_onlineWithdrawal  - 386 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-26 00:03:01,791 - selenium - ERROR - test_013_bindBankCard  - 147 - Failure of test case execution:'请输入16~20位银行卡号' not found in '请输入正确的银行卡号'
+2019-10-26 00:03:01,791 - selenium - ERROR - test_013_bindBankCard  - 153 - Failure of test case execution:'请输入16~20位银行卡号' not found in '请输入正确的银行卡号'
+2019-10-26 00:04:49,560 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:50,243 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:52,909 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:55,337 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:56,196 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:56,667 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:58,850 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:59,008 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:59,189 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:04:59,935 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:01,882 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:04,110 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:05,138 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:提款人姓名输入框状态为:True！未绑定过银行卡，则跳过用例test_bing_bank_card_003
+2019-10-26 00:05:29,010 - selenium - ERROR - test_013_bindBankCard  - 334 - Failure of test case execution:{提款人姓名}输入框状态为:True！输入框可编辑，则跳过用例test_bing_bank_card_005

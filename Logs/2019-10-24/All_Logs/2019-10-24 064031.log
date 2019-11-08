@@ -1,0 +1,23 @@
+2019-10-24 06:40:32,129 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 06:40:32,129 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 06:40:32,129 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 06:40:32,129 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 06:40:33,285 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 06:40:33,397 - selenium - INFO - Browser maximization
+2019-10-24 06:40:33,404 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 06:40:33,404 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的皇冠体育
+2019-10-24 06:40:33,404 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-24 06:40:34,162 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:40:34,202 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-24 06:40:35,480 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:40:46,524 - selenium - ERROR - Failure of test case execution! Reason：Message: 
+
+2019-10-24 06:40:46,525 - selenium - ERROR - Failure of test case execution! Reason: None != '未登录' : Assert Verification fail：expected outcome{未登录} != actual results{None}
+
+2019-10-24 06:40:46,918 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的沙巴体育
+2019-10-24 06:40:46,918 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-24 06:40:46,935 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-24 06:40:48,211 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:40:55,000 - selenium - ERROR - Failure of test case execution! Reason：
+2019-10-24 06:40:55,000 - selenium - ERROR - Failure of test case execution! Reason: None != '未登录' : Assert Verification fail：expected outcome{未登录} != actual results{None}
+

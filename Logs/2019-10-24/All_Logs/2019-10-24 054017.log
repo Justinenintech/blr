@@ -1,0 +1,157 @@
+2019-10-24 05:40:17,657 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 05:40:17,657 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 05:40:17,657 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 05:40:17,657 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 05:40:19,609 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 05:40:19,722 - selenium - INFO - Browser maximization
+2019-10-24 05:40:19,728 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 05:40:19,728 - selenium - INFO - Executing use test case:
+2019-10-24 05:40:20,594 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 05:40:20,670 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 05:40:20,984 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 05:40:21,051 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.regBtn']
+2019-10-24 05:40:21,223 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.regBtn']
+2019-10-24 05:40:21,637 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-24 05:40:22,028 - selenium - INFO - Input content：enintech0
+2019-10-24 05:40:22,106 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-24 05:40:22,681 - selenium - INFO - Input content：12345678
+2019-10-24 05:40:22,699 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-24 05:40:22,829 - selenium - INFO - Input content：12345678
+2019-10-24 05:40:22,847 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:40:22,986 - selenium - INFO - Input content：1234
+2019-10-24 05:40:23,007 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-24 05:40:23,165 - selenium - INFO - Input content：13898378887
+2019-10-24 05:40:23,233 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'CANCEL2']
+2019-10-24 05:40:23,298 - selenium - INFO - Click on the element success,location method and value used：['id', 'CANCEL2']
+2019-10-24 05:40:23,326 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:40:23,380 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:40:23,421 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-24 05:40:23,448 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-24 05:40:23,460 - selenium - INFO - Failure of test case execution! Reason: '帐号6-10位数字或字母' != None : Assert Verification fail：expected outcome{None} != actual results{帐号6-10位数字或字母}
+
+2019-10-24 05:40:23,460 - selenium - INFO - Executing use test case:检测是否能够成功注册账号
+2019-10-24 05:40:23,480 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-24 05:40:23,610 - selenium - INFO - Input content：enintech38
+2019-10-24 05:40:23,624 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-24 05:40:23,744 - selenium - INFO - Input content：12345678
+2019-10-24 05:40:23,762 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-24 05:40:23,909 - selenium - INFO - Input content：12345678
+2019-10-24 05:40:23,934 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-24 05:40:24,040 - selenium - INFO - Input content：13988889999
+2019-10-24 05:40:26,849 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:26,879 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:40:26,952 - selenium - INFO - Input content：780
+2019-10-24 05:40:26,963 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:40:27,008 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:40:29,010 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:29,026 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-24 05:40:29,050 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-24 05:40:29,068 - selenium - INFO - Obtained text：请输入4位验证码
+2019-10-24 05:40:29,091 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-24 05:40:29,101 - selenium - INFO - Obtained text：请输入4位验证码
+2019-10-24 05:40:29,128 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-24 05:40:29,141 - selenium - INFO - Obtained text：请输入4位验证码
+2019-10-24 05:40:30,155 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:30,175 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:30,227 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:31,229 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:34,514 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:34,528 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:40:34,634 - selenium - INFO - Input content：7巧51
+2019-10-24 05:40:34,646 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:40:34,694 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:40:36,696 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:37,697 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:37,721 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:37,776 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:38,777 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:41,500 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:41,516 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:40:41,622 - selenium - INFO - Input content：5249
+2019-10-24 05:40:41,635 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:40:41,680 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:40:43,683 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:44,685 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:44,697 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:44,745 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:45,747 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:48,639 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:48,651 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:40:48,737 - selenium - INFO - Input content：2586
+2019-10-24 05:40:48,749 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:40:48,795 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:40:50,798 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:40:51,799 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:40:51,810 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:51,841 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:40:52,842 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:01,924 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:01,938 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:02,029 - selenium - INFO - Input content：083
+2019-10-24 05:41:02,041 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:02,076 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:04,078 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:05,080 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:05,091 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:05,123 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:06,125 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:08,985 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:08,997 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:09,084 - selenium - INFO - Input content：2982
+2019-10-24 05:41:09,103 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:09,140 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:11,143 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:12,144 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:12,159 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:12,191 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:13,193 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:16,546 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:16,560 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:16,643 - selenium - INFO - Input content：3531
+2019-10-24 05:41:16,656 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:16,689 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:18,691 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:19,692 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:19,710 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:19,758 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:20,759 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:28,847 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:28,861 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:28,970 - selenium - INFO - Input content：6434
+2019-10-24 05:41:28,983 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:29,026 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:31,027 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:32,028 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:32,040 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:32,072 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:33,074 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:36,623 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:36,637 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:36,729 - selenium - INFO - Input content：4091
+2019-10-24 05:41:36,740 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:36,777 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:38,777 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:39,779 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:39,790 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:39,822 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:40,823 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:44,152 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:44,167 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:44,263 - selenium - INFO - Input content：8563
+2019-10-24 05:41:44,280 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:44,325 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:46,327 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:47,329 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:47,383 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:47,444 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:48,445 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:51,989 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:52,009 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-24 05:41:52,113 - selenium - INFO - Input content：589
+2019-10-24 05:41:52,126 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 05:41:52,257 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 05:41:54,260 - selenium - INFO - Forced wait 2 second
+2019-10-24 05:41:55,261 - selenium - INFO - Forced wait 1 second
+2019-10-24 05:41:55,279 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:55,332 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-24 05:41:56,333 - selenium - INFO - Forced wait 1 second

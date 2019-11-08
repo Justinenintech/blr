@@ -1,0 +1,38 @@
+2019-10-24 06:41:54,261 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 06:41:54,261 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 06:41:54,262 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 06:41:54,262 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 06:41:55,768 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 06:41:55,882 - selenium - INFO - Browser maximization
+2019-10-24 06:41:55,887 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 06:41:55,887 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的皇冠体育
+2019-10-24 06:41:55,887 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-24 06:41:56,617 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:41:56,654 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:41:56,846 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 06:41:56,867 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-24 06:41:58,151 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:41:58,173 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '皇冠体育']
+2019-10-24 06:41:58,559 - selenium - INFO - Click on the element success,location method and value used：['link text', '皇冠体育']
+2019-10-24 06:41:59,561 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:41:59,602 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 06:41:59,618 - selenium - INFO - Obtained text：未登录
+2019-10-24 06:41:59,630 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-24 06:42:00,005 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:42:00,005 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的皇冠体育
+
+2019-10-24 06:42:00,005 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的沙巴体育
+2019-10-24 06:42:00,005 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-24 06:42:00,018 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-24 06:42:01,295 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:42:01,317 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '沙巴体育']
+2019-10-24 06:42:01,362 - selenium - INFO - Click on the element success,location method and value used：['link text', '沙巴体育']
+2019-10-24 06:42:02,364 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:42:02,403 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-24 06:42:02,421 - selenium - INFO - Obtained text：未登录
+2019-10-24 06:42:02,433 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-24 06:42:02,564 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的沙巴体育
+
+2019-10-24 06:42:02,564 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的BBin体育
+2019-10-24 06:42:02,564 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-24 06:42:02,724 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']

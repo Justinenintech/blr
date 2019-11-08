@@ -1,0 +1,20 @@
+2019-10-24 02:37:36,145 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 02:37:36,145 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 02:37:36,145 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 02:37:36,145 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-24 02:37:37,490 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-24 02:37:37,608 - selenium - INFO - Browser maximization
+2019-10-24 02:37:37,619 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 02:37:37,619 - selenium - INFO - Executing use test case:
+2019-10-24 02:37:38,271 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 02:37:38,339 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.regBtn']
+2019-10-24 02:37:38,467 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.regBtn']
+2019-10-24 02:37:49,507 - selenium - ERROR - 用例执行失败，原因：Message: 
+
+2019-10-24 02:37:49,507 - selenium - INFO - Assert Verify success：expected outcome:{None} == actual results:{None}
+2019-10-24 02:37:49,952 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 02:37:49,952 - selenium - INFO - Successful execution of test cases:
+
+2019-10-24 02:37:49,952 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否为必填项）
+2019-10-24 02:37:49,952 - selenium - INFO - input data:username:,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-24 02:37:56,283 - selenium - ERROR - Failure of test case execution! Reason：

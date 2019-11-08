@@ -1,0 +1,12 @@
+#!/root/PycharmProjects/blr.9161252.com/venv/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'dtt==0.9.1','console_scripts','dtt'
+__requires__ = 'dtt==0.9.1'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('dtt==0.9.1', 'console_scripts', 'dtt')()
+    )

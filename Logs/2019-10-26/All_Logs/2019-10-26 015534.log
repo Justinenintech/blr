@@ -1,0 +1,142 @@
+2019-10-26 01:55:38,314 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-26 01:55:38,315 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-26 01:55:38,315 - selenium - INFO - 在section：environment下读取url的值
+2019-10-26 01:55:38,315 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-26 01:55:41,358 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-26 01:55:41,476 - selenium - INFO - Browser maximization
+2019-10-26 01:55:41,487 - selenium - INFO - Set static wait time 10 seconds
+2019-10-26 01:55:41,487 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的皇冠体育
+2019-10-26 01:55:41,487 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:55:42,619 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-26 01:55:42,903 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-26 01:55:43,595 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-26 01:55:43,801 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-26 01:55:45,248 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:45,325 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '皇冠体育']
+2019-10-26 01:55:46,069 - selenium - INFO - Click on the element success,location method and value used：['link text', '皇冠体育']
+2019-10-26 01:55:47,071 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:47,322 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:55:47,358 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:55:47,381 - selenium - ERROR - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:55:49,254 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的沙巴体育
+2019-10-26 01:55:49,254 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:55:49,325 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-26 01:55:50,704 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:50,809 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '沙巴体育']
+2019-10-26 01:55:51,127 - selenium - INFO - Click on the element success,location method and value used：['link text', '沙巴体育']
+2019-10-26 01:55:52,129 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:52,256 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:55:52,304 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:55:52,341 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-26 01:55:53,068 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 01:55:53,069 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的沙巴体育
+
+2019-10-26 01:55:53,069 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的BBin体育
+2019-10-26 01:55:53,069 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:55:53,126 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-26 01:55:54,469 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:54,534 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', 'BB体育']
+2019-10-26 01:55:54,708 - selenium - INFO - Click on the element success,location method and value used：['link text', 'BB体育']
+2019-10-26 01:55:55,710 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:55,887 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:55:55,953 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:55:56,057 - selenium - ERROR - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:55:57,019 - selenium - INFO - Executing use test case:未登录情况下，访问体育赛事中的AG体育
+2019-10-26 01:55:57,019 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:55:57,055 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-26 01:55:58,372 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:58,432 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', 'AG体育']
+2019-10-26 01:55:58,613 - selenium - INFO - Click on the element success,location method and value used：['link text', 'AG体育']
+2019-10-26 01:55:59,614 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:55:59,738 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:55:59,760 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:55:59,788 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-26 01:56:00,661 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 01:56:00,661 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的AG体育
+
+2019-10-26 01:56:00,662 - selenium - INFO - Executing use test case:未登录情况下，在视讯直播中启动AG场馆
+2019-10-26 01:56:00,662 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:56:00,734 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(3) > .navA']
+2019-10-26 01:56:02,555 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.navLi:nth-child(3) > .navA']
+2019-10-26 01:56:03,556 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:03,584 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ag']
+2019-10-26 01:56:03,708 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ag']
+2019-10-26 01:56:04,709 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:04,784 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:56:04,820 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:56:04,842 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-26 01:56:05,841 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 01:56:05,841 - selenium - INFO - Successful execution of test cases:未登录情况下，在视讯直播中启动AG场馆
+
+2019-10-26 01:56:05,842 - selenium - INFO - Executing use test case:未登录情况下，在电子游艺中启动[游戏xxx]
+2019-10-26 01:56:05,842 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:56:06,020 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(2) > .navA']
+2019-10-26 01:56:09,434 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.navLi:nth-child(2) > .navA']
+2019-10-26 01:56:10,435 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:10,479 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ipt']
+2019-10-26 01:56:11,113 - selenium - INFO - Input content：老虎机
+2019-10-26 01:56:12,114 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:12,167 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.btn-search']
+2019-10-26 01:56:12,422 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.btn-search']
+2019-10-26 01:56:13,423 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:14,477 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:14,517 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//img[@data-src='https://blr.8581333.com/images/default/pc/2177.png']"]
+2019-10-26 01:56:14,650 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//img[@data-src='https://blr.8581333.com/images/default/pc/2177.png']"]
+2019-10-26 01:56:15,651 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:15,829 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:56:15,926 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:56:16,111 - selenium - ERROR - Failure of test case execution! Reason: '' != '未登录'
++ 未登录
+
+2019-10-26 01:56:16,532 - selenium - INFO - Executing use test cases:未登录情况下，访问棋牌游戏中的乐游棋牌
+2019-10-26 01:56:16,533 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:56:17,597 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:17,597 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-26 01:56:18,599 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:18,636 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-26 01:56:19,939 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:20,006 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '乐游棋牌']
+2019-10-26 01:56:20,133 - selenium - INFO - Click on the element success,location method and value used：['link text', '乐游棋牌']
+2019-10-26 01:56:21,134 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:21,442 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:56:21,524 - selenium - INFO - Obtained text：
+2019-10-26 01:56:21,589 - selenium - ERROR - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:56:22,478 - selenium - INFO - Executing use test cases:未登录情况下，访问棋牌游戏中的开元棋牌
+2019-10-26 01:56:22,478 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:56:23,546 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:23,546 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-26 01:56:24,547 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:24,609 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-26 01:56:25,944 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:26,057 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '开元棋牌']
+2019-10-26 01:56:26,393 - selenium - INFO - Click on the element success,location method and value used：['link text', '开元棋牌']
+2019-10-26 01:56:27,395 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:27,510 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:56:27,616 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:56:27,726 - selenium - ERROR - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:56:28,843 - selenium - INFO - Executing use test cases:未登录情况下，访问棋牌游戏中的VG棋牌
+2019-10-26 01:56:28,843 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-26 01:56:29,859 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:29,859 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-26 01:56:30,861 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:30,945 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-26 01:56:32,264 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:32,330 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', 'VG棋牌']
+2019-10-26 01:56:32,429 - selenium - INFO - Click on the element success,location method and value used：['link text', 'VG棋牌']
+2019-10-26 01:56:33,431 - selenium - INFO - Forced wait 1 second
+2019-10-26 01:56:33,614 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-26 01:56:33,690 - selenium - INFO - Obtained text：未登录
+2019-10-26 01:56:33,730 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-26 01:56:34,590 - selenium - INFO - Screenshot saved successfully!
+2019-10-26 01:56:34,590 - selenium - INFO - Successful execution of test cases:未登录情况下，访问棋牌游戏中的VG棋牌
+
+2019-10-26 01:56:34,591 - selenium - INFO - Executing use test case:未登录情况下，访问棋牌游戏中的天豪棋牌
+2019-10-26 01:56:34,591 - selenium - INFO - input data:suc:0,assert:未登录

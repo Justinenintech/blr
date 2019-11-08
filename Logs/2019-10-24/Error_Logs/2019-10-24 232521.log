@@ -1,0 +1,7 @@
+2019-10-24 23:25:38,949 - selenium - ERROR - page_updatePassword  - 400 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-24 23:26:45,052 - selenium - ERROR - page_updatePassword  - 120 - Failure of test case execution! Reason: Message: 
+
+2019-10-24 23:26:56,621 - selenium - ERROR - page_updatePassword  - 120 - Failure of test case execution! Reason: Message: 
+
+2019-10-24 23:27:03,940 - selenium - ERROR - page_updatePassword  - 120 - Failure of test case execution! Reason: 

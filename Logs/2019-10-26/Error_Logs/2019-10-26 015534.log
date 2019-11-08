@@ -1,0 +1,15 @@
+2019-10-26 01:55:47,381 - selenium - ERROR - test_001_gameLink  - 73 - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:55:56,057 - selenium - ERROR - test_001_gameLink  - 115 - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:56:16,111 - selenium - ERROR - test_001_gameLink  - 172 - Failure of test case execution! Reason: '' != '未登录'
++ 未登录
+
+2019-10-26 01:56:21,589 - selenium - ERROR - test_001_gameLink  - 197 - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-26 01:56:27,726 - selenium - ERROR - test_001_gameLink  - 222 - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+

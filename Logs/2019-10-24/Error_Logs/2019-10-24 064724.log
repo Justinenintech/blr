@@ -1,0 +1,5 @@
+2019-10-24 06:48:34,030 - selenium - ERROR - test_004_genero  - 272 - Failure of test case execution! Reason: '页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/' != '请登录'
+- 页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
++ 请登录
+ : Assert Verification fail：expected outcome{请登录} != actual results{页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/}
+

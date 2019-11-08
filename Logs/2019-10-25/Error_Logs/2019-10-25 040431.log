@@ -1,0 +1,9 @@
+2019-10-25 04:04:47,460 - selenium - ERROR - page_updatePassword  - 401 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 04:07:23,810 - selenium - ERROR - test_011_accountSecurity  - 311 - Failure of test cases execution：'请选择密保问题' not found in '请输入新密保答案' : Assert Verification fail：expected outcome{请选择密保问题} != actual results{请输入新密保答案}
+
+2019-10-25 04:08:21,428 - selenium - ERROR - page_onlineWithdrawal  - 357 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 04:10:16,182 - selenium - ERROR - test_013_bindBankCard  - 140 - Failure of test case execution:'开户姓名的最小长度为2字符' not found in '资金密码错误\n确认'
+2019-10-25 04:10:40,593 - selenium - ERROR - test_013_bindBankCard  - 200 - Failure of test case execution:绑定成功提示信息的预期结果：绑定成功 与 实际结果：姓名重复注册多个，请洽客服人员
+确认 不一致

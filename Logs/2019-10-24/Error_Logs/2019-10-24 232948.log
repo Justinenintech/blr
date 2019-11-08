@@ -1,0 +1,4 @@
+2019-10-24 23:30:04,168 - selenium - ERROR - page_updatePassword  - 401 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-24 23:32:33,777 - selenium - ERROR - test_011_accountSecurity  - 312 - Failure of test cases execution：'请选择密保问题' not found in '请输入新密保答案' : Assert Verification fail：expected outcome{请选择密保问题} != actual results{请输入新密保答案}
+

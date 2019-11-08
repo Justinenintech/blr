@@ -1,0 +1,34 @@
+2019-10-22 05:59:54,313 - selenium - ERROR - test_001_gameLink  - 94 - Failure of test case execution! Reason: '' != '未登录'
++ 未登录 : Assert Verification fail：expected outcome{未登录} != actual results{}
+
+2019-10-22 06:01:07,597 - selenium - ERROR - test_004_genero  - 272 - Failure of test case execution! Reason: '页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/' != '请登录'
+- 页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
++ 请登录
+ : Assert Verification fail：expected outcome{请登录} != actual results{页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/}
+
+2019-10-22 06:03:07,870 - selenium - ERROR - page_messages  - 228 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:03:10,609 - selenium - ERROR - test_008_messages  - 108 - Failure of test case execution:'10-19' not found in '2019-10-22'
+2019-10-22 06:03:29,338 - selenium - ERROR - page_realTimeBackWater  - 202 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:03:46,052 - selenium - ERROR - page_bettingRecord  - 189 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:04:02,836 - selenium - ERROR - page_updatePassword  - 400 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:04:37,932 - selenium - ERROR - test_011_accountSecurity  - 170 - Failure of test cases execution：'请输入6位数字原资金密码' not found in '请输入6位数字资金密码' : Assert Verification fail：expected outcome{请输入6位数字原资金密码} != actual results{请输入6位数字资金密码}
+
+2019-10-22 06:04:39,311 - selenium - ERROR - test_011_accountSecurity  - 170 - Failure of test cases execution：'请输入6位数字原资金密码' not found in '请输入6位数字资金密码' : Assert Verification fail：expected outcome{请输入6位数字原资金密码} != actual results{请输入6位数字资金密码}
+
+2019-10-22 06:04:41,293 - selenium - ERROR - test_011_accountSecurity  - 170 - Failure of test cases execution：'请输入6位数字原资金密码' not found in '请输入6位数字资金密码' : Assert Verification fail：expected outcome{请输入6位数字原资金密码} != actual results{请输入6位数字资金密码}
+
+2019-10-22 06:04:44,790 - selenium - ERROR - test_011_accountSecurity  - 170 - Failure of test cases execution：'请输入6位数字原资金密码' not found in '请输入6位数字资金密码' : Assert Verification fail：expected outcome{请输入6位数字原资金密码} != actual results{请输入6位数字资金密码}
+
+2019-10-22 06:05:42,929 - selenium - ERROR - test_011_accountSecurity  - 308 - Failure of test cases execution：'请选择密保问题' not found in '请输入新密保答案' : Assert Verification fail：expected outcome{请选择密保问题} != actual results{请输入新密保答案}
+
+2019-10-22 06:06:28,111 - selenium - ERROR - page_onlineDeposit  - 525 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:07:37,622 - selenium - ERROR - page_onlineWithdrawal  - 357 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:08:26,534 - selenium - ERROR - test_013_bindBankCard  - 138 - Failure of test case execution:'请输入支付密码' not found in '请输入16~20位银行卡号'
+2019-10-22 06:09:13,745 - selenium - ERROR - test_013_bindBankCard  - 198 - Failure of test case execution:绑定成功提示信息的预期结果：绑定成功 与 实际结果：抱歉！当前银行卡已经绑定请勿重复绑定！
+确认 不一致

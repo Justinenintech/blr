@@ -1,0 +1,16 @@
+2019-10-24 07:23:29,271 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '请输入账号' not found in ''
+
+2019-10-24 07:23:31,230 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '请输入密码' not found in ''
+
+2019-10-24 07:23:33,563 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '帐号或密码错误' not found in ''
+
+2019-10-24 07:23:35,630 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '账号不存在' not found in ''
+
+2019-10-24 07:23:38,037 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '用户名 必须全部由字母、数字、中划线或下划线字符构成' not found in ''
+
+2019-10-24 07:23:40,254 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '请输入6-10位数字或字母组成的帐号' not found in ''
+
+2019-10-24 07:23:42,490 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '请输入6-10位数字或字母组成的帐号' not found in ''
+
+2019-10-24 07:23:44,664 - selenium - ERROR - test_006_loginError  - 72 - Failure of test case execution! Reason: '请输入6-10位数字或字母组成的帐号' not found in ''
+

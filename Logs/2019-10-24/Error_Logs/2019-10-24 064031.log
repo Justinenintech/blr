@@ -1,0 +1,7 @@
+2019-10-24 06:40:46,524 - selenium - ERROR - page_gameLink  - 212 - Failure of test case execution! Reason：Message: 
+
+2019-10-24 06:40:46,525 - selenium - ERROR - test_001_gameLink  - 73 - Failure of test case execution! Reason: None != '未登录' : Assert Verification fail：expected outcome{未登录} != actual results{None}
+
+2019-10-24 06:40:55,000 - selenium - ERROR - page_gameLink  - 230 - Failure of test case execution! Reason：
+2019-10-24 06:40:55,000 - selenium - ERROR - test_001_gameLink  - 94 - Failure of test case execution! Reason: None != '未登录' : Assert Verification fail：expected outcome{未登录} != actual results{None}
+

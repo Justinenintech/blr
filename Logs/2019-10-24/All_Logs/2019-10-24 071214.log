@@ -1,0 +1,22 @@
+2019-10-24 07:12:14,594 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:12:14,594 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:12:14,594 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:12:14,594 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:12:16,050 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:12:16,178 - selenium - INFO - Browser maximization
+2019-10-24 07:12:16,190 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:12:16,255 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:12:16,255 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:12:16,255 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:12:16,256 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:12:17,699 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:12:17,816 - selenium - INFO - Browser maximization
+2019-10-24 07:12:17,823 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:12:17,824 - selenium - INFO - Executing test cases：新注册会员，登录情况下，访问投注记录
+2019-10-24 07:12:18,755 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:12:18,830 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:12:19,002 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 07:12:19,126 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:12:19,364 - selenium - INFO - Input content：enintech42
+2019-10-24 07:12:19,423 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:12:19,768 - selenium - INFO - Input content：12345678

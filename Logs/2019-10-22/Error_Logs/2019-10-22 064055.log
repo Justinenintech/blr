@@ -1,0 +1,10 @@
+2019-10-22 06:41:58,943 - selenium - ERROR - test_004_genero  - 272 - Failure of test case execution! Reason: '页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/' != '请登录'
+- 页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
++ 请登录
+ : Assert Verification fail：expected outcome{请登录} != actual results{页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/}
+
+2019-10-22 06:43:24,655 - selenium - ERROR - page_messages  - 228 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-22 06:43:27,252 - selenium - ERROR - test_008_messages  - 108 - Failure of test case execution:'10-19' not found in '2019-10-22'
+2019-10-22 06:43:45,370 - selenium - ERROR - page_realTimeBackWater  - 202 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+

@@ -1,0 +1,8 @@
+2019-10-25 01:55:01,869 - selenium - ERROR - page_messages  - 229 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 01:55:17,720 - selenium - ERROR - page_messages  - 249 - Failure of test case execution! Reason: Message: 
+
+2019-10-25 01:55:30,851 - selenium - ERROR - page_messages  - 249 - Failure of test case execution! Reason: Message: 
+
+2019-10-25 01:55:43,715 - selenium - ERROR - page_messages  - 249 - Failure of test case execution! Reason: Message: 
+

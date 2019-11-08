@@ -1,0 +1,17 @@
+2019-10-25 07:57:47,222 - selenium - ERROR - page_onlineWithdrawal  - 386 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 07:58:00,979 - selenium - ERROR - test_013_bindBankCard  - 105 - Failure of test case execution:Message: 
+
+2019-10-25 07:58:01,843 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:01,926 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:01,989 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,084 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,165 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,235 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,335 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,388 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,467 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,549 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,605 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:02,917 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'
+2019-10-25 07:58:03,814 - selenium - ERROR - test_013_bindBankCard  - 203 - Failure of test case execution:'name'

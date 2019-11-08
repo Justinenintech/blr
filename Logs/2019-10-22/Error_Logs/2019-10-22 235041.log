@@ -1,0 +1,43 @@
+2019-10-22 23:51:48,491 - selenium - ERROR - basePage  - 124 - Browser open error
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 377, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/Common/basePage.py", line 115, in open_browser
+    self.navigate(url)
+  File "/root/PycharmProjects/blr.9161252.com/Common/basePage.py", line 252, in navigate
+    self.driver.get(url)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 402, in _request
+    resp = http.request(method, url, body=body, headers=headers)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/poolmanager.py", line 324, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1336, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+2019-10-22 23:51:49,182 - selenium - ERROR - page_messages  - 248 - Failure of test case execution! Reason: 'NoneType' object has no attribute 'find_element'
+2019-10-22 23:51:49,183 - selenium - ERROR - page_messages  - 248 - Failure of test case execution! Reason: 'NoneType' object has no attribute 'find_element'
+2019-10-22 23:51:49,183 - selenium - ERROR - page_messages  - 248 - Failure of test case execution! Reason: 'NoneType' object has no attribute 'find_element'

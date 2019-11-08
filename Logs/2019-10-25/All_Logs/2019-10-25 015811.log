@@ -1,0 +1,80 @@
+2019-10-25 01:58:12,106 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 01:58:12,106 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 01:58:12,107 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 01:58:12,107 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 01:58:14,220 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 01:58:14,348 - selenium - INFO - Browser maximization
+2019-10-25 01:58:14,363 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 01:58:14,363 - selenium - INFO - Executing test cases：新注册会员，验证系统消息是否正确
+2019-10-25 01:58:15,988 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 01:58:16,703 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 01:58:17,019 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 01:58:17,305 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-25 01:58:18,033 - selenium - INFO - Input content：enintech28
+2019-10-25 01:58:18,115 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-25 01:58:18,884 - selenium - INFO - Input content：12345678
+2019-10-25 01:58:30,144 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-25 01:58:30,494 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-25 01:58:30,494 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 01:58:31,641 - selenium - INFO - Forced wait 1 second
+2019-10-25 01:58:31,642 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-25 01:58:32,642 - selenium - INFO - Forced wait 1 second
+2019-10-25 01:58:32,756 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.message']
+2019-10-25 01:58:33,869 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.message']
+2019-10-25 01:58:33,897 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.preferential > .header']
+2019-10-25 01:58:33,949 - selenium - INFO - Obtained text：系统信息
+2019-10-25 01:58:34,010 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[2]/span']
+2019-10-25 01:58:34,206 - selenium - INFO - Click on the element success,location method and value used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[2]/span']
+2019-10-25 01:58:34,206 - selenium - ERROR - Failure of test case execution:'欢迎注册澳门巴黎人' not found in '系统信息'
+2019-10-25 01:58:35,493 - selenium - INFO - Executing test cases：新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:58:35,979 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row > input']
+2019-10-25 01:58:38,338 - selenium - INFO - Input content：
+2019-10-25 01:58:38,743 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'textarea']
+2019-10-25 01:58:39,298 - selenium - INFO - Input content：
+2019-10-25 01:58:39,317 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-25 01:58:39,890 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-25 01:58:40,374 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 01:58:41,333 - selenium - INFO - Obtained text：请输入标题
+2019-10-25 01:58:43,834 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:58:43,835 - selenium - INFO - Successful execution of test cases:新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:58:43,835 - selenium - INFO - Executing test cases：新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:58:44,433 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row > input']
+2019-10-25 01:58:47,029 - selenium - INFO - Input content：测试-投诉消息
+2019-10-25 01:58:47,389 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'textarea']
+2019-10-25 01:58:49,720 - selenium - INFO - Input content：
+2019-10-25 01:58:50,166 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-25 01:58:50,978 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-25 01:58:51,083 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 01:58:51,122 - selenium - INFO - Obtained text：请输入内容
+2019-10-25 01:58:52,690 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:58:52,690 - selenium - INFO - Successful execution of test cases:新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:58:52,692 - selenium - INFO - Executing test cases：新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:58:52,959 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row > input']
+2019-10-25 01:58:53,866 - selenium - INFO - Input content：测试-投诉消息
+2019-10-25 01:58:53,913 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'textarea']
+2019-10-25 01:58:56,647 - selenium - INFO - Input content：测试投诉消息哦~！！！293929
+2019-10-25 01:58:57,121 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submit']
+2019-10-25 01:58:58,912 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submit']
+2019-10-25 01:58:59,410 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 01:58:59,475 - selenium - INFO - Obtained text：发送成功
+确认
+2019-10-25 01:59:01,213 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:59:01,213 - selenium - INFO - Successful execution of test cases:新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:59:01,219 - selenium - INFO - Executing test cases：新注册会员，验证已发投注信息的内容是否正确
+2019-10-25 01:59:01,475 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[3]/span']
+2019-10-25 01:59:01,717 - selenium - INFO - Click on the element success,location method and value used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[3]/span']
+2019-10-25 01:59:01,818 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.contentActive > .title']
+2019-10-25 01:59:01,909 - selenium - INFO - Obtained text：测试-投诉消息
+2019-10-25 01:59:02,513 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.contentActive > .main']
+2019-10-25 01:59:02,933 - selenium - INFO - Obtained text：测试投诉消息哦~！！！293929
+2019-10-25 01:59:03,473 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div/p']
+2019-10-25 01:59:03,508 - selenium - INFO - Obtained text：10-25
+2019-10-25 01:59:05,099 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:59:05,106 - selenium - INFO - Successful execution of test cases:新注册会员，验证已发投注信息的内容是否正确
+2019-10-25 01:59:09,131 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-25 01:59:09,144 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-25 01:59:14,023 - selenium - INFO - 在section：title下读取pro的值
+2019-10-25 01:59:14,025 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 01:59:14,159 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-25 01:59:14,159 - selenium - INFO - 在section：telegram下读取chat_id的值

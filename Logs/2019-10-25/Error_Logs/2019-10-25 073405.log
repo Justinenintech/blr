@@ -1,0 +1,10 @@
+2019-10-25 07:34:21,130 - selenium - ERROR - page_onlineWithdrawal  - 386 - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 07:34:48,595 - selenium - ERROR - page_onlineWithdrawal  - 241 - Failure of test case execution! Reason: Message: 
+
+2019-10-25 07:34:48,596 - selenium - ERROR - test_013_bindBankCard  - 148 - Failure of test case execution:'NoneType' object has no attribute 'replace'
+2019-10-25 07:35:01,974 - selenium - ERROR - page_onlineWithdrawal  - 241 - Failure of test case execution! Reason: Message: 
+
+2019-10-25 07:35:01,974 - selenium - ERROR - test_013_bindBankCard  - 148 - Failure of test case execution:'NoneType' object has no attribute 'replace'
+2019-10-25 07:35:05,613 - selenium - ERROR - page_onlineWithdrawal  - 241 - Failure of test case execution! Reason: 
+2019-10-25 07:35:05,613 - selenium - ERROR - test_013_bindBankCard  - 148 - Failure of test case execution:'NoneType' object has no attribute 'replace'

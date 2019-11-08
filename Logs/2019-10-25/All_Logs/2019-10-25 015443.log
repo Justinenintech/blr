@@ -1,0 +1,142 @@
+2019-10-25 01:54:44,051 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 01:54:44,051 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 01:54:44,051 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 01:54:44,051 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 01:54:46,683 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 01:54:46,927 - selenium - INFO - Browser maximization
+2019-10-25 01:54:46,964 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 01:54:46,964 - selenium - INFO - Executing test cases：新注册会员，验证系统消息是否正确
+2019-10-25 01:54:48,680 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 01:54:49,036 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 01:54:49,420 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 01:54:49,603 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-25 01:54:50,223 - selenium - INFO - Input content：enintech28
+2019-10-25 01:54:50,269 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-25 01:54:50,626 - selenium - INFO - Input content：12345678
+2019-10-25 01:55:01,736 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-25 01:55:01,868 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-25 01:55:01,869 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 01:55:02,931 - selenium - INFO - Forced wait 1 second
+2019-10-25 01:55:02,932 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-25 01:55:03,935 - selenium - INFO - Forced wait 1 second
+2019-10-25 01:55:04,007 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.message']
+2019-10-25 01:55:04,827 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.message']
+2019-10-25 01:55:06,273 - selenium - INFO - Executing test cases：新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:55:17,720 - selenium - ERROR - Failure of test case execution! Reason: Message: 
+
+2019-10-25 01:55:19,402 - selenium - INFO - Executing test cases：新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:55:30,851 - selenium - ERROR - Failure of test case execution! Reason: Message: 
+
+2019-10-25 01:55:32,237 - selenium - INFO - Executing test cases：新注册会员，验证是否能够成功发送投诉建议
+2019-10-25 01:55:43,715 - selenium - ERROR - Failure of test case execution! Reason: Message: 
+
+2019-10-25 01:55:45,623 - selenium - INFO - Executing test cases：新注册会员，验证已发投注信息的内容是否正确
+2019-10-25 01:55:45,662 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[3]/span']
+2019-10-25 01:55:46,805 - selenium - INFO - Click on the element success,location method and value used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li[3]/span']
+2019-10-25 01:55:47,198 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.contentActive > .title']
+2019-10-25 01:55:47,454 - selenium - INFO - Obtained text：测试-投诉消息
+2019-10-25 01:55:48,157 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.contentActive > .main']
+2019-10-25 01:55:48,558 - selenium - INFO - Obtained text：测试投诉消息哦~！！！293929
+2019-10-25 01:55:49,623 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div/p']
+2019-10-25 01:55:50,209 - selenium - INFO - Obtained text：10-25
+2019-10-25 01:55:52,185 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:55:52,185 - selenium - INFO - Successful execution of test cases:新注册会员，验证已发投注信息的内容是否正确
+2019-10-25 01:55:52,259 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 01:55:52,260 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 01:55:52,260 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 01:55:52,260 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 01:55:54,469 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 01:55:54,586 - selenium - INFO - Browser maximization
+2019-10-25 01:55:54,608 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 01:55:54,608 - selenium - INFO - Executing test cases：访问关于我们页面
+2019-10-25 01:55:55,672 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 01:55:56,150 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 01:55:56,897 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 01:55:57,899 - selenium - INFO - Forced wait 1 second
+2019-10-25 01:55:58,044 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'关于我们')]"]
+2019-10-25 01:55:59,014 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'关于我们')]"]
+2019-10-25 01:55:59,081 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.gywm_nr:nth-child(2) > .gywm_tit > p']
+2019-10-25 01:55:59,141 - selenium - INFO - Obtained text：关于我们
+2019-10-25 01:55:59,175 - selenium - INFO - Assert Verify success：expected outcome:{关于我们} == actual results:{关于我们}
+2019-10-25 01:55:59,978 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:55:59,978 - selenium - INFO - Successful execution of test cases：访问关于我们页面
+
+2019-10-25 01:55:59,978 - selenium - INFO - Executing use test case:访问代理加盟页面,默认为金字塔代理模式
+2019-10-25 01:56:00,054 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'合作伙伴')]"]
+2019-10-25 01:56:00,937 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'合作伙伴')]"]
+2019-10-25 01:56:01,021 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.menu_one_li:nth-child(1)']
+2019-10-25 01:56:01,137 - selenium - INFO - Obtained text：金字塔代理模式
+2019-10-25 01:56:01,197 - selenium - INFO - Assert Verify success：expected outcome:{金字塔代理模式} == actual results:{金字塔代理模式}
+2019-10-25 01:56:03,101 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:03,114 - selenium - INFO - Successful execution of test cases:访问代理加盟页面,默认为金字塔代理模式
+
+2019-10-25 01:56:03,114 - selenium - INFO - Executing use test case:访问金字塔代理教程相关页面
+2019-10-25 01:56:03,190 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.menu_one_li:nth-child(2)']
+2019-10-25 01:56:03,800 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.menu_one_li:nth-child(2)']
+2019-10-25 01:56:03,878 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:04,107 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:08,065 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:08,065 - selenium - INFO - 如何邀请注册帐号
+2019-10-25 01:56:08,065 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:08,120 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:08,205 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:12,896 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:12,896 - selenium - INFO - 如何进入代理中心
+2019-10-25 01:56:12,896 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:12,913 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:12,995 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:17,841 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:17,842 - selenium - INFO - 如何生成邀链接
+2019-10-25 01:56:17,842 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:17,868 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:17,949 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:19,356 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:19,357 - selenium - INFO - 如何管理邀链接
+2019-10-25 01:56:19,357 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:19,409 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:19,551 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:20,913 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:20,917 - selenium - INFO - 如何查看下级人数
+2019-10-25 01:56:20,919 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:20,960 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:21,036 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:21,989 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:21,989 - selenium - INFO - 如何查看下级列表
+2019-10-25 01:56:21,990 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:22,023 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:22,092 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:22,817 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:22,818 - selenium - INFO - 如何查看下级财务
+2019-10-25 01:56:22,818 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:22,851 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:22,942 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:23,788 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:23,789 - selenium - INFO - 如何查看代理受益
+2019-10-25 01:56:23,789 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:23,817 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:23,936 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:25,233 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:25,233 - selenium - INFO - 如何查看下级报表
+2019-10-25 01:56:25,233 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:25,262 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-25 01:56:25,544 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-25 01:56:26,981 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 01:56:26,981 - selenium - INFO - 如何查看报表总汇
+2019-10-25 01:56:26,981 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-25 01:56:32,294 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-25 01:56:32,304 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-25 01:56:35,463 - selenium - INFO - 在section：title下读取pro的值
+2019-10-25 01:56:35,464 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 01:56:35,757 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-25 01:56:35,758 - selenium - INFO - 在section：telegram下读取chat_id的值

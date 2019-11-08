@@ -1,0 +1,74 @@
+2019-10-25 07:04:11,934 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 07:04:11,935 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 07:04:11,937 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 07:04:11,937 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 07:04:15,340 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 07:04:15,473 - selenium - INFO - Browser maximization
+2019-10-25 07:04:15,502 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 07:04:15,503 - selenium - INFO - Executing test cases：新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:04:18,700 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:04:19,327 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:04:19,908 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 07:04:20,073 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-25 07:04:20,663 - selenium - INFO - Input content：enintech28
+2019-10-25 07:04:20,733 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-25 07:04:21,341 - selenium - INFO - Input content：12345678
+2019-10-25 07:04:32,583 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-25 07:04:32,876 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-25 07:04:32,877 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 07:04:33,945 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:04:33,945 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-25 07:04:34,947 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:04:35,150 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-25 07:04:36,038 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-25 07:04:36,082 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:04:36,172 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-25 07:04:36,302 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span']
+2019-10-25 07:04:36,857 - selenium - INFO - Click on the element success,location method and value used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span']
+2019-10-25 07:04:37,084 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:04:37,368 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-25 07:04:38,802 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:04:40,902 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 07:04:40,902 - selenium - INFO - Successful execution of test cases:新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:04:40,907 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-25 07:04:52,470 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为特殊字符
+2019-10-25 07:05:03,910 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能小于16位
+2019-10-25 07:05:15,581 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能大于20位
+2019-10-25 07:05:27,064 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[所在地]字段是否不能为空
+2019-10-25 07:05:38,604 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为空
+2019-10-25 07:05:50,112 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为字母
+2019-10-25 07:06:01,480 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为特殊字符
+2019-10-25 07:06:12,951 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[资金密码]字段是否不能为错误密码
+2019-10-25 07:06:24,347 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为一个中文
+2019-10-25 07:06:35,815 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证是否不能重复绑定银行卡
+2019-10-25 07:06:47,657 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为数字
+2019-10-25 07:06:59,158 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为字母
+2019-10-25 07:07:10,672 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为特殊字符
+2019-10-25 07:07:22,169 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否可以为中文+{.}
+2019-10-25 07:07:33,765 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[开户银行]字段是否不能为空
+2019-10-25 07:07:45,163 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为空
+2019-10-25 07:07:57,016 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为字母
+2019-10-25 07:08:08,698 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为中文
+2019-10-25 07:08:20,107 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证所有字段符合条件是否能够成功绑定
+2019-10-25 07:08:21,658 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:08:21,958 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-25 07:08:22,493 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-25 07:08:36,738 - selenium - INFO - Executing test cases：设置密保答案页面，验证{密保答案}字段长度是否不能为空
+2019-10-25 07:08:36,738 - selenium - INFO - Executing test cases：设置密保答案页面，验证{资金密码}设置字段长度是否不能小于6
+2019-10-25 07:08:36,738 - selenium - INFO - Executing test cases：设置密保答案页面，验证{资金密码}设置字段长度是否不能小于6
+2019-10-25 07:08:36,738 - selenium - INFO - Executing test cases：设置密保答案页面，验证{资金密码}设置字段长度是否不能小于6
+2019-10-25 07:08:36,739 - selenium - INFO - Executing test cases：设置密保答案页面，验证{资金密码}设置字段长度是否不能小于6
+2019-10-25 07:08:36,739 - selenium - INFO - Executing test cases：设置密保答案页面，验证{资金密码}设置字段长度是否不能小于6
+2019-10-25 07:08:36,739 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证所有字段符合条件是否能够成功绑定
+2019-10-25 07:08:38,368 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:08:38,473 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-25 07:08:39,141 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-25 07:08:57,214 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-25 07:08:57,223 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-25 07:08:59,369 - selenium - INFO - 在section：title下读取pro的值
+2019-10-25 07:08:59,373 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 07:08:59,571 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-25 07:08:59,571 - selenium - INFO - 在section：telegram下读取chat_id的值

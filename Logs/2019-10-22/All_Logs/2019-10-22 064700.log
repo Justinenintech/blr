@@ -1,0 +1,954 @@
+2019-10-22 06:47:02,615 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 06:47:02,615 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 06:47:02,615 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 06:47:02,615 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 06:47:03,717 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 06:47:03,834 - selenium - INFO - Browser maximization
+2019-10-22 06:47:03,842 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 06:47:03,842 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的皇冠体育
+2019-10-22 06:47:03,842 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:04,573 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 06:47:04,635 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-22 06:47:05,913 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:05,938 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '皇冠体育']
+2019-10-22 06:47:06,253 - selenium - INFO - Click on the element success,location method and value used：['link text', '皇冠体育']
+2019-10-22 06:47:07,253 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:07,297 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:07,315 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:07,328 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:07,774 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:07,774 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的皇冠体育
+
+2019-10-22 06:47:07,774 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的沙巴体育
+2019-10-22 06:47:07,775 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:07,797 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-22 06:47:09,075 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:09,101 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '沙巴体育']
+2019-10-22 06:47:09,144 - selenium - INFO - Click on the element success,location method and value used：['link text', '沙巴体育']
+2019-10-22 06:47:10,145 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:10,187 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:10,201 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:10,216 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:10,610 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:10,611 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的沙巴体育
+
+2019-10-22 06:47:10,611 - selenium - INFO - Executing use test cases: 未登录情况下，访问体育赛事中的BBin体育
+2019-10-22 06:47:10,611 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:10,635 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-22 06:47:11,908 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:11,934 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', 'BB体育']
+2019-10-22 06:47:11,976 - selenium - INFO - Click on the element success,location method and value used：['link text', 'BB体育']
+2019-10-22 06:47:12,978 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:13,025 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:13,041 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:13,056 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:13,453 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:13,453 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的BBin体育
+
+2019-10-22 06:47:13,453 - selenium - INFO - Executing use test case:未登录情况下，访问体育赛事中的AG体育
+2019-10-22 06:47:13,453 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:13,470 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(4) > .navA']
+2019-10-22 06:47:14,743 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:14,770 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', 'AG体育']
+2019-10-22 06:47:14,853 - selenium - INFO - Click on the element success,location method and value used：['link text', 'AG体育']
+2019-10-22 06:47:15,854 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:15,902 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:15,918 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:15,935 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:16,310 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:16,310 - selenium - INFO - Successful execution of test cases:未登录情况下，访问体育赛事中的AG体育
+
+2019-10-22 06:47:16,310 - selenium - INFO - Executing use test case:未登录情况下，在视讯直播中启动AG场馆
+2019-10-22 06:47:16,310 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:16,327 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(3) > .navA']
+2019-10-22 06:47:17,254 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.navLi:nth-child(3) > .navA']
+2019-10-22 06:47:18,257 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:18,273 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ag']
+2019-10-22 06:47:18,327 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ag']
+2019-10-22 06:47:19,328 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:19,368 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:19,381 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:19,393 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:19,963 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:19,963 - selenium - INFO - Successful execution of test cases:未登录情况下，在视讯直播中启动AG场馆
+
+2019-10-22 06:47:19,964 - selenium - INFO - Executing use test case:未登录情况下，在电子游艺中启动[游戏xxx]
+2019-10-22 06:47:19,964 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:19,980 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(2) > .navA']
+2019-10-22 06:47:21,465 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.navLi:nth-child(2) > .navA']
+2019-10-22 06:47:22,466 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:22,485 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ipt']
+2019-10-22 06:47:22,620 - selenium - INFO - Input content：老虎机
+2019-10-22 06:47:23,622 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:23,655 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.btn-search']
+2019-10-22 06:47:23,743 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.btn-search']
+2019-10-22 06:47:24,745 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:25,764 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:25,790 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//img[@data-src='https://blr.8581333.com/images/default/pc/2177.png']"]
+2019-10-22 06:47:25,858 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//img[@data-src='https://blr.8581333.com/images/default/pc/2177.png']"]
+2019-10-22 06:47:26,859 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:26,899 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:26,913 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:26,927 - selenium - INFO - Successful execution of test cases:未登录情况下，在电子游艺中启动[游戏xxx]
+
+2019-10-22 06:47:26,927 - selenium - INFO - Executing use test cases:未登录情况下，访问棋牌游戏中的乐游棋牌
+2019-10-22 06:47:26,927 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:27,944 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:27,944 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-22 06:47:28,946 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:28,960 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-22 06:47:30,243 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:30,267 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '乐游棋牌']
+2019-10-22 06:47:30,309 - selenium - INFO - Click on the element success,location method and value used：['link text', '乐游棋牌']
+2019-10-22 06:47:31,310 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:31,348 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:31,362 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:31,377 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:31,791 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:31,791 - selenium - INFO - Successful execution of test cases:未登录情况下，访问棋牌游戏中的乐游棋牌
+
+2019-10-22 06:47:31,791 - selenium - INFO - Executing use test cases:未登录情况下，访问棋牌游戏中的开元棋牌
+2019-10-22 06:47:31,792 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:32,803 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:32,803 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-22 06:47:33,804 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:33,817 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-22 06:47:35,091 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:35,131 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '开元棋牌']
+2019-10-22 06:47:35,176 - selenium - INFO - Click on the element success,location method and value used：['link text', '开元棋牌']
+2019-10-22 06:47:36,178 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:36,213 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:36,225 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:36,242 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:36,682 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:36,682 - selenium - INFO - Successful execution of test cases:未登录情况下，访问棋牌游戏中的开元棋牌
+
+2019-10-22 06:47:36,683 - selenium - INFO - Executing use test cases:未登录情况下，访问棋牌游戏中的VG棋牌
+2019-10-22 06:47:36,683 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:37,693 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:37,693 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-22 06:47:38,694 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:38,707 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-22 06:47:39,976 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:39,998 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', 'VG棋牌']
+2019-10-22 06:47:40,042 - selenium - INFO - Click on the element success,location method and value used：['link text', 'VG棋牌']
+2019-10-22 06:47:41,044 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:41,096 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:41,109 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:41,119 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:41,549 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:41,549 - selenium - INFO - Successful execution of test cases:未登录情况下，访问棋牌游戏中的VG棋牌
+
+2019-10-22 06:47:41,549 - selenium - INFO - Executing use test case:未登录情况下，访问棋牌游戏中的天豪棋牌
+2019-10-22 06:47:41,549 - selenium - INFO - input data:suc:0,assert:未登录
+2019-10-22 06:47:42,560 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:42,560 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-22 06:47:43,561 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:43,575 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.navLi:nth-child(6) > .navA']
+2019-10-22 06:47:44,858 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:44,881 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '天豪棋牌']
+2019-10-22 06:47:44,926 - selenium - INFO - Click on the element success,location method and value used：['link text', '天豪棋牌']
+2019-10-22 06:47:45,927 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:45,984 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tipModel-box > span:nth-child(2)']
+2019-10-22 06:47:46,008 - selenium - INFO - Obtained text：未登录
+2019-10-22 06:47:46,018 - selenium - INFO - Assert Verify success：expected outcome:{未登录} == actual results:{未登录}
+2019-10-22 06:47:46,444 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:46,444 - selenium - INFO - Successful execution of test cases:未登录情况下，访问棋牌游戏中的天豪棋牌
+
+2019-10-22 06:47:46,511 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 06:47:46,512 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 06:47:46,512 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 06:47:46,513 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 06:47:47,610 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 06:47:47,721 - selenium - INFO - Browser maximization
+2019-10-22 06:47:47,726 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 06:47:47,727 - selenium - INFO - Executing test cases：未登录情况下，访问右侧悬浮窗口的APP下载页面
+2019-10-22 06:47:48,384 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 06:47:48,448 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.download']
+2019-10-22 06:47:49,127 - selenium - INFO - Obtained title：澳门巴黎人APP下载
+2019-10-22 06:47:49,127 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人APP下载} == actual results:{澳门巴黎人APP下载}
+2019-10-22 06:47:49,556 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:49,557 - selenium - INFO - Successful execution of test cases：未登录情况下，访问右侧悬浮窗口的APP下载页面
+
+2019-10-22 06:47:49,557 - selenium - INFO - Executing test cases：在APP下载页面，访问ios教程页面
+2019-10-22 06:47:49,574 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ios_help']
+2019-10-22 06:47:49,629 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ios_help']
+2019-10-22 06:47:49,650 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-title']
+2019-10-22 06:47:49,665 - selenium - INFO - Obtained text：ios安装教程
+2019-10-22 06:47:49,682 - selenium - INFO - Assert Verify success：expected outcome:{ios安装教程} == actual results:{ios安装教程}
+2019-10-22 06:47:50,235 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:50,249 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-close']
+2019-10-22 06:47:50,291 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.layui-layer-close']
+2019-10-22 06:47:51,292 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:47:51,292 - selenium - INFO - Successful execution of test cases：在APP下载页面，访问ios教程页面
+
+2019-10-22 06:47:51,292 - selenium - INFO - Executing test cases：从APP下载页面，点击进入PC网页版，访问网站首页
+2019-10-22 06:47:51,312 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.pc']
+2019-10-22 06:47:51,531 - selenium - INFO - Obtained title：Welcome
+2019-10-22 06:47:51,532 - selenium - INFO - Assert Verify success：expected outcome:{Welcome} == actual results:{Welcome}
+2019-10-22 06:47:51,925 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:51,925 - selenium - INFO - Successful execution of test cases：从APP下载页面，点击进入PC网页版，访问网站首页
+
+2019-10-22 06:47:51,982 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 06:47:51,982 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 06:47:51,982 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 06:47:51,982 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 06:47:53,090 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 06:47:53,200 - selenium - INFO - Browser maximization
+2019-10-22 06:47:53,206 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 06:47:53,206 - selenium - INFO - Executing use test case：未登录情况下，访问金管家页面
+2019-10-22 06:47:53,977 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 06:47:54,042 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '金管家']
+2019-10-22 06:47:54,991 - selenium - INFO - Obtained title：澳门巴黎人 - 彩票金管家等级查询
+2019-10-22 06:47:54,991 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 彩票金管家等级查询} == actual results:{澳门巴黎人 - 彩票金管家等级查询}
+2019-10-22 06:47:55,364 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:55,365 - selenium - INFO - Successful execution of test cases：未登录情况下，访问金管家页面
+
+2019-10-22 06:47:55,365 - selenium - INFO - Executing use test case:未登录情况下，在金管家页面访问免息借呗页面
+2019-10-22 06:47:55,391 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.hot .icon2']
+2019-10-22 06:47:56,347 - selenium - INFO - Obtained title：澳门巴黎人 - 借呗
+2019-10-22 06:47:56,347 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 借呗} == actual results:{澳门巴黎人 - 借呗}
+2019-10-22 06:47:56,663 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:56,828 - selenium - INFO - Successful execution of test cases:未登录情况下，在金管家页面访问免息借呗页面
+
+2019-10-22 06:47:56,828 - selenium - INFO - Executing use test case:未登录情况下，在金管家页面访问APP下载页面
+2019-10-22 06:47:56,851 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.tui .icons']
+2019-10-22 06:47:57,548 - selenium - INFO - Obtained title：澳门巴黎人APP下载
+2019-10-22 06:47:57,548 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人APP下载} == actual results:{澳门巴黎人APP下载}
+2019-10-22 06:47:57,947 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:58,053 - selenium - INFO - Successful execution of test cases:未登录情况下，在金管家页面访问APP下载页面
+
+2019-10-22 06:47:58,053 - selenium - INFO - Executing use test case:未登录情况下，在金管家页面访问在线客服页面
+2019-10-22 06:47:58,075 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div[2]/ul/li[5]/a/span[2]']
+2019-10-22 06:47:59,533 - selenium - INFO - Obtained title：在线客服-Chat window
+2019-10-22 06:47:59,533 - selenium - INFO - Assert Verify success：expected outcome:{在线客服-Chat window} == actual results:{在线客服-Chat window}
+2019-10-22 06:47:59,635 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:47:59,809 - selenium - INFO - Successful execution of test cases:未登录情况下，在金管家页面访问在线客服页面
+
+2019-10-22 06:47:59,810 - selenium - INFO - Executing use test case:未登录情况下，在金管家页面访问官方首页
+2019-10-22 06:47:59,826 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.menu .icon1']
+2019-10-22 06:48:00,023 - selenium - INFO - Obtained title：Welcome
+2019-10-22 06:48:00,023 - selenium - INFO - Assert Verify success：expected outcome:{Welcome} == actual results:{Welcome}
+2019-10-22 06:48:00,124 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:00,285 - selenium - INFO - Successful execution of test cases:未登录情况下，在金管家页面访问官方首页
+
+2019-10-22 06:48:00,285 - selenium - INFO - Executing use test case:未登录情况下，在金管家页面访问账号交易
+2019-10-22 06:48:00,305 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.hot .icon3']
+2019-10-22 06:48:00,357 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.hot .icon3']
+2019-10-22 06:48:00,758 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:00,758 - selenium - INFO - Successful execution of test cases:未登录情况下，在金管家页面访问账号交易
+
+2019-10-22 06:48:00,758 - selenium - INFO - Executing use test case：未登录情况下，金管家页面，验证额度查询功能(无效账号，长度小于6)
+2019-10-22 06:48:00,758 - selenium - INFO - input data:name:12,suc:0,assert:请登录
+2019-10-22 06:48:00,773 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search1']
+2019-10-22 06:48:00,842 - selenium - INFO - Input content：12
+2019-10-22 06:48:00,854 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'submit']
+2019-10-22 06:48:00,893 - selenium - INFO - Click on the element success,location method and value used：['id', 'submit']
+2019-10-22 06:48:01,894 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:01,921 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-content']
+2019-10-22 06:48:01,936 - selenium - INFO - Obtained text：请登录
+2019-10-22 06:48:01,947 - selenium - INFO - Assert Verify success：expected outcome:{请登录} == actual results:{请登录}
+2019-10-22 06:48:02,949 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:03,324 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:03,324 - selenium - INFO - Successful execution of test case:未登录情况下，金管家页面，验证额度查询功能(无效账号，长度小于6)
+
+2019-10-22 06:48:03,324 - selenium - INFO - Executing use test case：未登录情况下，金管家页面，验证额度查询功能(无效账号，特殊字符)
+2019-10-22 06:48:03,324 - selenium - INFO - input data:name:######,suc:0,assert:请登录
+2019-10-22 06:48:03,336 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search1']
+2019-10-22 06:48:03,406 - selenium - INFO - Input content：######
+2019-10-22 06:48:03,417 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'submit']
+2019-10-22 06:48:03,449 - selenium - INFO - Click on the element success,location method and value used：['id', 'submit']
+2019-10-22 06:48:04,451 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:04,464 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-content']
+2019-10-22 06:48:04,478 - selenium - INFO - Obtained text：页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
+2019-10-22 06:48:04,489 - selenium - ERROR - Failure of test case execution! Reason: '页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/' != '请登录'
+- 页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/
++ 请登录
+ : Assert Verification fail：expected outcome{请登录} != actual results{页面未找到:http://blr.9161252.com/api/v1/preferential/jinGuanJia/}
+
+2019-10-22 06:48:04,858 - selenium - INFO - Executing use test case：未登录情况下，金管家页面，验证额度查询功能(有效账号)
+2019-10-22 06:48:04,858 - selenium - INFO - input data:name:yusheng,suc:0,assert:请登录
+2019-10-22 06:48:04,871 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search1']
+2019-10-22 06:48:04,937 - selenium - INFO - Input content：yusheng
+2019-10-22 06:48:04,950 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'submit']
+2019-10-22 06:48:04,990 - selenium - INFO - Click on the element success,location method and value used：['id', 'submit']
+2019-10-22 06:48:05,990 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:06,003 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-content']
+2019-10-22 06:48:06,017 - selenium - INFO - Obtained text：请登录
+2019-10-22 06:48:06,035 - selenium - INFO - Assert Verify success：expected outcome:{请登录} == actual results:{请登录}
+2019-10-22 06:48:07,036 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:07,417 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:07,417 - selenium - INFO - Successful execution of test case:未登录情况下，金管家页面，验证额度查询功能(有效账号)
+
+2019-10-22 06:48:07,417 - selenium - INFO - Executing use test case：未登录情况下，金管家页面，验证额度查询功能(无效账号，长度超过10)
+2019-10-22 06:48:07,417 - selenium - INFO - input data:name:yusheng4944*H@yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy,suc:0,assert:请登录
+2019-10-22 06:48:07,429 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search1']
+2019-10-22 06:48:07,588 - selenium - INFO - Input content：yusheng4944*H@yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+2019-10-22 06:48:07,599 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'submit']
+2019-10-22 06:48:07,640 - selenium - INFO - Click on the element success,location method and value used：['id', 'submit']
+2019-10-22 06:48:08,642 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:08,653 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-content']
+2019-10-22 06:48:08,667 - selenium - INFO - Obtained text：请登录
+2019-10-22 06:48:08,681 - selenium - INFO - Assert Verify success：expected outcome:{请登录} == actual results:{请登录}
+2019-10-22 06:48:09,683 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:10,077 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:10,077 - selenium - INFO - Successful execution of test case:未登录情况下，金管家页面，验证额度查询功能(无效账号，长度超过10)
+
+2019-10-22 06:48:10,077 - selenium - INFO - Executing use test case：未登录情况下，金管家页面，验证额度查询功能(无效账号，中文)
+2019-10-22 06:48:10,077 - selenium - INFO - input data:name:中文,suc:0,assert:请登录
+2019-10-22 06:48:10,089 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search1']
+2019-10-22 06:48:10,144 - selenium - INFO - Input content：中文
+2019-10-22 06:48:10,158 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'submit']
+2019-10-22 06:48:10,189 - selenium - INFO - Click on the element success,location method and value used：['id', 'submit']
+2019-10-22 06:48:11,190 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:11,204 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.layui-layer-content']
+2019-10-22 06:48:11,218 - selenium - INFO - Obtained text：请登录
+2019-10-22 06:48:11,229 - selenium - INFO - Assert Verify success：expected outcome:{请登录} == actual results:{请登录}
+2019-10-22 06:48:12,230 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:12,602 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:12,602 - selenium - INFO - Successful execution of test case:未登录情况下，金管家页面，验证额度查询功能(无效账号，中文)
+
+2019-10-22 06:48:12,661 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 06:48:12,661 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 06:48:12,662 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 06:48:12,662 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 06:48:13,726 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 06:48:13,839 - selenium - INFO - Browser maximization
+2019-10-22 06:48:13,847 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 06:48:13,847 - selenium - INFO - Executing use test case:未登录情况下，访问免息借呗页面
+2019-10-22 06:48:14,574 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 06:48:14,640 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '免息借呗']
+2019-10-22 06:48:15,770 - selenium - INFO - Obtained title：澳门巴黎人 - 借呗
+2019-10-22 06:48:15,770 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 借呗} == actual results:{澳门巴黎人 - 借呗}
+2019-10-22 06:48:16,148 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:16,148 - selenium - INFO - Successful execution of test cases:未登录情况下，访问免息借呗页面
+
+2019-10-22 06:48:16,148 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗页面点击[我要借款]
+2019-10-22 06:48:16,163 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.swiper-active:nth-child(1) > span:nth-child(2)']
+2019-10-22 06:48:16,398 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.swiper-active:nth-child(1) > span:nth-child(2)']
+2019-10-22 06:48:17,399 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:17,414 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:17,437 - selenium - INFO - Obtained text：请登录后操作！
+2019-10-22 06:48:17,470 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:17,508 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:17,508 - selenium - INFO - Assert Verify success：expected outcome:{请登录后操作！} == actual results:{请登录后操作！}
+2019-10-22 06:48:17,525 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'user']
+2019-10-22 06:48:17,554 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'jk']
+2019-10-22 06:48:17,870 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:17,870 - selenium - INFO - Successful execution of test cases:未登录情况下，在免息借呗页面点击[我要借款]
+
+2019-10-22 06:48:17,871 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗页面点击[我要还款]
+2019-10-22 06:48:17,885 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.swiper-active:nth-child(2) > span:nth-child(2)']
+2019-10-22 06:48:18,069 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.swiper-active:nth-child(2) > span:nth-child(2)']
+2019-10-22 06:48:19,070 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:19,084 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:19,100 - selenium - INFO - Obtained text：请登录后操作！
+2019-10-22 06:48:19,125 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:19,173 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:19,173 - selenium - INFO - Assert Verify success：expected outcome:{请登录后操作！} == actual results:{请登录后操作！}
+2019-10-22 06:48:19,189 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'user']
+2019-10-22 06:48:19,214 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'amount']
+2019-10-22 06:48:19,547 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:19,567 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '首页']
+2019-10-22 06:48:19,739 - selenium - INFO - Click on the element success,location method and value used：['link text', '首页']
+2019-10-22 06:48:19,739 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗页面点击[我要还款]
+
+2019-10-22 06:48:19,739 - selenium - INFO - Executing use test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，长度小于6)
+2019-10-22 06:48:19,739 - selenium - INFO - input data:name:12,suc:0,assert:请输入正确的会员账号
+2019-10-22 06:48:19,773 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search-text']
+2019-10-22 06:48:19,847 - selenium - INFO - Input content：12
+2019-10-22 06:48:19,861 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'btn-search-text']
+2019-10-22 06:48:19,924 - selenium - INFO - Click on the element success,location method and value used：['id', 'btn-search-text']
+2019-10-22 06:48:20,926 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:20,940 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:20,956 - selenium - INFO - Obtained text：请输入正确的会员账号
+2019-10-22 06:48:20,985 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:21,040 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:21,040 - selenium - INFO - Assert Verify success：expected outcome:{请输入正确的会员账号} == actual results:{请输入正确的会员账号}
+2019-10-22 06:48:21,348 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:21,348 - selenium - INFO - Successful execution of test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，长度小于6)
+
+2019-10-22 06:48:21,348 - selenium - INFO - Executing use test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，特殊字符)
+2019-10-22 06:48:21,349 - selenium - INFO - input data:name:######,suc:0,assert:请输入正确的会员账号
+2019-10-22 06:48:21,363 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search-text']
+2019-10-22 06:48:21,439 - selenium - INFO - Input content：######
+2019-10-22 06:48:21,449 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'btn-search-text']
+2019-10-22 06:48:21,494 - selenium - INFO - Click on the element success,location method and value used：['id', 'btn-search-text']
+2019-10-22 06:48:22,494 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:22,508 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:22,523 - selenium - INFO - Obtained text：请输入正确的会员账号
+2019-10-22 06:48:22,548 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:22,590 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:22,590 - selenium - INFO - Assert Verify success：expected outcome:{请输入正确的会员账号} == actual results:{请输入正确的会员账号}
+2019-10-22 06:48:22,891 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:22,891 - selenium - INFO - Successful execution of test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，特殊字符)
+
+2019-10-22 06:48:22,891 - selenium - INFO - Executing use test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，特殊字符)
+2019-10-22 06:48:22,892 - selenium - INFO - input data:name:yusheng,suc:1,assert:请登录后操作
+2019-10-22 06:48:22,905 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search-text']
+2019-10-22 06:48:22,973 - selenium - INFO - Input content：yusheng
+2019-10-22 06:48:22,986 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'btn-search-text']
+2019-10-22 06:48:23,026 - selenium - INFO - Click on the element success,location method and value used：['id', 'btn-search-text']
+2019-10-22 06:48:24,027 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:24,042 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:24,054 - selenium - INFO - Obtained text：请登录后操作
+2019-10-22 06:48:24,080 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:24,122 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:24,122 - selenium - INFO - Assert Verify success：expected outcome:{请登录后操作} == actual results:{请登录后操作}
+2019-10-22 06:48:24,438 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:24,438 - selenium - INFO - Successful execution of test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，特殊字符)
+
+2019-10-22 06:48:24,439 - selenium - INFO - Executing use test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，长度超过10)
+2019-10-22 06:48:24,439 - selenium - INFO - input data:name:yusheng4944*H@yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy,suc:1,assert:请登录后操作
+2019-10-22 06:48:24,451 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search-text']
+2019-10-22 06:48:24,630 - selenium - INFO - Input content：yusheng4944*H@yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+2019-10-22 06:48:24,648 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'btn-search-text']
+2019-10-22 06:48:24,696 - selenium - INFO - Click on the element success,location method and value used：['id', 'btn-search-text']
+2019-10-22 06:48:25,696 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:25,710 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:25,721 - selenium - INFO - Obtained text：请登录后操作
+2019-10-22 06:48:25,746 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:25,788 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:25,788 - selenium - INFO - Assert Verify success：expected outcome:{请登录后操作} == actual results:{请登录后操作}
+2019-10-22 06:48:26,115 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:26,116 - selenium - INFO - Successful execution of test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，长度超过10)
+
+2019-10-22 06:48:26,116 - selenium - INFO - Executing use test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，中文)
+2019-10-22 06:48:26,116 - selenium - INFO - input data:name:中文,suc:0,assert:请输入正确的会员账号
+2019-10-22 06:48:26,128 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'search-text']
+2019-10-22 06:48:26,179 - selenium - INFO - Input content：中文
+2019-10-22 06:48:26,191 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'btn-search-text']
+2019-10-22 06:48:26,224 - selenium - INFO - Click on the element success,location method and value used：['id', 'btn-search-text']
+2019-10-22 06:48:27,226 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:48:27,239 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:27,253 - selenium - INFO - Obtained text：请输入正确的会员账号
+2019-10-22 06:48:27,277 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:27,323 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:27,323 - selenium - INFO - Assert Verify success：expected outcome:{请输入正确的会员账号} == actual results:{请输入正确的会员账号}
+2019-10-22 06:48:27,635 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:27,635 - selenium - INFO - Successful execution of test case:未登录情况下，免息借呗页面，验证额度查询功能(无效账号，中文)
+
+2019-10-22 06:48:27,635 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过立即查看访问视讯额度页面
+2019-10-22 06:48:27,653 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.search-type:nth-child(1) > .search-type-button']
+2019-10-22 06:48:27,853 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.search-type:nth-child(1) > .search-type-button']
+2019-10-22 06:48:27,868 - selenium - INFO - Obtained title：澳门巴黎人 - 视讯额度
+2019-10-22 06:48:27,868 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 视讯额度} == actual results:{澳门巴黎人 - 视讯额度}
+2019-10-22 06:48:28,254 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:28,368 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过立即查看访问视讯额度页面
+
+2019-10-22 06:48:28,368 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过立即查看访问棋牌额度页面
+2019-10-22 06:48:28,397 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.search-type:nth-child(2) > .search-type-button']
+2019-10-22 06:48:28,590 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.search-type:nth-child(2) > .search-type-button']
+2019-10-22 06:48:28,614 - selenium - INFO - Obtained title：澳门巴黎人 - 棋牌额度
+2019-10-22 06:48:28,614 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 棋牌额度} == actual results:{澳门巴黎人 - 棋牌额度}
+2019-10-22 06:48:29,021 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:29,113 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过立即查看访问棋牌额度页面
+
+2019-10-22 06:48:29,113 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过立即查看访问彩票额度页面
+2019-10-22 06:48:29,140 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.search-type:nth-child(3) > .search-type-button']
+2019-10-22 06:48:29,350 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.search-type:nth-child(3) > .search-type-button']
+2019-10-22 06:48:29,364 - selenium - INFO - Obtained title：澳门巴黎人 - 彩票额度
+2019-10-22 06:48:29,365 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 彩票额度} == actual results:{澳门巴黎人 - 彩票额度}
+2019-10-22 06:48:29,785 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:29,879 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过立即查看访问彩票额度页面
+
+2019-10-22 06:48:29,879 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过立即查看访问电子额度页面
+2019-10-22 06:48:29,909 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.search-type:nth-child(4) > .search-type-button']
+2019-10-22 06:48:30,161 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.search-type:nth-child(4) > .search-type-button']
+2019-10-22 06:48:30,168 - selenium - INFO - Obtained title：澳门巴黎人 - 电子额度
+2019-10-22 06:48:30,168 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 电子额度} == actual results:{澳门巴黎人 - 电子额度}
+2019-10-22 06:48:30,512 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:30,611 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过立即查看访问电子额度页面
+
+2019-10-22 06:48:30,611 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问视讯额度页面
+2019-10-22 06:48:30,654 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '视讯额度']
+2019-10-22 06:48:30,810 - selenium - INFO - Click on the element success,location method and value used：['link text', '视讯额度']
+2019-10-22 06:48:30,823 - selenium - INFO - Obtained title：澳门巴黎人 - 视讯额度
+2019-10-22 06:48:30,823 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 视讯额度} == actual results:{澳门巴黎人 - 视讯额度}
+2019-10-22 06:48:31,175 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:31,175 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问视讯额度页面
+
+2019-10-22 06:48:31,176 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问棋牌额度页面
+2019-10-22 06:48:31,218 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '棋牌额度']
+2019-10-22 06:48:31,495 - selenium - INFO - Click on the element success,location method and value used：['link text', '棋牌额度']
+2019-10-22 06:48:31,510 - selenium - INFO - Obtained title：澳门巴黎人 - 棋牌额度
+2019-10-22 06:48:31,510 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 棋牌额度} == actual results:{澳门巴黎人 - 棋牌额度}
+2019-10-22 06:48:31,902 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:31,902 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问棋牌额度页面
+
+2019-10-22 06:48:31,902 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问彩票额度页面
+2019-10-22 06:48:31,924 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '彩票额度']
+2019-10-22 06:48:32,091 - selenium - INFO - Click on the element success,location method and value used：['link text', '彩票额度']
+2019-10-22 06:48:32,105 - selenium - INFO - Obtained title：澳门巴黎人 - 彩票额度
+2019-10-22 06:48:32,105 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 彩票额度} == actual results:{澳门巴黎人 - 彩票额度}
+2019-10-22 06:48:32,561 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:32,562 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问彩票额度页面
+
+2019-10-22 06:48:32,562 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问电子额度页面
+2019-10-22 06:48:32,584 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '电子额度']
+2019-10-22 06:48:32,724 - selenium - INFO - Click on the element success,location method and value used：['link text', '电子额度']
+2019-10-22 06:48:32,733 - selenium - INFO - Obtained title：澳门巴黎人 - 电子额度
+2019-10-22 06:48:32,733 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 电子额度} == actual results:{澳门巴黎人 - 电子额度}
+2019-10-22 06:48:33,149 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:33,149 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问电子额度页面
+
+2019-10-22 06:48:33,150 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问借还款记录页面
+2019-10-22 06:48:33,172 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '借还款记录']
+2019-10-22 06:48:33,376 - selenium - INFO - Click on the element success,location method and value used：['link text', '借还款记录']
+2019-10-22 06:48:33,386 - selenium - INFO - Obtained title：澳门巴黎人 - 借/还款记录
+2019-10-22 06:48:33,387 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 借/还款记录} == actual results:{澳门巴黎人 - 借/还款记录}
+2019-10-22 06:48:33,781 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:33,781 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问借还款记录页面
+
+2019-10-22 06:48:33,781 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问账号买卖
+2019-10-22 06:48:33,802 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '账号买卖']
+2019-10-22 06:48:33,857 - selenium - INFO - Click on the element success,location method and value used：['link text', '账号买卖']
+2019-10-22 06:48:33,876 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'jacky-modal-content']
+2019-10-22 06:48:33,894 - selenium - INFO - Obtained text：精彩活动,敬请期待
+2019-10-22 06:48:33,908 - selenium - INFO - Assert Verify success：expected outcome:{精彩活动,敬请期待} == actual results:{精彩活动,敬请期待}
+2019-10-22 06:48:34,175 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:34,190 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:34,244 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.jacky-modal-btn-red']
+2019-10-22 06:48:34,244 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问账号买卖
+
+2019-10-22 06:48:34,244 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页，通过导航栏访问在线客服
+2019-10-22 06:48:34,272 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '在线客服']
+2019-10-22 06:48:35,617 - selenium - INFO - Obtained title：在线客服-Chat window
+2019-10-22 06:48:35,618 - selenium - INFO - Assert Verify success：expected outcome:{在线客服-Chat window} == actual results:{在线客服-Chat window}
+2019-10-22 06:48:35,714 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:35,840 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页，通过导航栏访问在线客服
+
+2019-10-22 06:48:35,840 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页访问视讯金管家页面
+2019-10-22 06:48:35,862 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.hot img']
+2019-10-22 06:48:36,415 - selenium - INFO - Obtained title：澳门巴黎人 - 视讯金管家等级查询
+2019-10-22 06:48:36,415 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 视讯金管家等级查询} == actual results:{澳门巴黎人 - 视讯金管家等级查询}
+2019-10-22 06:48:36,856 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:36,979 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页访问视讯金管家页面
+
+2019-10-22 06:48:36,980 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页访问棋牌金管家页面
+2019-10-22 06:48:37,000 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.recommend img']
+2019-10-22 06:48:37,539 - selenium - INFO - Obtained title：澳门巴黎人 - 棋牌金管家等级查询
+2019-10-22 06:48:37,539 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 棋牌金管家等级查询} == actual results:{澳门巴黎人 - 棋牌金管家等级查询}
+2019-10-22 06:48:37,988 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:38,134 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页访问棋牌金管家页面
+
+2019-10-22 06:48:38,134 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页访问彩票金管家页面
+2019-10-22 06:48:38,153 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.float-left:nth-child(3) > a > img']
+2019-10-22 06:48:38,724 - selenium - INFO - Obtained title：澳门巴黎人 - 彩票金管家等级查询
+2019-10-22 06:48:38,725 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 彩票金管家等级查询} == actual results:{澳门巴黎人 - 彩票金管家等级查询}
+2019-10-22 06:48:39,112 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:39,239 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页访问彩票金管家页面
+
+2019-10-22 06:48:39,239 - selenium - INFO - Executing use test case:未登录情况下，在免息借呗首页访问电子金管家页面
+2019-10-22 06:48:39,257 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.float-left:nth-child(4) img']
+2019-10-22 06:48:40,981 - selenium - INFO - Obtained title：澳门巴黎人 - 电子金管家等级查询
+2019-10-22 06:48:40,982 - selenium - INFO - Assert Verify success：expected outcome:{澳门巴黎人 - 电子金管家等级查询} == actual results:{澳门巴黎人 - 电子金管家等级查询}
+2019-10-22 06:48:41,504 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:41,664 - selenium - INFO - Successful execution of test case:未登录情况下，在免息借呗首页访问电子金管家页面
+
+2019-10-22 06:48:41,721 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 06:48:41,721 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 06:48:41,722 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 06:48:41,722 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 06:48:42,830 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 06:48:42,944 - selenium - INFO - Browser maximization
+2019-10-22 06:48:42,951 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 06:48:42,951 - selenium - INFO - Executing use test case:
+2019-10-22 06:48:43,668 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 06:48:43,721 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.regBtn']
+2019-10-22 06:48:43,782 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.regBtn']
+2019-10-22 06:48:44,658 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:44,791 - selenium - INFO - Input content：enintech0
+2019-10-22 06:48:44,806 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:44,927 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:44,945 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:45,042 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:45,060 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:45,160 - selenium - INFO - Input content：1234
+2019-10-22 06:48:45,178 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:45,281 - selenium - INFO - Input content：13898378887
+2019-10-22 06:48:45,295 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'CANCEL2']
+2019-10-22 06:48:45,339 - selenium - INFO - Click on the element success,location method and value used：['id', 'CANCEL2']
+2019-10-22 06:48:45,355 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:45,406 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:45,427 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:45,459 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 06:48:45,487 - selenium - INFO - Failure of test case execution! Reason: '帐号6-10位数字或字母' != None : Assert Verification fail：expected outcome{None} != actual results{帐号6-10位数字或字母}
+
+2019-10-22 06:48:45,487 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否为必填项）
+2019-10-22 06:48:45,487 - selenium - INFO - input data:username:,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 06:48:45,498 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:45,575 - selenium - INFO - Input content：
+2019-10-22 06:48:45,587 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:45,666 - selenium - INFO - Input content：
+2019-10-22 06:48:45,686 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:45,759 - selenium - INFO - Input content：
+2019-10-22 06:48:45,774 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:45,830 - selenium - INFO - Input content：
+2019-10-22 06:48:45,842 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:45,916 - selenium - INFO - Input content：
+2019-10-22 06:48:45,930 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:45,972 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:45,983 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:45,997 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 06:48:46,008 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 06:48:46,323 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:46,324 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（是否为必填项）
+
+2019-10-22 06:48:46,324 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（长度是否不能小于6位）
+2019-10-22 06:48:46,324 - selenium - INFO - input data:username:12,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 06:48:46,338 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:46,402 - selenium - INFO - Input content：12
+2019-10-22 06:48:46,423 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:46,487 - selenium - INFO - Input content：
+2019-10-22 06:48:46,548 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:46,617 - selenium - INFO - Input content：
+2019-10-22 06:48:46,629 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:46,685 - selenium - INFO - Input content：
+2019-10-22 06:48:46,696 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:46,758 - selenium - INFO - Input content：
+2019-10-22 06:48:46,769 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:46,805 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:46,815 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:46,835 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 06:48:46,847 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 06:48:47,183 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:47,183 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（长度是否不能小于6位）
+
+2019-10-22 06:48:47,183 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否不能包含中文）
+2019-10-22 06:48:47,183 - selenium - INFO - input data:username:阿斯顿但是我,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 06:48:47,198 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:47,299 - selenium - INFO - Input content：阿斯顿但是我
+2019-10-22 06:48:47,315 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:47,378 - selenium - INFO - Input content：
+2019-10-22 06:48:47,392 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:47,466 - selenium - INFO - Input content：
+2019-10-22 06:48:47,480 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:47,539 - selenium - INFO - Input content：
+2019-10-22 06:48:47,552 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:47,625 - selenium - INFO - Input content：
+2019-10-22 06:48:47,636 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:47,674 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:47,688 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:47,702 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 06:48:47,713 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 06:48:48,034 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:48,034 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（是否不能包含中文）
+
+2019-10-22 06:48:48,035 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（是否不能包含特殊字符）
+2019-10-22 06:48:48,035 - selenium - INFO - input data:username:*&#123abc,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 06:48:48,046 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:48,144 - selenium - INFO - Input content：*&#123abc
+2019-10-22 06:48:48,154 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:48,214 - selenium - INFO - Input content：
+2019-10-22 06:48:48,226 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:48,334 - selenium - INFO - Input content：
+2019-10-22 06:48:48,349 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:48,423 - selenium - INFO - Input content：
+2019-10-22 06:48:48,437 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:48,493 - selenium - INFO - Input content：
+2019-10-22 06:48:48,505 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:48,541 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:48,557 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:48,572 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 06:48:48,588 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 06:48:48,912 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:48,912 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（是否不能包含特殊字符）
+
+2019-10-22 06:48:48,913 - selenium - INFO - Executing use test case:注册页面，检测账号字段规则（长度是否不能小于6位）
+2019-10-22 06:48:48,913 - selenium - INFO - input data:username:123as,password:,passwd:,phone:,code:,suc:0,assert:帐号6-10位数字或字母
+2019-10-22 06:48:48,924 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:49,015 - selenium - INFO - Input content：123as
+2019-10-22 06:48:49,026 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:49,095 - selenium - INFO - Input content：
+2019-10-22 06:48:49,108 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:49,189 - selenium - INFO - Input content：
+2019-10-22 06:48:49,205 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:49,273 - selenium - INFO - Input content：
+2019-10-22 06:48:49,285 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:49,352 - selenium - INFO - Input content：
+2019-10-22 06:48:49,363 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:49,408 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:49,423 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:49,439 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-22 06:48:49,457 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-22 06:48:49,781 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:49,781 - selenium - INFO - Successful execution of test cases:注册页面，检测账号字段规则（长度是否不能小于6位）
+
+2019-10-22 06:48:49,782 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（是否为必填项）
+2019-10-22 06:48:49,782 - selenium - INFO - input data:username:Entech9999,password:,passwd:,phone:,code:,suc:0,assert:密码8-20位数字或字母
+2019-10-22 06:48:49,792 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:49,884 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:49,895 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:49,958 - selenium - INFO - Input content：
+2019-10-22 06:48:49,974 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:50,048 - selenium - INFO - Input content：
+2019-10-22 06:48:50,058 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:50,123 - selenium - INFO - Input content：
+2019-10-22 06:48:50,138 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:50,201 - selenium - INFO - Input content：
+2019-10-22 06:48:50,219 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:50,259 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:50,275 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:50,297 - selenium - INFO - Obtained text：密码8-20位数字或字母
+2019-10-22 06:48:50,311 - selenium - INFO - Assert Verify success：expected outcome:{密码8-20位数字或字母} == actual results:{密码8-20位数字或字母}
+2019-10-22 06:48:50,650 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:50,650 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（是否为必填项）
+
+2019-10-22 06:48:50,651 - selenium - INFO - Executing use test case:注册页面，检测验证码字段规则（是否为必填项）
+2019-10-22 06:48:50,651 - selenium - INFO - input data:username:Entech9999,password:12345678,passwd:12345678,phone:,code:,suc:0,assert:请输入验证码
+2019-10-22 06:48:50,662 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:50,761 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:50,776 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:50,869 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:50,889 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:50,980 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:50,990 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:51,050 - selenium - INFO - Input content：
+2019-10-22 06:48:51,061 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:51,132 - selenium - INFO - Input content：
+2019-10-22 06:48:51,142 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:51,172 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:51,187 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:51,201 - selenium - INFO - Obtained text：请输入验证码
+2019-10-22 06:48:51,212 - selenium - INFO - Assert Verify success：expected outcome:{请输入验证码} == actual results:{请输入验证码}
+2019-10-22 06:48:51,541 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:51,541 - selenium - INFO - Successful execution of test cases:注册页面，检测验证码字段规则（是否为必填项）
+
+2019-10-22 06:48:51,542 - selenium - INFO - Executing use test case:注册页面，检测手机号字段规则（是否为必填项）
+2019-10-22 06:48:51,542 - selenium - INFO - input data:username:Entech9999,password:12345678,passwd:12345678,phone:1233,code:,suc:0,assert:请输入手机号
+2019-10-22 06:48:51,555 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:51,669 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:51,680 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:51,772 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:51,785 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:51,872 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:51,882 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:51,952 - selenium - INFO - Input content：1233
+2019-10-22 06:48:51,963 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:52,024 - selenium - INFO - Input content：
+2019-10-22 06:48:52,040 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:52,096 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:52,109 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:52,125 - selenium - INFO - Obtained text：请输入手机号
+2019-10-22 06:48:52,136 - selenium - INFO - Assert Verify success：expected outcome:{请输入手机号} == actual results:{请输入手机号}
+2019-10-22 06:48:52,467 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:52,468 - selenium - INFO - Successful execution of test cases:注册页面，检测手机号字段规则（是否为必填项）
+
+2019-10-22 06:48:52,468 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（最小长度是否为8位）
+2019-10-22 06:48:52,468 - selenium - INFO - input data:username:Entech9999,password:12345,passwd:12345,phone:1233,code:11144434443,suc:0,assert:密码 的最小长度为 8 字符
+2019-10-22 06:48:52,479 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:52,578 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:52,591 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:52,683 - selenium - INFO - Input content：12345
+2019-10-22 06:48:52,700 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:52,811 - selenium - INFO - Input content：12345
+2019-10-22 06:48:52,824 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:52,913 - selenium - INFO - Input content：1233
+2019-10-22 06:48:52,923 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:53,023 - selenium - INFO - Input content：11144434443
+2019-10-22 06:48:53,036 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:53,072 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:53,247 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:53,263 - selenium - INFO - Obtained text：密码 的最小长度为 8 字符
+2019-10-22 06:48:53,277 - selenium - INFO - Assert Verify success：expected outcome:{密码的最小长度为8字符} == actual results:{密码的最小长度为8字符}
+2019-10-22 06:48:53,614 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:53,615 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（最小长度是否为8位）
+
+2019-10-22 06:48:53,615 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（最小长度是否为8位）
+2019-10-22 06:48:53,615 - selenium - INFO - input data:username:Entech9999,password:1234,passwd:1234,phone:1233,code:11144434443,suc:0,assert:密码8-20位数字或字母
+2019-10-22 06:48:53,628 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:53,721 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:53,736 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:53,804 - selenium - INFO - Input content：1234
+2019-10-22 06:48:53,815 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:53,915 - selenium - INFO - Input content：1234
+2019-10-22 06:48:53,927 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:53,998 - selenium - INFO - Input content：1233
+2019-10-22 06:48:54,010 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:54,102 - selenium - INFO - Input content：11144434443
+2019-10-22 06:48:54,114 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:54,156 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:54,165 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:54,179 - selenium - INFO - Obtained text：密码8-20位数字或字母
+2019-10-22 06:48:54,191 - selenium - INFO - Assert Verify success：expected outcome:{密码8-20位数字或字母} == actual results:{密码8-20位数字或字母}
+2019-10-22 06:48:54,507 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:54,507 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（最小长度是否为8位）
+
+2019-10-22 06:48:54,508 - selenium - INFO - Executing use test case:注册页面，检测手机号字段规则（手机格式）
+2019-10-22 06:48:54,508 - selenium - INFO - input data:username:Entech9999,password:12345678,passwd:12345678,phone:1233,code:11144434443,suc:0,assert:请填写正确的手机号码.
+2019-10-22 06:48:54,520 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:54,615 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:54,627 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:54,745 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:54,760 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:54,874 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:54,885 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:54,970 - selenium - INFO - Input content：1233
+2019-10-22 06:48:54,979 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:55,075 - selenium - INFO - Input content：11144434443
+2019-10-22 06:48:55,087 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:55,138 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:55,314 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:55,327 - selenium - INFO - Obtained text：请填写正确的手机号码.
+2019-10-22 06:48:55,338 - selenium - INFO - Assert Verify success：expected outcome:{请填写正确的手机号码.} == actual results:{请填写正确的手机号码.}
+2019-10-22 06:48:55,661 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:55,661 - selenium - INFO - Successful execution of test cases:注册页面，检测手机号字段规则（手机格式）
+
+2019-10-22 06:48:55,661 - selenium - INFO - Executing use test case:注册页面，检测密码字段规则（是否区分密码字母大小写）
+2019-10-22 06:48:55,661 - selenium - INFO - input data:username:Entech9999,password:1234567a,passwd:1234567A,phone:1233,code:13944434443,suc:0,assert:两次密码不一致
+2019-10-22 06:48:55,675 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:55,776 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:55,787 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:55,904 - selenium - INFO - Input content：1234567a
+2019-10-22 06:48:55,915 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:56,024 - selenium - INFO - Input content：1234567A
+2019-10-22 06:48:56,038 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:56,117 - selenium - INFO - Input content：1233
+2019-10-22 06:48:56,129 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:56,222 - selenium - INFO - Input content：13944434443
+2019-10-22 06:48:56,232 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:56,271 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:56,289 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:56,303 - selenium - INFO - Obtained text：两次密码不一致
+2019-10-22 06:48:56,315 - selenium - INFO - Assert Verify success：expected outcome:{两次密码不一致} == actual results:{两次密码不一致}
+2019-10-22 06:48:56,651 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:56,651 - selenium - INFO - Successful execution of test cases:注册页面，检测密码字段规则（是否区分密码字母大小写）
+
+2019-10-22 06:48:56,651 - selenium - INFO - Executing use test case:注册页面，检测是否能阻止重复注册
+2019-10-22 06:48:56,651 - selenium - INFO - input data:username:enintech0,password:987456123,passwd:987456123,phone:1233,code:13944434443,suc:0,assert:帐号已存在
+2019-10-22 06:48:56,662 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:56,757 - selenium - INFO - Input content：enintech0
+2019-10-22 06:48:56,768 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:56,879 - selenium - INFO - Input content：987456123
+2019-10-22 06:48:56,890 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:56,985 - selenium - INFO - Input content：987456123
+2019-10-22 06:48:56,995 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:57,082 - selenium - INFO - Input content：1233
+2019-10-22 06:48:57,096 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:57,189 - selenium - INFO - Input content：13944434443
+2019-10-22 06:48:57,202 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:57,238 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:57,359 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:57,373 - selenium - INFO - Obtained text：帐号已存在
+2019-10-22 06:48:57,383 - selenium - INFO - Assert Verify success：expected outcome:{帐号已存在} == actual results:{帐号已存在}
+2019-10-22 06:48:57,712 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:57,713 - selenium - INFO - Successful execution of test cases:注册页面，检测是否能阻止重复注册
+
+2019-10-22 06:48:57,713 - selenium - INFO - Executing use test case:注册页面，检测验证码字段规则（错误验证码是否阻止注册）
+2019-10-22 06:48:57,713 - selenium - INFO - input data:username:Entech9999,password:1234567a,passwd:1234567a,phone:1111,code:13944434443,suc:0,assert:验证码错误
+2019-10-22 06:48:57,724 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:57,829 - selenium - INFO - Input content：Entech9999
+2019-10-22 06:48:57,840 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:57,931 - selenium - INFO - Input content：1234567a
+2019-10-22 06:48:57,947 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:58,056 - selenium - INFO - Input content：1234567a
+2019-10-22 06:48:58,069 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:48:58,146 - selenium - INFO - Input content：1111
+2019-10-22 06:48:58,156 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:58,263 - selenium - INFO - Input content：13944434443
+2019-10-22 06:48:58,275 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:48:58,320 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:48:58,499 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:48:58,513 - selenium - INFO - Obtained text：验证码错误
+2019-10-22 06:48:58,525 - selenium - INFO - Assert Verify success：expected outcome:{验证码错误} == actual results:{验证码错误}
+2019-10-22 06:48:58,847 - selenium - INFO - Screenshot saved successfully!
+2019-10-22 06:48:58,847 - selenium - INFO - Successful execution of test cases:注册页面，检测验证码字段规则（错误验证码是否阻止注册）
+
+2019-10-22 06:48:58,847 - selenium - INFO - Executing use test case:检测是否能够成功注册账号
+2019-10-22 06:48:58,859 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:48:58,956 - selenium - INFO - Input content：enintech9
+2019-10-22 06:48:58,970 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'password']
+2019-10-22 06:48:59,066 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:59,079 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'passwd']
+2019-10-22 06:48:59,171 - selenium - INFO - Input content：12345678
+2019-10-22 06:48:59,184 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'span > input']
+2019-10-22 06:48:59,299 - selenium - INFO - Input content：13988889999
+2019-10-22 06:49:02,784 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:02,798 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:49:02,886 - selenium - INFO - Input content：4240
+2019-10-22 06:49:02,897 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:49:02,938 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:49:04,939 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:04,953 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:49:04,966 - selenium - INFO - Obtained text：帐号已存在
+2019-10-22 06:49:05,005 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:49:05,019 - selenium - INFO - Obtained text：帐号已存在
+2019-10-22 06:49:06,033 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:49:08,359 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:08,371 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'username']
+2019-10-22 06:49:08,480 - selenium - INFO - Input content：enintech10
+2019-10-22 06:49:10,481 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:10,499 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-22 06:49:10,555 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-22 06:49:12,557 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:15,349 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:15,362 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:49:15,430 - selenium - INFO - Input content：355
+2019-10-22 06:49:15,442 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:49:15,490 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:49:17,492 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:17,511 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-22 06:49:17,528 - selenium - INFO - Obtained text：请输入4位验证码
+2019-10-22 06:49:18,540 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:49:18,551 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.checkLoginCodeImage']
+2019-10-22 06:49:18,588 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.checkLoginCodeImage']
+2019-10-22 06:49:19,590 - selenium - INFO - Forced wait 1 second
+2019-10-22 06:49:23,078 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:23,089 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'rmNum']
+2019-10-22 06:49:23,168 - selenium - INFO - Input content：3169
+2019-10-22 06:49:23,179 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-22 06:49:23,222 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-22 06:49:25,224 - selenium - INFO - Forced wait 2 second
+2019-10-22 06:49:36,714 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-22 06:49:36,714 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-22 06:49:36,714 - selenium - INFO - 在section：environment下读取url的值
+2019-10-22 06:49:36,715 - selenium - INFO - Read url configuration, value：http://blr.9161252.com
+2019-10-22 06:49:37,857 - selenium - INFO - Visit website：http://blr.9161252.com
+2019-10-22 06:49:37,969 - selenium - INFO - Browser maximization
+2019-10-22 06:49:37,976 - selenium - INFO - Set static wait time 10 seconds
+2019-10-22 06:49:37,976 - selenium - INFO - Executing test cases：新注册会员，验证系统消息是否正确
+2019-10-22 06:49:38,731 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-22 06:49:38,867 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-22 06:49:38,994 - selenium - INFO - Input content：enintech9
+2019-10-22 06:49:39,010 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-22 06:49:39,090 - selenium - ERROR - Content input error
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 377, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/Common/basePage.py", line 360, in type
+    element.send_keys(value)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 402, in _request
+    resp = http.request(method, url, body=body, headers=headers)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/poolmanager.py", line 324, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1336, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

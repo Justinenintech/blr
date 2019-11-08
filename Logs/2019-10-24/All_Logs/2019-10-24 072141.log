@@ -1,0 +1,28 @@
+2019-10-24 07:21:41,968 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:21:41,968 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:21:41,968 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:21:41,968 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:21:45,554 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:21:45,720 - selenium - INFO - Browser maximization
+2019-10-24 07:21:45,735 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:21:47,065 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:21:47,500 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:21:47,939 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 07:21:47,939 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段是否为必填项
+2019-10-24 07:21:47,939 - selenium - INFO - input data:name:,pwd:,suc:0,assert:请输入账号
+2019-10-24 07:21:48,106 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:21:48,494 - selenium - INFO - Input content：
+2019-10-24 07:21:48,541 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:21:49,083 - selenium - INFO - Input content：
+2019-10-24 07:21:49,139 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:21:49,504 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 07:21:49,647 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:21:50,010 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:21:50,059 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-icon-ios-close-empty']
+2019-10-24 07:21:50,157 - selenium - INFO - Obtained text：
+2019-10-24 07:21:51,575 - selenium - ERROR - Failure of test case execution! Reason: '请输入账号' not found in ''
+
+2019-10-24 07:21:51,652 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:21:51,777 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:22:02,185 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 07:22:02,355 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']

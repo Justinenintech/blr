@@ -1,0 +1,677 @@
+2019-10-24 23:29:49,429 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 23:29:49,429 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 23:29:49,430 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 23:29:49,430 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 23:29:50,903 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 23:29:51,026 - selenium - INFO - Browser maximization
+2019-10-24 23:29:51,041 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 23:29:51,041 - selenium - INFO - Executing test cases：验证是否能够成功访问账号安全页面
+2019-10-24 23:29:51,945 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 23:29:52,031 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 23:29:52,203 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 23:29:52,331 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 23:29:52,832 - selenium - INFO - Input content：enintech28
+2019-10-24 23:29:52,857 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 23:29:53,002 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:04,092 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 23:30:04,168 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-24 23:30:04,168 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-24 23:30:05,186 - selenium - INFO - Forced wait 1 second
+2019-10-24 23:30:05,186 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-24 23:30:05,212 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', 'form > p:nth-child(1)']
+2019-10-24 23:30:05,232 - selenium - INFO - Obtained text：帐号：enintech28
+2019-10-24 23:30:05,265 - selenium - INFO - Assert Verify success：expected outcome:{enintech28} == actual results:{帐号：enintech28}
+2019-10-24 23:30:06,267 - selenium - INFO - Forced wait 1 second
+2019-10-24 23:30:06,782 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:06,826 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '修改密码']
+2019-10-24 23:30:07,377 - selenium - INFO - Click on the element success,location method and value used：['link text', '修改密码']
+2019-10-24 23:30:07,377 - selenium - INFO - Successful execution of test cases:验证是否能够成功访问账号安全页面
+
+2019-10-24 23:30:07,378 - selenium - INFO - Executing test cases：修改登录密码页面，验证旧密码错误的情况下是否能阻止修改密码
+2019-10-24 23:30:07,378 - selenium - INFO - input suc:0,old_pwd:123,new_pwd:liwanlei,confirm_pwd:liwanlei,assert_value:原登录密码错误
+2019-10-24 23:30:07,410 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:07,613 - selenium - INFO - Input content：123
+2019-10-24 23:30:07,630 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:08,010 - selenium - INFO - Input content：liwanlei
+2019-10-24 23:30:08,027 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:08,158 - selenium - INFO - Input content：liwanlei
+2019-10-24 23:30:08,182 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:08,499 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:08,668 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:08,864 - selenium - INFO - Obtained text：原登录密码错误
+2019-10-24 23:30:09,044 - selenium - INFO - Assert Verify success：expected outcome:{原登录密码错误} == actual results:{原登录密码错误}
+2019-10-24 23:30:09,770 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:11,772 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:11,772 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证旧密码错误的情况下是否能阻止修改密码
+
+2019-10-24 23:30:11,773 - selenium - INFO - Executing test cases：修改登录密码页面，验证新密码字段长度是否不能小于6位
+2019-10-24 23:30:11,773 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:123,confirm_pwd:123,assert_value:请输入8-20位新密码
+2019-10-24 23:30:11,796 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:12,754 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:12,938 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:13,605 - selenium - INFO - Input content：123
+2019-10-24 23:30:13,620 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:14,741 - selenium - INFO - Input content：123
+2019-10-24 23:30:14,913 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:15,383 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:15,544 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:15,715 - selenium - INFO - Obtained text：请输入8-20位新密码
+2019-10-24 23:30:15,889 - selenium - INFO - Assert Verify success：expected outcome:{请输入8-20位新密码} == actual results:{请输入8-20位新密码}
+2019-10-24 23:30:16,735 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:18,737 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:18,737 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证新密码字段长度是否不能小于6位
+
+2019-10-24 23:30:18,737 - selenium - INFO - Executing test cases：修改登录密码页面，验证新密码与旧密码一致的情况下是否能到修改密码
+2019-10-24 23:30:18,737 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:12345678,confirm_pwd:12345678,assert_value:新密码不能与原密码一致
+2019-10-24 23:30:18,761 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:19,362 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:19,394 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:19,764 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:19,788 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:19,953 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:19,974 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:20,049 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:20,065 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:20,083 - selenium - INFO - Obtained text：新密码不能与原密码一致
+2019-10-24 23:30:20,102 - selenium - INFO - Assert Verify success：expected outcome:{新密码不能与原密码一致} == actual results:{新密码不能与原密码一致}
+2019-10-24 23:30:20,647 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:22,648 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:22,648 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证新密码与旧密码一致的情况下是否能到修改密码
+
+2019-10-24 23:30:22,649 - selenium - INFO - Executing test cases：修改登录密码页面，验证新密码与确认密码不一致是否能阻止修改密码
+2019-10-24 23:30:22,649 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:12345678,confirm_pwd:87654321,assert_value:两次输入的新密码不一致
+2019-10-24 23:30:22,666 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:22,808 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:22,824 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:24,021 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:24,037 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:24,159 - selenium - INFO - Input content：87654321
+2019-10-24 23:30:24,186 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:24,448 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:24,616 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:24,778 - selenium - INFO - Obtained text：两次输入的新密码不一致
+2019-10-24 23:30:24,958 - selenium - INFO - Assert Verify success：expected outcome:{两次输入的新密码不一致} == actual results:{两次输入的新密码不一致}
+2019-10-24 23:30:25,664 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:27,667 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:27,668 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证新密码与确认密码不一致是否能阻止修改密码
+
+2019-10-24 23:30:27,668 - selenium - INFO - Executing test cases：修改登录密码页面，验证新密码与确认密码不一致是否能阻止修改密码(字母大小写)
+2019-10-24 23:30:27,668 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:1234567a,confirm_pwd:12345678A,assert_value:两次输入的新密码不一致
+2019-10-24 23:30:27,839 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:28,979 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:29,201 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:29,473 - selenium - INFO - Input content：1234567a
+2019-10-24 23:30:29,490 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:30,472 - selenium - INFO - Input content：12345678A
+2019-10-24 23:30:30,660 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:31,223 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:31,467 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:31,636 - selenium - INFO - Obtained text：两次输入的新密码不一致
+2019-10-24 23:30:31,880 - selenium - INFO - Assert Verify success：expected outcome:{两次输入的新密码不一致} == actual results:{两次输入的新密码不一致}
+2019-10-24 23:30:32,602 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:34,603 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:34,603 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证新密码与确认密码不一致是否能阻止修改密码(字母大小写)
+
+2019-10-24 23:30:34,604 - selenium - INFO - Executing test cases：修改登录密码页面，验证新密码不符合规则的情况下是否能阻止修改密码(包含空格)
+2019-10-24 23:30:34,604 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:1234 567,confirm_pwd:1234 567,assert_value:密码 必须全部由字母和数字构成
+2019-10-24 23:30:34,767 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:36,056 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:36,075 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:36,193 - selenium - INFO - Input content：1234 567
+2019-10-24 23:30:36,208 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:36,859 - selenium - INFO - Input content：1234 567
+2019-10-24 23:30:37,091 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:37,752 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:37,936 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:38,103 - selenium - INFO - Obtained text：密码 必须全部由字母和数字构成
+确认
+2019-10-24 23:30:38,276 - selenium - INFO - Assert Verify success：expected outcome:{密码必须全部由字母和数字构成} == actual results:{密码必须全部由字母和数字构成}
+2019-10-24 23:30:38,942 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:40,944 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:40,945 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证新密码不符合规则的情况下是否能阻止修改密码(包含空格)
+
+2019-10-24 23:30:40,945 - selenium - INFO - Executing test cases：修改登录密码页面，验证新密码不符合规则的情况下是否能阻止修改密码(包含特殊字符)
+2019-10-24 23:30:40,945 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:12!@#67a,confirm_pwd:12!@#67a,assert_value:密码 必须全部由字母和数字构成
+2019-10-24 23:30:41,106 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:42,464 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:42,479 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:43,123 - selenium - INFO - Input content：12!@#67a
+2019-10-24 23:30:43,147 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:43,449 - selenium - INFO - Input content：12!@#67a
+2019-10-24 23:30:43,661 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:44,052 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:44,137 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:44,167 - selenium - INFO - Obtained text：密码 必须全部由字母和数字构成
+确认
+2019-10-24 23:30:44,191 - selenium - INFO - Assert Verify success：expected outcome:{密码必须全部由字母和数字构成} == actual results:{密码必须全部由字母和数字构成}
+2019-10-24 23:30:44,890 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:46,892 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:46,892 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证新密码不符合规则的情况下是否能阻止修改密码(包含特殊字符)
+
+2019-10-24 23:30:46,892 - selenium - INFO - Executing test cases：修改登录密码页面，验证是否能够成功修改密码
+2019-10-24 23:30:46,892 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:1234567a,confirm_pwd:1234567a,assert_value:修改成功
+2019-10-24 23:30:46,907 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:47,113 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:47,294 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:47,931 - selenium - INFO - Input content：1234567a
+2019-10-24 23:30:47,958 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:48,399 - selenium - INFO - Input content：1234567a
+2019-10-24 23:30:48,582 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:49,035 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:49,405 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:49,574 - selenium - INFO - Obtained text：修改成功
+确认
+2019-10-24 23:30:49,766 - selenium - INFO - Assert Verify success：expected outcome:{修改成功} == actual results:{修改成功}
+2019-10-24 23:30:50,536 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:52,537 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:52,537 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证是否能够成功修改密码
+
+2019-10-24 23:30:52,537 - selenium - INFO - Executing test cases：修改登录密码页面，验证是否能够成功修改密码（再次使用修改之前的密码）
+2019-10-24 23:30:52,537 - selenium - INFO - input suc:0,old_pwd:12345678,new_pwd:1234567a,confirm_pwd:1234567a,assert_value:原密码错误
+2019-10-24 23:30:52,672 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:54,220 - selenium - INFO - Input content：12345678
+2019-10-24 23:30:54,236 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:30:54,378 - selenium - INFO - Input content：1234567a
+2019-10-24 23:30:54,392 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:30:54,503 - selenium - INFO - Input content：1234567a
+2019-10-24 23:30:54,529 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:30:54,585 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:30:54,783 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:30:54,804 - selenium - INFO - Obtained text：:原密码错误.
+确认
+2019-10-24 23:30:54,822 - selenium - INFO - Assert Verify success：expected outcome:{原密码错误} == actual results:{:原密码错误.}
+2019-10-24 23:30:55,435 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:30:57,437 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:30:57,437 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证是否能够成功修改密码（再次使用修改之前的密码）
+
+2019-10-24 23:30:57,437 - selenium - INFO - Executing test cases：修改登录密码页面，验证是否能够成功修改密码（使用修改之后的密码）
+2019-10-24 23:30:57,437 - selenium - INFO - input suc:0,old_pwd:1234567a,new_pwd:12345678,confirm_pwd:12345678,assert_value:修改成功
+2019-10-24 23:30:57,616 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:30:59,365 - selenium - INFO - Input content：1234567a
+2019-10-24 23:30:59,530 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:00,436 - selenium - INFO - Input content：12345678
+2019-10-24 23:31:00,607 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:01,911 - selenium - INFO - Input content：12345678
+2019-10-24 23:31:02,086 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:02,641 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:02,966 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:03,148 - selenium - INFO - Obtained text：修改成功
+确认
+2019-10-24 23:31:03,327 - selenium - INFO - Assert Verify success：expected outcome:{修改成功} == actual results:{修改成功}
+2019-10-24 23:31:04,134 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:06,138 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:06,138 - selenium - INFO - Successful execution of test cases：修改登录密码页面，验证是否能够成功修改密码（使用修改之后的密码）
+
+2019-10-24 23:31:06,139 - selenium - INFO - Executing test cases：修改资金密码页面，验证密保答案字段的规则(密保答案是否不能为空)
+2019-10-24 23:31:06,139 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:654321,confirm_pwd:654321,security:,assert_value:请输入密保答案
+2019-10-24 23:31:06,268 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:06,810 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:06,984 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:07,394 - selenium - INFO - Input content：123456
+2019-10-24 23:31:07,514 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:08,659 - selenium - INFO - Input content：654321
+2019-10-24 23:31:08,840 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:09,136 - selenium - INFO - Input content：654321
+2019-10-24 23:31:09,172 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:09,864 - selenium - INFO - Input content：
+2019-10-24 23:31:10,046 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:10,675 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:10,857 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:11,056 - selenium - INFO - Obtained text：请输入密保答案
+2019-10-24 23:31:11,222 - selenium - INFO - Assert Verify success：expected outcome:{请输入密保答案} == actual results:{请输入密保答案}
+2019-10-24 23:31:12,010 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:14,011 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:14,011 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证密保答案字段的规则(密保答案是否不能为空)
+
+2019-10-24 23:31:14,012 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(旧密码长度小于6)
+2019-10-24 23:31:14,012 - selenium - INFO - input suc:0,old_pwd:123,new_pwd:123456,confirm_pwd:123456,security:123,assert_value:请输入6位数字原资金密码
+2019-10-24 23:31:14,035 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:14,157 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:14,176 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:14,292 - selenium - INFO - Input content：123
+2019-10-24 23:31:14,323 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:14,440 - selenium - INFO - Input content：123456
+2019-10-24 23:31:14,453 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:15,383 - selenium - INFO - Input content：123456
+2019-10-24 23:31:15,462 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:16,606 - selenium - INFO - Input content：123
+2019-10-24 23:31:16,787 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:17,481 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:17,651 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:17,799 - selenium - INFO - Obtained text：请输入6位数字原资金密码
+2019-10-24 23:31:17,875 - selenium - INFO - Assert Verify success：expected outcome:{请输入6位数字原资金密码} == actual results:{请输入6位数字原资金密码}
+2019-10-24 23:31:18,504 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:20,507 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:20,508 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(旧密码长度小于6)
+
+2019-10-24 23:31:20,508 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(新密码长度小于6)
+2019-10-24 23:31:20,508 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:123,confirm_pwd:12345,security:123,assert_value:请输入6位数字资金密码
+2019-10-24 23:31:20,528 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:20,587 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:20,603 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:21,514 - selenium - INFO - Input content：123456
+2019-10-24 23:31:21,692 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:22,954 - selenium - INFO - Input content：123
+2019-10-24 23:31:22,978 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:23,968 - selenium - INFO - Input content：12345
+2019-10-24 23:31:24,094 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:24,216 - selenium - INFO - Input content：123
+2019-10-24 23:31:24,297 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:24,948 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:25,061 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:25,253 - selenium - INFO - Obtained text：请输入6位数字资金密码
+2019-10-24 23:31:25,443 - selenium - INFO - Assert Verify success：expected outcome:{请输入6位数字资金密码} == actual results:{请输入6位数字资金密码}
+2019-10-24 23:31:26,227 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:28,230 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:28,230 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(新密码长度小于6)
+
+2019-10-24 23:31:28,231 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(密码包含字母)
+2019-10-24 23:31:28,231 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:aaaaaa,confirm_pwd:aaaaaa,security:123,assert_value:请输入6位数字资金密码
+2019-10-24 23:31:28,374 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:28,964 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:29,136 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:30,262 - selenium - INFO - Input content：123456
+2019-10-24 23:31:30,434 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:31,976 - selenium - INFO - Input content：aaaaaa
+2019-10-24 23:31:32,147 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:33,147 - selenium - INFO - Input content：aaaaaa
+2019-10-24 23:31:33,320 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:34,371 - selenium - INFO - Input content：123
+2019-10-24 23:31:34,530 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:35,120 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:35,359 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:35,386 - selenium - INFO - Obtained text：请输入6位数字资金密码
+2019-10-24 23:31:35,411 - selenium - INFO - Assert Verify success：expected outcome:{请输入6位数字资金密码} == actual results:{请输入6位数字资金密码}
+2019-10-24 23:31:36,064 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:38,066 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:38,066 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(密码包含字母)
+
+2019-10-24 23:31:38,066 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(密码包含特殊字符)
+2019-10-24 23:31:38,066 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:!23a-@,confirm_pwd:!23a-@,security:123,assert_value:请输入6位数字资金密码
+2019-10-24 23:31:38,249 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:38,576 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:38,592 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:38,668 - selenium - INFO - Input content：123456
+2019-10-24 23:31:38,698 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:39,185 - selenium - INFO - Input content：!23a-@
+2019-10-24 23:31:39,316 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:39,422 - selenium - INFO - Input content：!23a-@
+2019-10-24 23:31:39,437 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:40,534 - selenium - INFO - Input content：123
+2019-10-24 23:31:40,757 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:41,124 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:41,137 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:41,163 - selenium - INFO - Obtained text：请输入6位数字资金密码
+2019-10-24 23:31:41,191 - selenium - INFO - Assert Verify success：expected outcome:{请输入6位数字资金密码} == actual results:{请输入6位数字资金密码}
+2019-10-24 23:31:41,874 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:43,877 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:43,877 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(密码包含特殊字符)
+
+2019-10-24 23:31:43,877 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(密码包含空格)
+2019-10-24 23:31:43,877 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:123 45,confirm_pwd:123 45,security:123,assert_value:请输入6位数字资金密码
+2019-10-24 23:31:44,030 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:44,515 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:44,535 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:44,643 - selenium - INFO - Input content：123456
+2019-10-24 23:31:44,659 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:44,827 - selenium - INFO - Input content：123 45
+2019-10-24 23:31:44,843 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:44,964 - selenium - INFO - Input content：123 45
+2019-10-24 23:31:44,987 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:45,540 - selenium - INFO - Input content：123
+2019-10-24 23:31:45,703 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:46,292 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:46,465 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:46,697 - selenium - INFO - Obtained text：请输入6位数字资金密码
+2019-10-24 23:31:46,868 - selenium - INFO - Assert Verify success：expected outcome:{请输入6位数字资金密码} == actual results:{请输入6位数字资金密码}
+2019-10-24 23:31:47,551 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:49,554 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:49,555 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(密码包含空格)
+
+2019-10-24 23:31:49,555 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(旧密码与新密码一致)
+2019-10-24 23:31:49,555 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:123456,confirm_pwd:123456,security:123,assert_value:新密码不能与原密码一致
+2019-10-24 23:31:49,578 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:49,646 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:49,664 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:49,801 - selenium - INFO - Input content：123456
+2019-10-24 23:31:49,818 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:49,950 - selenium - INFO - Input content：123456
+2019-10-24 23:31:49,968 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:50,640 - selenium - INFO - Input content：123456
+2019-10-24 23:31:50,814 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:51,984 - selenium - INFO - Input content：123
+2019-10-24 23:31:52,154 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:52,785 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:52,951 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:53,118 - selenium - INFO - Obtained text：新密码不能与原密码一致
+2019-10-24 23:31:53,307 - selenium - INFO - Assert Verify success：expected outcome:{新密码不能与原密码一致} == actual results:{新密码不能与原密码一致}
+2019-10-24 23:31:53,995 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:31:55,996 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:31:55,997 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(旧密码与新密码一致)
+
+2019-10-24 23:31:55,997 - selenium - INFO - Executing test cases：修改资金密码页面，验证资金密码字段的规则(新密码与旧密码不一致)
+2019-10-24 23:31:55,997 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:123456,confirm_pwd:654321,security:123,assert_value:两次密码不一致
+2019-10-24 23:31:56,163 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:56,777 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:31:56,947 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:31:57,463 - selenium - INFO - Input content：123456
+2019-10-24 23:31:57,480 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:31:57,577 - selenium - INFO - Input content：123456
+2019-10-24 23:31:57,597 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:31:57,745 - selenium - INFO - Input content：654321
+2019-10-24 23:31:57,781 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:31:57,873 - selenium - INFO - Input content：123
+2019-10-24 23:31:57,886 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:31:57,999 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:31:58,014 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:31:58,031 - selenium - INFO - Obtained text：两次密码不一致
+2019-10-24 23:31:58,043 - selenium - INFO - Assert Verify success：expected outcome:{两次密码不一致} == actual results:{两次密码不一致}
+2019-10-24 23:31:58,635 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:00,638 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:00,638 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证资金密码字段的规则(新密码与旧密码不一致)
+
+2019-10-24 23:32:00,638 - selenium - INFO - Executing test cases：修改资金密码页面，验证密保答案字段的规则(错误的密保答案)
+2019-10-24 23:32:00,638 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:654321,confirm_pwd:654321,security:123,assert_value:密保答案错误
+2019-10-24 23:32:00,797 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:01,218 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:01,235 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:32:01,367 - selenium - INFO - Input content：123456
+2019-10-24 23:32:01,392 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:01,516 - selenium - INFO - Input content：654321
+2019-10-24 23:32:01,533 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:32:02,637 - selenium - INFO - Input content：654321
+2019-10-24 23:32:02,811 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:32:03,491 - selenium - INFO - Input content：123
+2019-10-24 23:32:03,510 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:03,613 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:03,963 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:04,133 - selenium - INFO - Obtained text：密保答案错误
+确认
+2019-10-24 23:32:04,303 - selenium - INFO - Assert Verify success：expected outcome:{密保答案错误} == actual results:{密保答案错误}
+2019-10-24 23:32:05,038 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:07,040 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:07,040 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证密保答案字段的规则(错误的密保答案)
+
+2019-10-24 23:32:07,040 - selenium - INFO - Executing test cases：修改资金密码页面，验证符合规则的字段是否能够成功修改资金密码
+2019-10-24 23:32:07,040 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:654321,confirm_pwd:654321,security:我爱罗,assert_value:修改成功
+2019-10-24 23:32:07,212 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:07,811 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:07,829 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:32:07,920 - selenium - INFO - Input content：123456
+2019-10-24 23:32:07,937 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:08,198 - selenium - INFO - Input content：654321
+2019-10-24 23:32:08,379 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:32:09,701 - selenium - INFO - Input content：654321
+2019-10-24 23:32:09,885 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:32:10,235 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:32:10,367 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:11,003 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:11,290 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:11,477 - selenium - INFO - Obtained text：修改成功
+确认
+2019-10-24 23:32:11,671 - selenium - INFO - Assert Verify success：expected outcome:{修改成功} == actual results:{修改成功}
+2019-10-24 23:32:12,338 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:14,340 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:14,341 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证符合规则的字段是否能够成功修改资金密码
+
+2019-10-24 23:32:14,341 - selenium - INFO - Executing test cases：修改资金密码页面，验证符合规则的字段是否能够成功修改资金密码（再次使用同一套数据修改资金密码）
+2019-10-24 23:32:14,341 - selenium - INFO - input suc:0,old_pwd:123456,new_pwd:654321,confirm_pwd:654321,security:我爱罗,assert_value:原资金密码错误
+2019-10-24 23:32:14,461 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:14,532 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:14,547 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:32:14,698 - selenium - INFO - Input content：123456
+2019-10-24 23:32:14,724 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:15,764 - selenium - INFO - Input content：654321
+2019-10-24 23:32:15,936 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:32:17,114 - selenium - INFO - Input content：654321
+2019-10-24 23:32:17,284 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:32:18,450 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:32:18,527 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:18,795 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:19,021 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:19,199 - selenium - INFO - Obtained text：原资金密码错误
+确认
+2019-10-24 23:32:19,397 - selenium - INFO - Assert Verify success：expected outcome:{原资金密码错误} == actual results:{原资金密码错误}
+2019-10-24 23:32:20,043 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:22,044 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:22,045 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证符合规则的字段是否能够成功修改资金密码（再次使用同一套数据修改资金密码）
+
+2019-10-24 23:32:22,045 - selenium - INFO - Executing test cases：修改资金密码页面，验证符合规则的字段是否能够成功修改资金密码（使用最新数据修改资金密码）
+2019-10-24 23:32:22,045 - selenium - INFO - input suc:0,old_pwd:654321,new_pwd:123456,confirm_pwd:123456,security:我爱罗,assert_value:修改成功
+2019-10-24 23:32:22,213 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:22,380 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(3) > span']
+2019-10-24 23:32:22,398 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(1) > input']
+2019-10-24 23:32:22,479 - selenium - INFO - Input content：654321
+2019-10-24 23:32:22,680 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:24,235 - selenium - INFO - Input content：123456
+2019-10-24 23:32:24,408 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(3) > input']
+2019-10-24 23:32:24,512 - selenium - INFO - Input content：123456
+2019-10-24 23:32:24,529 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(5) > input']
+2019-10-24 23:32:25,543 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:32:25,557 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:25,619 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:25,916 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:26,099 - selenium - INFO - Obtained text：修改成功
+确认
+2019-10-24 23:32:26,284 - selenium - INFO - Assert Verify success：expected outcome:{修改成功} == actual results:{修改成功}
+2019-10-24 23:32:26,971 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:28,974 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:28,974 - selenium - INFO - Successful execution of test cases：修改资金密码页面，验证符合规则的字段是否能够成功修改资金密码（使用最新数据修改资金密码）
+
+2019-10-24 23:32:28,974 - selenium - INFO - Executing test case: 修改密保页面，验证密保答案是否不能为空
+2019-10-24 23:32:29,136 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.aisle:nth-child(4) > span']
+2019-10-24 23:32:29,827 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.aisle:nth-child(4) > span']
+2019-10-24 23:32:29,843 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:29,956 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:29,968 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:30,010 - selenium - INFO - Obtained text：请输入密保答案
+2019-10-24 23:32:30,032 - selenium - INFO - Assert Verify success：expected outcome:{请输入密保答案} == actual results:{请输入密保答案}
+2019-10-24 23:32:30,710 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:32,712 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:32,713 - selenium - INFO - Successful execution of test cases：修改密保页面，验证密保答案是否不能为空
+
+2019-10-24 23:32:32,713 - selenium - INFO - Executing test case: 修改密保页面，验证新密保问题是否不能为空
+2019-10-24 23:32:32,896 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:33,556 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:32:33,584 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:33,683 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:33,700 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:33,729 - selenium - INFO - Obtained text：请输入新密保答案
+2019-10-24 23:32:33,777 - selenium - ERROR - Failure of test cases execution：'请选择密保问题' not found in '请输入新密保答案' : Assert Verification fail：expected outcome{请选择密保问题} != actual results{请输入新密保答案}
+
+2019-10-24 23:32:34,410 - selenium - INFO - Executing test case: 修改密保页面，验证新密保答案是否不能为空
+2019-10-24 23:32:34,601 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-select-placeholder']
+2019-10-24 23:32:35,140 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-select-placeholder']
+2019-10-24 23:32:38,142 - selenium - INFO - Forced wait 3 second
+2019-10-24 23:32:38,328 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-select-item:nth-child(1)']
+2019-10-24 23:32:39,036 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-select-item:nth-child(1)']
+2019-10-24 23:32:39,664 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-select-item:nth-child(1)']
+2019-10-24 23:32:42,668 - selenium - INFO - Forced wait 3 second
+2019-10-24 23:32:42,812 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:43,480 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:46,480 - selenium - INFO - Forced wait 3 second
+2019-10-24 23:32:46,608 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:46,805 - selenium - INFO - Obtained text：请输入新密保答案
+2019-10-24 23:32:46,870 - selenium - INFO - Assert Verify success：expected outcome:{请输入新密保答案} == actual results:{请输入新密保答案}
+2019-10-24 23:32:47,474 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:49,476 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:49,477 - selenium - INFO - Successful execution of test cases：修改密保页面，验证新密保答案是否不能为空
+
+2019-10-24 23:32:49,477 - selenium - INFO - Executing test case: 修改密保页面，验证新密保是否不能与原密保一致
+2019-10-24 23:32:49,651 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(4) > input']
+2019-10-24 23:32:50,161 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:32:50,179 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:50,498 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:50,525 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:50,545 - selenium - INFO - Obtained text：新密保不能与原密保一致
+2019-10-24 23:32:50,558 - selenium - INFO - Assert Verify success：expected outcome:{新密保不能与原密保一致} == actual results:{新密保不能与原密保一致}
+2019-10-24 23:32:51,278 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:53,281 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:53,281 - selenium - INFO - Successful execution of test cases：修改密保页面，验证新密保是否不能与原密保一致
+
+2019-10-24 23:32:53,282 - selenium - INFO - Executing test case: 修改密保页面，验证原密保问题或答案错误是否能阻止修改密保
+2019-10-24 23:32:53,299 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:53,387 - selenium - INFO - Input content：我我
+2019-10-24 23:32:53,407 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(4) > input']
+2019-10-24 23:32:54,042 - selenium - INFO - Input content：罗爱我
+2019-10-24 23:32:54,100 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:54,179 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:54,393 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:54,612 - selenium - INFO - Obtained text：原密保问题或答案错误
+确认
+2019-10-24 23:32:54,790 - selenium - INFO - Assert Verify success：expected outcome:{原密保问题或答案错误} == actual results:{原密保问题或答案错误}
+2019-10-24 23:32:55,475 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:32:57,476 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:32:57,477 - selenium - INFO - Successful execution of test cases：修改密保页面，验证原密保问题或答案错误是否能阻止修改密保
+
+2019-10-24 23:32:57,477 - selenium - INFO - Executing test case: 修改密保页面，验证密保答案是否不能少于2个字符
+2019-10-24 23:32:57,631 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:32:58,208 - selenium - INFO - Input content：1
+2019-10-24 23:32:58,220 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(4) > input']
+2019-10-24 23:32:58,346 - selenium - INFO - Input content：罗爱我
+2019-10-24 23:32:58,375 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:32:58,635 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:32:58,824 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:32:59,016 - selenium - INFO - Obtained text：密保答案 的最小长度为 2 字符
+确认
+2019-10-24 23:32:59,194 - selenium - INFO - Assert Verify success：expected outcome:{密保答案的最小长度为2字符} == actual results:{密保答案的最小长度为2字符}
+2019-10-24 23:32:59,980 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:01,981 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:33:01,982 - selenium - INFO - Successful execution of test cases：修改密保页面，验证密保答案是否不能少于2个字符
+
+2019-10-24 23:33:01,982 - selenium - INFO - Executing test case: 修改密保页面，验证是否能够成功修改密保-01
+2019-10-24 23:33:02,159 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:33:02,576 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:33:02,602 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(4) > input']
+2019-10-24 23:33:03,015 - selenium - INFO - Input content：罗爱我
+2019-10-24 23:33:03,182 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:33:03,823 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:33:04,014 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:33:04,191 - selenium - INFO - Obtained text：修改密保成功.
+确认
+2019-10-24 23:33:04,317 - selenium - INFO - Assert Verify success：expected outcome:{修改密保成功} == actual results:{修改密保成功.}
+2019-10-24 23:33:04,991 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:06,992 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:33:06,992 - selenium - INFO - Successful execution of test cases：修改密保页面，验证是否能够成功修改密保-01
+
+2019-10-24 23:33:06,992 - selenium - INFO - Executing test case: 修改密保页面，验证是否能够成功修改密保-02
+2019-10-24 23:33:07,165 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(2) > input']
+2019-10-24 23:33:07,581 - selenium - INFO - Input content：罗爱我
+2019-10-24 23:33:07,604 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-select-placeholder']
+2019-10-24 23:33:08,056 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-select-placeholder']
+2019-10-24 23:33:10,057 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:33:10,143 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-select-item:nth-child(1)']
+2019-10-24 23:33:10,906 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.ivu-select-item:nth-child(1)']
+2019-10-24 23:33:11,553 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.ivu-select-item:nth-child(1)']
+2019-10-24 23:33:13,556 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:33:13,744 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.row:nth-child(4) > input']
+2019-10-24 23:33:14,934 - selenium - INFO - Input content：我爱罗
+2019-10-24 23:33:15,118 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.submitPay']
+2019-10-24 23:33:15,666 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.submitPay']
+2019-10-24 23:33:15,803 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-24 23:33:15,825 - selenium - INFO - Obtained text：修改密保成功.
+确认
+2019-10-24 23:33:15,847 - selenium - INFO - Assert Verify success：expected outcome:{修改密保成功} == actual results:{修改密保成功.}
+2019-10-24 23:33:16,453 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:18,455 - selenium - INFO - Forced wait 2 second
+2019-10-24 23:33:18,456 - selenium - INFO - Successful execution of test cases：修改密保页面，验证是否能够成功修改密保-02
+
+2019-10-24 23:33:18,514 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 23:33:18,514 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 23:33:18,514 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 23:33:18,514 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 23:33:19,881 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 23:33:19,999 - selenium - INFO - Browser maximization
+2019-10-24 23:33:20,006 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 23:33:20,007 - selenium - INFO - Executing test cases：访问关于我们页面
+2019-10-24 23:33:20,926 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 23:33:20,977 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 23:33:21,229 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 23:33:22,230 - selenium - INFO - Forced wait 1 second
+2019-10-24 23:33:22,286 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'关于我们')]"]
+2019-10-24 23:33:22,638 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'关于我们')]"]
+2019-10-24 23:33:22,679 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.gywm_nr:nth-child(2) > .gywm_tit > p']
+2019-10-24 23:33:22,719 - selenium - INFO - Obtained text：关于我们
+2019-10-24 23:33:22,762 - selenium - INFO - Assert Verify success：expected outcome:{关于我们} == actual results:{关于我们}
+2019-10-24 23:33:23,212 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:23,212 - selenium - INFO - Successful execution of test cases：访问关于我们页面
+
+2019-10-24 23:33:23,212 - selenium - INFO - Executing use test case:访问代理加盟页面,默认为金字塔代理模式
+2019-10-24 23:33:23,275 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'合作伙伴')]"]
+2019-10-24 23:33:24,193 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'合作伙伴')]"]
+2019-10-24 23:33:24,209 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.menu_one_li:nth-child(1)']
+2019-10-24 23:33:24,229 - selenium - INFO - Obtained text：金字塔代理模式
+2019-10-24 23:33:24,246 - selenium - INFO - Assert Verify success：expected outcome:{金字塔代理模式} == actual results:{金字塔代理模式}
+2019-10-24 23:33:24,649 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:24,649 - selenium - INFO - Successful execution of test cases:访问代理加盟页面,默认为金字塔代理模式
+
+2019-10-24 23:33:24,650 - selenium - INFO - Executing use test case:访问金字塔代理教程相关页面
+2019-10-24 23:33:24,666 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.menu_one_li:nth-child(2)']
+2019-10-24 23:33:24,744 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.menu_one_li:nth-child(2)']
+2019-10-24 23:33:24,767 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:24,825 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:25,229 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:25,229 - selenium - INFO - 如何邀请注册帐号
+2019-10-24 23:33:25,229 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:25,242 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:25,291 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:25,680 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:25,680 - selenium - INFO - 如何进入代理中心
+2019-10-24 23:33:25,680 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:25,694 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:25,746 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:26,155 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:26,156 - selenium - INFO - 如何生成邀链接
+2019-10-24 23:33:26,156 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:26,176 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:26,230 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:26,640 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:26,641 - selenium - INFO - 如何管理邀链接
+2019-10-24 23:33:26,641 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:26,658 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:26,691 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:27,083 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:27,083 - selenium - INFO - 如何查看下级人数
+2019-10-24 23:33:27,083 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:27,108 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:27,159 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:27,546 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:27,546 - selenium - INFO - 如何查看下级列表
+2019-10-24 23:33:27,546 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:27,563 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:27,620 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:28,033 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:28,034 - selenium - INFO - 如何查看下级财务
+2019-10-24 23:33:28,034 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:28,048 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:28,093 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:28,582 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:28,582 - selenium - INFO - 如何查看代理受益
+2019-10-24 23:33:28,582 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:28,599 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:28,639 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:29,059 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:29,059 - selenium - INFO - 如何查看下级报表
+2019-10-24 23:33:29,059 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:29,073 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['class name', 'menu_two']
+2019-10-24 23:33:29,122 - selenium - INFO - Click on the element success,location method and value used：['class name', 'menu_two']
+2019-10-24 23:33:29,496 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 23:33:29,496 - selenium - INFO - 如何查看报表总汇
+2019-10-24 23:33:29,496 - selenium - INFO - Successful execution of test cases:访问金字塔代理教程相关页面
+
+2019-10-24 23:33:31,988 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-24 23:33:31,989 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-24 23:33:34,728 - selenium - INFO - 在section：title下读取pro的值
+2019-10-24 23:33:34,728 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 23:33:34,956 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-24 23:33:34,957 - selenium - INFO - 在section：telegram下读取chat_id的值

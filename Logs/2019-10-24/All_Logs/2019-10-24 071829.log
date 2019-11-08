@@ -1,0 +1,108 @@
+2019-10-24 07:18:29,896 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 07:18:29,896 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 07:18:29,897 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 07:18:29,897 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 07:18:31,988 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 07:18:32,121 - selenium - INFO - Browser maximization
+2019-10-24 07:18:32,145 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 07:18:32,146 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段是否为必填项
+2019-10-24 07:18:32,146 - selenium - INFO - input data:name:,pwd:,suc:0,assert:请输入账号
+2019-10-24 07:18:33,115 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:33,428 - selenium - INFO - Input content：
+2019-10-24 07:18:33,465 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:33,704 - selenium - INFO - Input content：
+2019-10-24 07:18:33,785 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:33,901 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:33,902 - selenium - INFO - Executing use test case:登录测试用例，检测密码字段是否为必填项
+2019-10-24 07:18:33,902 - selenium - INFO - input data:name:liwanlei,pwd:,suc:0,assert:请输入密码
+2019-10-24 07:18:34,006 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:34,409 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:18:34,478 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:34,613 - selenium - INFO - Input content：
+2019-10-24 07:18:34,652 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:34,728 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:34,729 - selenium - INFO - Executing use test case:登录测试用例，检测已存在的账号和错误的密码，是否能阻止登录，提示信息是否准确
+2019-10-24 07:18:34,729 - selenium - INFO - input data:name:yusheng,pwd:liwanlei11,suc:0,assert:帐号或密码错误
+2019-10-24 07:18:34,748 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:35,082 - selenium - INFO - Input content：yusheng
+2019-10-24 07:18:35,118 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:35,803 - selenium - INFO - Input content：liwanlei11
+2019-10-24 07:18:35,871 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:36,049 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:36,050 - selenium - INFO - Executing use test case:登录测试用例，检测未存在的账号和错误的密码，是否能阻止登录，提示信息是否准确（纯字母）
+2019-10-24 07:18:36,050 - selenium - INFO - input data:name:liwanlei,pwd:liwanlei,suc:0,assert:账号不存在
+2019-10-24 07:18:36,091 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:36,667 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:18:36,729 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:37,240 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:18:37,296 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:37,581 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:37,582 - selenium - INFO - Executing use test case:登录测试用例，检测未存在的账号和错误的密码，是否能阻止登录，提示信息是否准确（字母\数字\特殊字符组合）
+2019-10-24 07:18:37,582 - selenium - INFO - input data:name:###@*&_,pwd:liwanlei,suc:0,assert:用户名 必须全部由字母、数字、中划线或下划线字符构成
+2019-10-24 07:18:37,651 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:38,051 - selenium - INFO - Input content：###@*&_
+2019-10-24 07:18:38,110 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:38,488 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:18:38,523 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:38,602 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:38,603 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段长度不否符合规则，是否能阻止登录，提示信息是否准确（长度1）
+2019-10-24 07:18:38,603 - selenium - INFO - input data:name:y,pwd:liwanlei,suc:0,assert:请输入6-10位数字或字母组成的帐号
+2019-10-24 07:18:38,633 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:38,913 - selenium - INFO - Input content：y
+2019-10-24 07:18:38,953 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:39,188 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:18:39,252 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:39,504 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:39,504 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段长度是否符合规则，是否能阻止登录，提示信息是否准确（长度5）
+2019-10-24 07:18:39,504 - selenium - INFO - input data:name:enint,pwd:liwanlei,suc:0,assert:请输入6-10位数字或字母组成的帐号
+2019-10-24 07:18:39,538 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:39,884 - selenium - INFO - Input content：enint
+2019-10-24 07:18:40,005 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:40,475 - selenium - INFO - Input content：liwanlei
+2019-10-24 07:18:40,506 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-24 07:18:40,665 - selenium - ERROR - Failure of test case execution! Reason：find_element() argument after * must be an iterable, not WebElement
+2019-10-24 07:18:40,666 - selenium - INFO - Executing use test case:登录测试用例，检测账号字段长度是否符合规则，是否能阻止登录，提示信息是否准确（长度11）
+2019-10-24 07:18:40,666 - selenium - INFO - input data:name:enint678911,pwd:liwanlei,suc:0,assert:请输入6-10位数字或字母组成的帐号
+2019-10-24 07:18:40,762 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-24 07:18:41,265 - selenium - INFO - Input content：enint678911
+2019-10-24 07:18:41,348 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-24 07:18:41,689 - selenium - ERROR - Content input error
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 377, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/PycharmProjects/blr.9161252.com/Common/basePage.py", line 360, in type
+    element.send_keys(value)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/selenium/webdriver/remote/remote_connection.py", line 402, in _request
+    resp = http.request(method, url, body=body, headers=headers)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/poolmanager.py", line 324, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/root/PycharmProjects/blr.9161252.com/venv/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1336, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt

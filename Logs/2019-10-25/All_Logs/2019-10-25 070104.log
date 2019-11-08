@@ -1,0 +1,38 @@
+2019-10-25 07:01:05,492 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-25 07:01:05,492 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-25 07:01:05,493 - selenium - INFO - 在section：environment下读取url的值
+2019-10-25 07:01:05,493 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-25 07:01:15,202 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-25 07:01:15,355 - selenium - INFO - Browser maximization
+2019-10-25 07:01:15,392 - selenium - INFO - Set static wait time 10 seconds
+2019-10-25 07:01:15,393 - selenium - INFO - Executing test cases：新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:01:16,902 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:01:17,543 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-25 07:01:17,938 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-25 07:01:18,174 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.input-bg:nth-child(1)']
+2019-10-25 07:01:18,716 - selenium - INFO - Input content：enintech28
+2019-10-25 07:01:18,833 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'txtFacade']
+2019-10-25 07:01:19,708 - selenium - INFO - Input content：12345678
+2019-10-25 07:01:31,041 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.loginBtn']
+2019-10-25 07:01:31,363 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.loginBtn']
+2019-10-25 07:01:31,363 - selenium - ERROR - 定位验证码元素失败，原因：界面不存在验证码-Message: 
+
+2019-10-25 07:01:32,395 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:01:32,395 - selenium - INFO - JavaScript execution is successful，JavaScript content is：var q=document.documentElement.scrollTop=0
+2019-10-25 07:01:33,396 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:01:33,579 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['link text', '线上取款']
+2019-10-25 07:01:34,572 - selenium - INFO - Click on the element success,location method and value used：['link text', '线上取款']
+2019-10-25 07:01:34,615 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:01:34,974 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-25 07:01:35,990 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span']
+2019-10-25 07:01:36,450 - selenium - INFO - Click on the element success,location method and value used：['xpath', '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/ul/li/span']
+2019-10-25 07:01:36,493 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.toast']
+2019-10-25 07:01:36,683 - selenium - INFO - Obtained text：请绑定银行卡
+确认
+2019-10-25 07:01:38,067 - selenium - INFO - Forced wait 1 second
+2019-10-25 07:01:39,744 - selenium - INFO - Screenshot saved successfully!
+2019-10-25 07:01:39,744 - selenium - INFO - Successful execution of test cases:新注册会员，在未绑定银行卡的情况下，验证是否阻止提款申请
+2019-10-25 07:01:39,745 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[提款人姓名]字段是否不能为空
+2019-10-25 07:01:50,876 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能为特殊字符
+2019-10-25 07:02:02,290 - selenium - INFO - Executing test cases：绑定银行卡，已设置密保和资金密码，验证[银行卡号]字段是否不能小于16位

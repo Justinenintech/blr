@@ -1,0 +1,148 @@
+2019-10-24 06:53:47,506 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 06:53:47,507 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 06:53:47,507 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 06:53:47,507 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 06:53:49,241 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 06:53:49,360 - selenium - INFO - Browser maximization
+2019-10-24 06:53:49,375 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 06:53:49,375 - selenium - INFO - Executing test cases：未登录情况下，访问右侧悬浮窗口的加入会员页面
+2019-10-24 06:53:50,338 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:53:50,431 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:53:50,642 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 06:53:50,709 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.huiyuan']
+2019-10-24 06:53:51,653 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.huiyuan']
+2019-10-24 06:53:51,696 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['id', 'OK2']
+2019-10-24 06:53:51,845 - selenium - INFO - Click on the element success,location method and value used：['id', 'OK2']
+2019-10-24 06:53:51,892 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.err > span']
+2019-10-24 06:53:51,924 - selenium - INFO - Obtained text：帐号6-10位数字或字母
+2019-10-24 06:53:51,956 - selenium - INFO - Assert Verify success：expected outcome:{帐号6-10位数字或字母} == actual results:{帐号6-10位数字或字母}
+2019-10-24 06:53:52,546 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:53:52,547 - selenium - INFO - Successful execution of test cases：未登录情况下，访问右侧悬浮窗口的加入会员页面
+
+2019-10-24 06:53:52,547 - selenium - INFO - Executing use test case:未登录情况下，访问右侧悬浮窗口的在线客服页面
+2019-10-24 06:53:52,592 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.kefu']
+2019-10-24 06:53:54,092 - selenium - INFO - Obtained title：在线客服-Chat window
+2019-10-24 06:53:54,092 - selenium - INFO - Assert Verify success：expected outcome:{在线客服-Chat window} == actual results:{在线客服-Chat window}
+2019-10-24 06:53:54,258 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:53:54,358 - selenium - INFO - Successful execution of test case:未登录情况下，访问右侧悬浮窗口的在线客服页面
+
+2019-10-24 06:53:54,359 - selenium - INFO - Executing test cases：未登录情况下，访问右侧悬浮窗口的支付秒到帐页面
+2019-10-24 06:53:54,402 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:53:54,444 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:05,031 - selenium - INFO - Executing test cases：未登录情况下，访问左侧悬浮窗口的金管家页面
+2019-10-24 06:54:05,076 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:05,191 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:15,842 - selenium - INFO - Executing test cases：未登录情况下，访问左侧悬浮窗口的免息借呗页面
+2019-10-24 06:54:15,892 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:15,969 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:26,724 - selenium - INFO - Executing test cases：未登录情况下，关闭左侧和右侧悬浮窗，再执行刷新，验证悬浮窗是否成功加载
+2019-10-24 06:54:26,747 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:26,823 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:37,325 - selenium - INFO - Executing test cases：未登录情况下，关闭左侧和右侧悬浮窗，再执行刷新，验证悬浮窗是否成功加载
+2019-10-24 06:54:37,348 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:37,406 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:47,975 - selenium - INFO - Executing test cases：未登录情况下，访问轮播公告
+2019-10-24 06:54:47,995 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:48,062 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:54:58,948 - selenium - INFO - 在section：environment下读取browser的值
+2019-10-24 06:54:58,949 - selenium - INFO - Read browser configuration, value：chrome
+2019-10-24 06:54:58,949 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 06:54:58,949 - selenium - INFO - Read url configuration, value：http://blr.9161252.com/#/home
+2019-10-24 06:55:01,786 - selenium - INFO - Visit website：http://blr.9161252.com/#/home
+2019-10-24 06:55:01,956 - selenium - INFO - Browser maximization
+2019-10-24 06:55:01,963 - selenium - INFO - Set static wait time 10 seconds
+2019-10-24 06:55:01,964 - selenium - INFO - Executing test cases：访问关于我们页面
+2019-10-24 06:55:03,030 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:55:03,168 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.close']
+2019-10-24 06:55:03,431 - selenium - INFO - Click on the element success,location method and value used：['css selector', '.close']
+2019-10-24 06:55:04,432 - selenium - INFO - Forced wait 1 second
+2019-10-24 06:55:04,488 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'关于我们')]"]
+2019-10-24 06:55:05,361 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'关于我们')]"]
+2019-10-24 06:55:05,413 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.gywm_nr:nth-child(2) > .gywm_tit > p']
+2019-10-24 06:55:05,454 - selenium - INFO - Obtained text：关于我们
+2019-10-24 06:55:05,489 - selenium - INFO - Assert Verify success：expected outcome:{关于我们} == actual results:{关于我们}
+2019-10-24 06:55:06,121 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:06,121 - selenium - INFO - Successful execution of test cases：访问关于我们页面
+
+2019-10-24 06:55:06,121 - selenium - INFO - Executing test cases：访问联系我们页面
+2019-10-24 06:55:06,184 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'联系我们')]"]
+2019-10-24 06:55:06,310 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'联系我们')]"]
+2019-10-24 06:55:06,377 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.gys > div > p:nth-child(5)']
+2019-10-24 06:55:06,414 - selenium - INFO - Obtained text：会员邮箱：blrtsyx8@gmail.com
+2019-10-24 06:55:06,463 - selenium - INFO - Assert Verify success：expected outcome:{blrtsyx8@gmail.com} == actual results:{会员邮箱：blrtsyx8@gmail.com}
+2019-10-24 06:55:07,175 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:07,175 - selenium - INFO - Successful execution of test cases：访问联系我们页面
+
+2019-10-24 06:55:07,176 - selenium - INFO - Executing test cases：访问存款帮助页面
+2019-10-24 06:55:07,225 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'存款帮助')]"]
+2019-10-24 06:55:07,563 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'存款帮助')]"]
+2019-10-24 06:55:07,623 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.gywm_nr:nth-child(4) > .gywm_tit > p']
+2019-10-24 06:55:07,659 - selenium - INFO - Obtained text：存款帮助
+2019-10-24 06:55:07,703 - selenium - INFO - Assert Verify success：expected outcome:{存款帮助} == actual results:{存款帮助}
+2019-10-24 06:55:08,657 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:08,658 - selenium - INFO - Successful execution of test cases：访问存款帮助页面
+
+2019-10-24 06:55:08,659 - selenium - INFO - Executing test cases：访问取款帮助页面
+2019-10-24 06:55:08,728 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'取款帮助')]"]
+2019-10-24 06:55:08,903 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'取款帮助')]"]
+2019-10-24 06:55:09,010 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['css selector', '.gywm_nr:nth-child(3) > .gywm_tit > p']
+2019-10-24 06:55:09,070 - selenium - INFO - Obtained text：取款帮助
+2019-10-24 06:55:09,173 - selenium - INFO - Assert Verify success：expected outcome:{取款帮助} == actual results:{取款帮助}
+2019-10-24 06:55:10,066 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:10,066 - selenium - INFO - Successful execution of test cases：访问取款帮助页面
+
+2019-10-24 06:55:10,066 - selenium - INFO - Executing test cases：访问常见问题-一般常见问题页面
+2019-10-24 06:55:10,114 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'常见问题')]"]
+2019-10-24 06:55:10,258 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'常见问题')]"]
+2019-10-24 06:55:10,345 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'一般常见问题')]"]
+2019-10-24 06:55:10,409 - selenium - INFO - Obtained text：一般常见问题
+2019-10-24 06:55:10,628 - selenium - INFO - Assert Verify success：expected outcome:{一般常见问题} == actual results:{一般常见问题}
+2019-10-24 06:55:11,625 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:11,626 - selenium - INFO - Successful execution of test cases：访问常见问题-一般常见问题页面
+
+2019-10-24 06:55:11,626 - selenium - INFO - Executing test cases：访问常见问题-游戏及投注问题页面
+2019-10-24 06:55:11,692 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'游戏及投注问题')]"]
+2019-10-24 06:55:11,812 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'游戏及投注问题')]"]
+2019-10-24 06:55:11,842 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'游戏及投注问题')]"]
+2019-10-24 06:55:11,906 - selenium - INFO - Obtained text：游戏及投注问题
+2019-10-24 06:55:11,929 - selenium - INFO - Assert Verify success：expected outcome:{游戏及投注问题} == actual results:{游戏及投注问题}
+2019-10-24 06:55:12,671 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:12,672 - selenium - INFO - Successful execution of test cases：访问常见问题-游戏及投注问题页面
+
+2019-10-24 06:55:12,672 - selenium - INFO - Executing test cases：访问常见问题-游戏及投注问题页面
+2019-10-24 06:55:12,715 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'技术常见问题')]"]
+2019-10-24 06:55:12,870 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'技术常见问题')]"]
+2019-10-24 06:55:12,903 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'技术常见问题')]"]
+2019-10-24 06:55:12,946 - selenium - INFO - Obtained text：技术常见问题
+2019-10-24 06:55:12,985 - selenium - INFO - Assert Verify success：expected outcome:{技术常见问题} == actual results:{技术常见问题}
+2019-10-24 06:55:13,557 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:13,558 - selenium - INFO - Successful execution of test cases：访问常见问题-游戏及投注问题页面
+
+2019-10-24 06:55:13,558 - selenium - INFO - Executing test cases：访问责任与博彩
+2019-10-24 06:55:13,604 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'责任博彩')]"]
+2019-10-24 06:55:13,743 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'责任博彩')]"]
+2019-10-24 06:55:13,793 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'责任与博彩')]"]
+2019-10-24 06:55:13,917 - selenium - INFO - Obtained text：责任与博彩
+2019-10-24 06:55:13,957 - selenium - INFO - Assert Verify success：expected outcome:{责任与博彩} == actual results:{责任与博彩}
+2019-10-24 06:55:14,627 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:14,627 - selenium - INFO - Successful execution of test cases：访问责任与博彩
+
+2019-10-24 06:55:14,627 - selenium - INFO - Executing test cases：访问责任与博彩-条款与规则
+2019-10-24 06:55:14,692 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'条款与规则')]"]
+2019-10-24 06:55:14,806 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//li[contains(.,'条款与规则')]"]
+2019-10-24 06:55:14,834 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//li[contains(.,'条款与规则')]"]
+2019-10-24 06:55:14,888 - selenium - INFO - Obtained text：条款与规则
+2019-10-24 06:55:14,918 - selenium - INFO - Assert Verify success：expected outcome:{条款与规则} == actual results:{条款与规则}
+2019-10-24 06:55:15,698 - selenium - INFO - Screenshot saved successfully!
+2019-10-24 06:55:15,699 - selenium - INFO - Successful execution of test cases：访问责任与博彩-条款与规则
+
+2019-10-24 06:55:15,699 - selenium - INFO - Executing use test case:访问代理加盟页面,默认为金字塔代理模式
+2019-10-24 06:55:15,747 - selenium - INFO - Successful positioning of elements.Positioning method and values used：['xpath', "//a[contains(text(),'合作伙伴')]"]
+2019-10-24 06:55:17,040 - selenium - INFO - Click on the element success,location method and value used：['xpath', "//a[contains(text(),'合作伙伴')]"]
+2019-10-24 06:55:17,580 - selenium - INFO - Executing use test case:访问金字塔代理教程相关页面
+2019-10-24 06:55:20,327 - selenium - INFO - 在section：copy下读取pro_copy的值
+2019-10-24 06:55:20,348 - selenium - INFO - 在section：reports下读取pro的值
+2019-10-24 06:55:21,703 - selenium - INFO - 在section：title下读取pro的值
+2019-10-24 06:55:21,704 - selenium - INFO - 在section：environment下读取url的值
+2019-10-24 06:55:21,786 - selenium - INFO - 在section：telegram下读取token的值
+2019-10-24 06:55:21,786 - selenium - INFO - 在section：telegram下读取chat_id的值
